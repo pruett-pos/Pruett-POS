@@ -1,0 +1,136 @@
+{
+ "vendor_name": "Wausau Supply Company",
+ "document_type": "order_confirmation",
+ "effective_date": "2026-05-26",
+ "price_columns": [
+  {
+   "key": "net_price",
+   "label": "Sale price per U/M",
+   "unit": "uom"
+  }
+ ],
+ "items": [
+  {
+   "item_nos": [
+    "154790021"
+   ],
+   "description": "Seal 16\"x16' 3/8 NGSE DK Ced Vertical Pnl (66)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 66.3
+   },
+   "qty": 24
+  },
+  {
+   "item_nos": [
+    "1374484"
+   ],
+   "description": "Seal 4x10 3/8\" NGSL DK Ced Panel (45)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 137.52
+   },
+   "qty": 8
+  },
+  {
+   "item_nos": [
+    "139710993"
+   ],
+   "description": "Seal 19/32x3x16' Ced DK Trim (4/Pk-140)",
+   "uom": "PK",
+   "pack_qty": 4,
+   "prices": {
+    "net_price": 89.17
+   },
+   "qty": 10
+  },
+  {
+   "item_nos": [
+    "113179904"
+   ],
+   "description": "Coffee 5/4X4X16 OSC DK Ced w/Nail Fin 1/pk30",
+   "uom": "PK",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 163.2
+   },
+   "qty": 2
+  },
+  {
+   "item_nos": [
+    "70920849"
+   ],
+   "description": "Coffee 5/4X6X16' Ced DK Trim (2/Pk-70)",
+   "uom": "PK",
+   "pack_qty": 2,
+   "prices": {
+    "net_price": 96.12
+   },
+   "qty": 2
+  },
+  {
+   "item_nos": [
+    "31432194"
+   ],
+   "description": "Coffee 8oz DK Touch-Up Bottle w/ Brush (6)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 19.16
+   },
+   "qty": 1
+  },
+  {
+   "item_nos": [
+    "31431947"
+   ],
+   "description": "Seal 8oz DK Touch-Up Bottle w/ Brush (6)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 19.16
+   },
+   "qty": 1
+  },
+  {
+   "item_nos": [
+    "70920847"
+   ],
+   "description": "Coffee 5/4X4X16' Ced DK Trim (2/Pk-120)",
+   "uom": "PK",
+   "pack_qty": 2,
+   "prices": {
+    "net_price": 64.09
+   },
+   "qty": 2
+  },
+  {
+   "item_nos": [
+    "32324749"
+   ],
+   "description": "BR105 920 DK Seal,Royal Toasted Almond Dynaflex (12)",
+   "uom": "CRT",
+   "pack_qty": 12,
+   "prices": {
+    "net_price": 81.48
+   },
+   "qty": 1
+  },
+  {
+   "item_nos": [
+    "123846536"
+   ],
+   "description": "WSC Siding/Decking Pallet 45\"x12' (Returnable)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 55.02
+   },
+   "qty": 1
+  }
+ ],
+ "increases": [],
+ "notes": "Order confirmation (actual price paid), LP SmartSide."
+}

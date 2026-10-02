@@ -1,0 +1,25 @@
+{
+ "vendor_name": "Alside",
+ "document_type": "increase_notice",
+ "effective_date": "2026-08-10",
+ "price_columns": [],
+ "items": [],
+ "increases": [
+  {
+   "product_line": "Vinyl Siding, Soffit, and Accessories",
+   "pct": 6,
+   "effective_date": "2026-08-10"
+  },
+  {
+   "product_line": "ASCEND Composite Cladding and Accessories",
+   "pct": 3,
+   "effective_date": "2026-08-10"
+  },
+  {
+   "product_line": "Shakes and Scallops",
+   "pct": 6,
+   "effective_date": "2026-08-10"
+  }
+ ],
+ "notes": ""
+}

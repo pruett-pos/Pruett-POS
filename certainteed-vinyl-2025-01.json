@@ -1,0 +1,1906 @@
+{
+ "vendor_name": "CertainTeed (Saint-Gobain)",
+ "document_type": "price_list",
+ "effective_date": "2025-01-13",
+ "price_columns": [
+  {
+   "key": "color_car",
+   "label": "Color per carton",
+   "unit": "carton"
+  },
+  {
+   "key": "color_pc",
+   "label": "Color per piece",
+   "unit": "piece"
+  },
+  {
+   "key": "color_sq",
+   "label": "Color per square",
+   "unit": "square"
+  },
+  {
+   "key": "deluxe_car",
+   "label": "Deluxe per carton",
+   "unit": "carton"
+  },
+  {
+   "key": "deluxe_sq",
+   "label": "Deluxe per square",
+   "unit": "square"
+  },
+  {
+   "key": "premium_car",
+   "label": "Premium per carton",
+   "unit": "carton"
+  },
+  {
+   "key": "premium_pc",
+   "label": "Premium per piece",
+   "unit": "piece"
+  },
+  {
+   "key": "premium_sq",
+   "label": "Premium per square",
+   "unit": "square"
+  },
+  {
+   "key": "white_car",
+   "label": "White per carton",
+   "unit": "carton"
+  },
+  {
+   "key": "white_pc",
+   "label": "White per piece",
+   "unit": "piece"
+  },
+  {
+   "key": "white_sq",
+   "label": "White per square",
+   "unit": "square"
+  }
+ ],
+ "items": [
+  {
+   "item_nos": [
+    "30146"
+   ],
+   "description": "CI Individual 5\" Sawmill Shingle 1/3",
+   "uom": "SQ",
+   "pack_qty": 168,
+   "prices": {
+    "white_car": 225.35,
+    "white_sq": 676.05,
+    "color_car": 225.35,
+    "color_sq": 676.05,
+    "premium_car": 225.35,
+    "premium_sq": 676.05
+   }
+  },
+  {
+   "item_nos": [
+    "30106"
+   ],
+   "description": "CI T5 Sawmill Shingles",
+   "uom": "SQ",
+   "pack_qty": 8,
+   "prices": {
+    "white_car": 205.23,
+    "white_sq": 410.46,
+    "color_car": 205.23,
+    "color_sq": 410.46
+   }
+  },
+  {
+   "item_nos": [
+    "30137"
+   ],
+   "description": "CI S7 Long Straight Edge Perfection",
+   "uom": "SQ",
+   "pack_qty": 14,
+   "prices": {
+    "white_car": 205.23,
+    "white_sq": 410.46,
+    "color_car": 205.23,
+    "color_sq": 410.46,
+    "premium_car": 227.29,
+    "premium_sq": 454.58
+   }
+  },
+  {
+   "item_nos": [
+    "30144"
+   ],
+   "description": "CI D7 Staight Edge Perfection 3G",
+   "uom": "SQ",
+   "pack_qty": 11,
+   "prices": {
+    "white_car": 162.13,
+    "white_sq": 324.26,
+    "color_car": 162.13,
+    "color_sq": 324.26
+   }
+  },
+  {
+   "item_nos": [
+    "30143"
+   ],
+   "description": "CI D7 Staggered Perfection",
+   "uom": "SQ",
+   "pack_qty": 11,
+   "prices": {
+    "white_car": 163.96,
+    "white_sq": 327.92,
+    "color_car": 163.96,
+    "color_sq": 327.92
+   }
+  },
+  {
+   "item_nos": [
+    "30147"
+   ],
+   "description": "CI Shapes - Scallop",
+   "uom": "SQ",
+   "pack_qty": 18,
+   "prices": {
+    "white_car": 149.24,
+    "white_sq": 447.72,
+    "color_car": 149.24,
+    "color_sq": 447.72
+   }
+  },
+  {
+   "item_nos": [
+    "30148"
+   ],
+   "description": "CI Shapes - Octagon",
+   "uom": "SQ",
+   "pack_qty": 18,
+   "prices": {
+    "white_car": 149.24,
+    "white_sq": 447.72,
+    "color_car": 149.24,
+    "color_sq": 447.72
+   }
+  },
+  {
+   "item_nos": [
+    "30149"
+   ],
+   "description": "CI Shapes - Half Cove",
+   "uom": "SQ",
+   "pack_qty": 18,
+   "prices": {
+    "white_car": 149.24,
+    "white_sq": 447.72,
+    "color_car": 149.24,
+    "color_sq": 447.72
+   }
+  },
+  {
+   "item_nos": [
+    "30141"
+   ],
+   "description": "CI D7 Straight Edge Rough-Split Shakes",
+   "uom": "SQ",
+   "pack_qty": 9,
+   "prices": {
+    "white_car": 159.98,
+    "white_sq": 319.96,
+    "color_car": 159.98,
+    "color_sq": 319.96
+   }
+  },
+  {
+   "item_nos": [
+    "30136"
+   ],
+   "description": "CI Rough-Split Shakes D9",
+   "uom": "SQ",
+   "pack_qty": 7,
+   "prices": {
+    "white_car": 159.98,
+    "white_sq": 319.96,
+    "color_car": 159.98,
+    "color_sq": 319.96
+   }
+  },
+  {
+   "item_nos": [
+    "60109"
+   ],
+   "description": "Northwoods Sawmill Shingles Straight Edge S7",
+   "uom": "SQ",
+   "pack_qty": 17,
+   "prices": {
+    "color_car": 290.05,
+    "color_sq": 290.05
+   }
+  },
+  {
+   "item_nos": [
+    "60108"
+   ],
+   "description": "Northwoods Perfection Straight Edge S7",
+   "uom": "SQ",
+   "pack_qty": 17,
+   "prices": {
+    "color_car": 290.05,
+    "color_sq": 290.05
+   }
+  },
+  {
+   "item_nos": [
+    "60106"
+   ],
+   "description": "Northwoods Rough-Split Straight Edge S7",
+   "uom": "SQ",
+   "pack_qty": 17,
+   "prices": {
+    "color_car": 290.05,
+    "color_sq": 290.05
+   }
+  },
+  {
+   "item_nos": [
+    "60148"
+   ],
+   "description": "Northwoods Rough-Split Shakes Stag S9",
+   "uom": "SQ",
+   "pack_qty": 13,
+   "prices": {
+    "color_car": 305.61,
+    "color_sq": 305.61
+   }
+  },
+  {
+   "item_nos": [
+    "58134"
+   ],
+   "description": "CedarBoards Insulated D6",
+   "uom": "SQ",
+   "pack_qty": 8,
+   "prices": {
+    "color_car": 267.85,
+    "color_sq": 267.85,
+    "deluxe_car": 301.75,
+    "deluxe_sq": 301.75
+   }
+  },
+  {
+   "item_nos": [
+    "58106"
+   ],
+   "description": "CedarBoards Insulated S7",
+   "uom": "SQ",
+   "pack_qty": 14,
+   "prices": {
+    "color_car": 276.94,
+    "color_sq": 276.94,
+    "deluxe_car": 309.75,
+    "deluxe_sq": 309.75
+   }
+  },
+  {
+   "item_nos": [
+    "58153"
+   ],
+   "description": "Cedarboards S12 Ins Board & Bat 10Ft",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "color_car": 304.19,
+    "color_sq": 304.19,
+    "deluxe_car": 343.18,
+    "deluxe_sq": 343.18
+   }
+  },
+  {
+   "item_nos": [
+    "58145"
+   ],
+   "description": "Cedarboards XL Insulated D6\"",
+   "uom": "SQ",
+   "pack_qty": 6,
+   "prices": {
+    "color_car": 289.91,
+    "color_sq": 289.91,
+    "deluxe_car": 324.46,
+    "deluxe_sq": 324.46
+   }
+  },
+  {
+   "item_nos": [
+    "58144"
+   ],
+   "description": "Cedarboards XL Insulated S7\"",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "color_car": 301.59,
+    "color_sq": 301.59,
+    "deluxe_car": 339.16,
+    "deluxe_sq": 339.16
+   }
+  },
+  {
+   "item_nos": [
+    "63106"
+   ],
+   "description": "CERTAplank S7 WG 12'",
+   "uom": "SQ",
+   "pack_qty": 14,
+   "prices": {
+    "color_car": 225.0,
+    "color_sq": 225.0,
+    "deluxe_car": 225.0,
+    "deluxe_sq": 225.0
+   }
+  },
+  {
+   "item_nos": [
+    "33110"
+   ],
+   "description": "Monogram D4 WG",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 232.98,
+    "color_sq": 116.49,
+    "deluxe_car": 265.61,
+    "deluxe_sq": 132.8
+   }
+  },
+  {
+   "item_nos": [
+    "33101"
+   ],
+   "description": "Monogram D4 Blends WG",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "premium_car": 405.46,
+    "premium_sq": 202.73
+   }
+  },
+  {
+   "item_nos": [
+    "33122"
+   ],
+   "description": "Monogram D5 WG",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 232.98,
+    "color_sq": 116.49,
+    "deluxe_car": 265.61,
+    "deluxe_sq": 132.81
+   }
+  },
+  {
+   "item_nos": [
+    "33125"
+   ],
+   "description": "Monogram D5 DL WG",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 232.98,
+    "color_sq": 116.49,
+    "deluxe_car": 265.61,
+    "deluxe_sq": 132.81
+   }
+  },
+  {
+   "item_nos": [
+    "33103"
+   ],
+   "description": "Monogram D5 DL Blends WG",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "premium_car": 405.46,
+    "premium_sq": 202.73
+   }
+  },
+  {
+   "item_nos": [
+    "33114"
+   ],
+   "description": "Monogram 46 Long D4",
+   "uom": "SQ",
+   "pack_qty": 18,
+   "prices": {
+    "color_car": 247.69,
+    "color_sq": 123.85,
+    "deluxe_car": 304.87,
+    "deluxe_sq": 152.43
+   }
+  },
+  {
+   "item_nos": [
+    "33126"
+   ],
+   "description": "Monogram 46 Long D5 DL",
+   "uom": "SQ",
+   "pack_qty": 15,
+   "prices": {
+    "color_car": 247.69,
+    "color_sq": 123.85
+   }
+  },
+  {
+   "item_nos": [
+    "33139"
+   ],
+   "description": "Monogram 46 Long D4 20'",
+   "uom": "SQ",
+   "pack_qty": 15,
+   "prices": {
+    "color_car": 257.5,
+    "color_sq": 128.75,
+    "deluxe_car": 324.49,
+    "deluxe_sq": 162.25
+   }
+  },
+  {
+   "item_nos": [
+    "33145"
+   ],
+   "description": "Monogram 46XL D4 25'",
+   "uom": "SQ",
+   "pack_qty": 12,
+   "prices": {
+    "color_car": 264.87,
+    "color_sq": 132.44,
+    "deluxe_car": 324.49,
+    "deluxe_sq": 162.24
+   }
+  },
+  {
+   "item_nos": [
+    "36110"
+   ],
+   "description": "Rest Classic D4 WG",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 218.09,
+    "color_sq": 109.04,
+    "deluxe_car": 249.46,
+    "deluxe_sq": 124.73
+   }
+  },
+  {
+   "item_nos": [
+    "36119"
+   ],
+   "description": "Rest Classic D4-1/2 DL WG",
+   "uom": "SQ",
+   "pack_qty": 22,
+   "prices": {
+    "color_car": 218.09,
+    "color_sq": 109.04,
+    "deluxe_car": 249.46,
+    "deluxe_sq": 124.73
+   }
+  },
+  {
+   "item_nos": [
+    "36122"
+   ],
+   "description": "Rest Classic D5 WG",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 218.09,
+    "color_sq": 109.05
+   }
+  },
+  {
+   "item_nos": [
+    "36118"
+   ],
+   "description": "Rest Classic D4-1/2 Smooth",
+   "uom": "SQ",
+   "pack_qty": 22,
+   "prices": {
+    "color_car": 243.32,
+    "color_sq": 121.66
+   }
+  },
+  {
+   "item_nos": [
+    "36132"
+   ],
+   "description": "Rest Classic T3 Smooth",
+   "uom": "SQ",
+   "pack_qty": 22,
+   "prices": {
+    "color_car": 243.32,
+    "color_sq": 121.66
+   }
+  },
+  {
+   "item_nos": [
+    "58153"
+   ],
+   "description": "Cedarboards S12 Ins Board & Bat 10Ft",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "color_car": 304.19,
+    "color_sq": 304.19,
+    "deluxe_car": 343.18,
+    "deluxe_sq": 343.18
+   }
+  },
+  {
+   "item_nos": [
+    "34137"
+   ],
+   "description": "Board & Batten 8\" Vert 12'6\"",
+   "uom": "SQ",
+   "pack_qty": 12,
+   "prices": {
+    "color_car": 170.46,
+    "color_sq": 170.46
+   }
+  },
+  {
+   "item_nos": [
+    "34138"
+   ],
+   "description": "Board & Batten 8\" Vert 10'",
+   "uom": "SQ",
+   "pack_qty": 15,
+   "prices": {
+    "color_car": 170.46,
+    "color_sq": 170.46
+   }
+  },
+  {
+   "item_nos": [
+    "34136"
+   ],
+   "description": "Board & Batten 7\" Vert 10'",
+   "uom": "SQ",
+   "pack_qty": 34,
+   "prices": {
+    "color_car": 321.47,
+    "color_sq": 160.74,
+    "deluxe_car": 385.0,
+    "deluxe_sq": 192.5
+   }
+  },
+  {
+   "item_nos": [
+    "63108"
+   ],
+   "description": "Reverse Board & Batten WG 10'",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 236.39,
+    "color_sq": 254.18,
+    "deluxe_car": 236.39,
+    "deluxe_sq": 254.18
+   }
+  },
+  {
+   "item_nos": [
+    "38102"
+   ],
+   "description": "Carolina Beaded 6-1/2 Brushed",
+   "uom": "SQ",
+   "pack_qty": 30,
+   "prices": {
+    "color_car": 321.82,
+    "color_sq": 160.91
+   }
+  },
+  {
+   "item_nos": [
+    "39110"
+   ],
+   "description": "MainStreet D4 WG",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 197.59,
+    "color_sq": 98.8,
+    "deluxe_car": 231.45,
+    "deluxe_sq": 115.73
+   }
+  },
+  {
+   "item_nos": [
+    "39131"
+   ],
+   "description": "MainStreet T3 Brushed",
+   "uom": "SQ",
+   "pack_qty": 22,
+   "prices": {
+    "color_car": 214.26,
+    "color_sq": 107.13
+   }
+  },
+  {
+   "item_nos": [
+    "39122"
+   ],
+   "description": "MainStreet D5 WG",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 197.59,
+    "color_sq": 98.8,
+    "deluxe_car": 231.45,
+    "deluxe_sq": 115.73
+   }
+  },
+  {
+   "item_nos": [
+    "39113"
+   ],
+   "description": "MainStreet D4 DL WG",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 197.59,
+    "color_sq": 98.8,
+    "deluxe_car": 231.45,
+    "deluxe_sq": 115.73
+   }
+  },
+  {
+   "item_nos": [
+    "39125"
+   ],
+   "description": "MainStreet D5 DL WG",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 197.59,
+    "color_sq": 98.8,
+    "deluxe_car": 231.45,
+    "deluxe_sq": 115.73
+   }
+  },
+  {
+   "item_nos": [
+    "39102"
+   ],
+   "description": "MainStreet 6-1/2 Beaded Brushed",
+   "uom": "SQ",
+   "pack_qty": 30,
+   "prices": {
+    "color_car": 261.47,
+    "color_sq": 130.74
+   }
+  },
+  {
+   "item_nos": [
+    "39104"
+   ],
+   "description": "MainStreet S8 WG",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 311.54,
+    "color_sq": 155.77
+   }
+  },
+  {
+   "item_nos": [
+    "40110"
+   ],
+   "description": "American Legend D4 WG",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 196.76,
+    "color_sq": 98.38,
+    "deluxe_car": 233.62,
+    "deluxe_sq": 116.81
+   }
+  },
+  {
+   "item_nos": [
+    "40119"
+   ],
+   "description": "American Legend D4-1/2 DL WG",
+   "uom": "SQ",
+   "pack_qty": 22,
+   "prices": {
+    "color_car": 196.76,
+    "color_sq": 98.38,
+    "deluxe_car": 233.62,
+    "deluxe_sq": 116.81
+   }
+  },
+  {
+   "item_nos": [
+    "40122"
+   ],
+   "description": "American Legend D5 WG",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 196.76,
+    "color_sq": 98.38,
+    "deluxe_car": 233.62,
+    "deluxe_sq": 116.81
+   }
+  },
+  {
+   "item_nos": [
+    "43110"
+   ],
+   "description": "Encore D4 WG",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 159.15,
+    "color_sq": 79.58
+   }
+  },
+  {
+   "item_nos": [
+    "43119"
+   ],
+   "description": "Encore D4-1/2 DL WG",
+   "uom": "SQ",
+   "pack_qty": 22,
+   "prices": {
+    "color_car": 159.15,
+    "color_sq": 79.57
+   }
+  },
+  {
+   "item_nos": [
+    "43122"
+   ],
+   "description": "Encore D5 WG",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 159.15,
+    "color_sq": 79.58
+   }
+  },
+  {
+   "item_nos": [
+    "46228"
+   ],
+   "description": "T3-1/3 InvisiVent Soffit",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "color_car": 176.42,
+    "color_sq": 176.42,
+    "premium_car": 213.2,
+    "premium_sq": 213.2
+   }
+  },
+  {
+   "item_nos": [
+    "46229"
+   ],
+   "description": "T3-1/3 Solid Soffit",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "color_car": 176.42,
+    "color_sq": 176.42,
+    "premium_car": 213.2,
+    "premium_sq": 213.2
+   }
+  },
+  {
+   "item_nos": [
+    "46230"
+   ],
+   "description": "Perimeter Soffit T3-1/3 Hd Vnt",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 265.43,
+    "color_sq": 132.72,
+    "premium_car": 313.2,
+    "premium_sq": 156.6
+   }
+  },
+  {
+   "item_nos": [
+    "46231"
+   ],
+   "description": "Perimeter Soffit T3-1/3 Solid",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 265.43,
+    "color_sq": 132.72,
+    "premium_car": 313.2,
+    "premium_sq": 156.6
+   }
+  },
+  {
+   "item_nos": [
+    "47201"
+   ],
+   "description": "Ironmax D5 Solid Soffit",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 308.38,
+    "color_sq": 154.19
+   }
+  },
+  {
+   "item_nos": [
+    "47205"
+   ],
+   "description": "Ironmax D5 Vent Soffit",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 308.38,
+    "color_sq": 154.19
+   }
+  },
+  {
+   "item_nos": [
+    "46209"
+   ],
+   "description": "Beaded T2 Soffit Solid Smooth",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 243.21,
+    "color_sq": 243.21
+   }
+  },
+  {
+   "item_nos": [
+    "46211"
+   ],
+   "description": "Beaded T2 Soffit Vented Smooth",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 243.21,
+    "color_sq": 243.21
+   }
+  },
+  {
+   "item_nos": [
+    "48216"
+   ],
+   "description": "Universal T4 Soffit Solid Matte",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 229.54,
+    "color_sq": 119.55,
+    "premium_car": 270.84,
+    "premium_sq": 141.06
+   }
+  },
+  {
+   "item_nos": [
+    "48224"
+   ],
+   "description": "Universal T4 Soffit Full Vent Matte",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 229.54,
+    "color_sq": 119.55,
+    "premium_car": 270.84,
+    "premium_sq": 141.06
+   }
+  },
+  {
+   "item_nos": [
+    "48220"
+   ],
+   "description": "Universal T4 Soffit Ctr Vent Matte",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 229.54,
+    "color_sq": 119.55
+   }
+  },
+  {
+   "item_nos": [
+    "48222"
+   ],
+   "description": "Universal D5 Soffit Solid WG",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 233.44,
+    "color_sq": 116.72,
+    "premium_car": 275.44,
+    "premium_sq": 137.72
+   }
+  },
+  {
+   "item_nos": [
+    "48223"
+   ],
+   "description": "Universal D5 Soffit Vented WG",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 233.44,
+    "color_sq": 116.72,
+    "premium_car": 275.44,
+    "premium_sq": 137.72
+   }
+  },
+  {
+   "item_nos": [
+    "49216"
+   ],
+   "description": "Value T4 Soffit Solid Matte",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 195.05,
+    "color_sq": 101.59
+   }
+  },
+  {
+   "item_nos": [
+    "49224"
+   ],
+   "description": "Value T4 Soffit Full Vent Matte",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 195.05,
+    "color_sq": 101.59
+   }
+  },
+  {
+   "item_nos": [
+    "49220"
+   ],
+   "description": "Value T4 Soffit Ctr Vent Matte",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 195.05,
+    "color_sq": 101.59
+   }
+  },
+  {
+   "item_nos": [
+    "49204"
+   ],
+   "description": "Value D5 Soffit Solid Matte",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 203.17,
+    "color_sq": 101.59
+   }
+  },
+  {
+   "item_nos": [
+    "49208"
+   ],
+   "description": "Value D5 Soffit Full Vent Matte",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "color_car": 203.17,
+    "color_sq": 101.59
+   }
+  },
+  {
+   "item_nos": [
+    "51405"
+   ],
+   "description": "CI Individual 5\" Sawmill Corner",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "white_car": 246.64,
+    "white_pc": 10.28,
+    "color_car": 246.64,
+    "color_pc": 10.28,
+    "premium_car": 246.64,
+    "premium_pc": 10.28
+   }
+  },
+  {
+   "item_nos": [
+    "51406"
+   ],
+   "description": "CI T5 Offset Cornerpost",
+   "uom": "SQ",
+   "pack_qty": 32,
+   "prices": {
+    "white_car": 427.07,
+    "white_pc": 13.35,
+    "color_car": 427.07,
+    "color_pc": 13.35
+   }
+  },
+  {
+   "item_nos": [
+    "51459"
+   ],
+   "description": "CI 7\" Perf Offset Mit Cornerpost*",
+   "uom": "SQ",
+   "pack_qty": 40,
+   "prices": {
+    "white_car": 288.81,
+    "white_pc": 7.22,
+    "color_car": 288.81,
+    "color_pc": 7.22,
+    "premium_car": 347.67,
+    "premium_pc": 8.69
+   }
+  },
+  {
+   "item_nos": [
+    "51448"
+   ],
+   "description": "CI Perf D7 Cornerpost Legacy",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "white_car": 269.68,
+    "white_pc": 13.48,
+    "color_car": 269.68,
+    "color_pc": 13.48
+   }
+  },
+  {
+   "item_nos": [
+    "51451"
+   ],
+   "description": "CI D7 Staggered Perfection Mit Cornerpost",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "white_car": 269.19,
+    "white_pc": 13.46,
+    "color_car": 269.19,
+    "color_pc": 13.46
+   }
+  },
+  {
+   "item_nos": [
+    "51450"
+   ],
+   "description": "CI Straight Edge Rough-Split D7 Cornerpost",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "white_car": 269.19,
+    "white_pc": 13.46,
+    "color_car": 269.19,
+    "color_pc": 13.46
+   }
+  },
+  {
+   "item_nos": [
+    "51432"
+   ],
+   "description": "CI Rough-Split D9 Cornerpost",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "white_car": 266.41,
+    "white_pc": 13.32,
+    "color_car": 266.41,
+    "color_pc": 13.32
+   }
+  },
+  {
+   "item_nos": [
+    "51401"
+   ],
+   "description": "3/4\" Outside Cornerpost-10' WG",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 156.21,
+    "white_pc": 15.62,
+    "color_car": 156.21,
+    "color_pc": 15.62,
+    "premium_car": 266.06,
+    "premium_pc": 26.61
+   }
+  },
+  {
+   "item_nos": [
+    "51404"
+   ],
+   "description": "3/4\" Outside Cornerpost Matte",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 156.21,
+    "white_pc": 15.62,
+    "color_car": 156.21,
+    "color_pc": 15.62
+   }
+  },
+  {
+   "item_nos": [
+    "51402"
+   ],
+   "description": "3/4\" OS Cornerpost WG 12'",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 250.71,
+    "white_pc": 25.07,
+    "color_car": 250.71,
+    "color_pc": 25.07
+   }
+  },
+  {
+   "item_nos": [
+    "51458"
+   ],
+   "description": "3/4\" Outside Cornerpost WG 20'",
+   "uom": "SQ",
+   "pack_qty": 6,
+   "prices": {
+    "white_car": 236.34,
+    "white_pc": 39.39
+   }
+  },
+  {
+   "item_nos": [
+    "51412"
+   ],
+   "description": "1-1/4\" Insulated Outside Cornerpost",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 379.2,
+    "white_pc": 37.92,
+    "color_car": 379.2,
+    "color_pc": 37.92
+   }
+  },
+  {
+   "item_nos": [
+    "51409"
+   ],
+   "description": "1\" Outside Cornerpost WG",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 263.32,
+    "white_pc": 26.33,
+    "color_car": 263.32,
+    "color_pc": 26.33
+   }
+  },
+  {
+   "item_nos": [
+    "51436"
+   ],
+   "description": "3/4\" Inside Cornerpost Matte",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 119.97,
+    "white_pc": 12.0,
+    "color_car": 119.97,
+    "color_pc": 12.0,
+    "premium_car": 160.27,
+    "premium_pc": 16.03
+   }
+  },
+  {
+   "item_nos": [
+    "51446"
+   ],
+   "description": "1-1/4\" Pocket Inside Cornerpost",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 188.5,
+    "white_pc": 18.85,
+    "color_car": 188.5,
+    "color_pc": 18.85
+   }
+  },
+  {
+   "item_nos": [
+    "51420"
+   ],
+   "description": "Traditional SuperCorner Matte",
+   "uom": "SQ",
+   "pack_qty": 6,
+   "prices": {
+    "white_car": 615.88,
+    "white_pc": 102.65,
+    "color_car": 615.88,
+    "color_pc": 102.65
+   }
+  },
+  {
+   "item_nos": [
+    "51447"
+   ],
+   "description": "1-1/4\" Pckt Traditional SuperCorner",
+   "uom": "SQ",
+   "pack_qty": 6,
+   "prices": {
+    "white_car": 678.82,
+    "white_pc": 113.14
+   }
+  },
+  {
+   "item_nos": [
+    "51424"
+   ],
+   "description": "Fluted SuperCorner Matte",
+   "uom": "SQ",
+   "pack_qty": 6,
+   "prices": {
+    "white_car": 474.82,
+    "white_pc": 79.14
+   }
+  },
+  {
+   "item_nos": [
+    "51440"
+   ],
+   "description": "5\" Corner Cap Matte",
+   "uom": "SQ",
+   "pack_qty": 5,
+   "prices": {
+    "white_car": 164.94,
+    "white_pc": 32.99
+   }
+  },
+  {
+   "item_nos": [
+    "51445"
+   ],
+   "description": "Bay Window Cornerpost",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 238.11,
+    "white_pc": 23.81,
+    "color_car": 238.11,
+    "color_pc": 23.81
+   }
+  },
+  {
+   "item_nos": [
+    "54706"
+   ],
+   "description": "3-1/2\" Lineal Matte",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 386.31,
+    "white_pc": 38.63,
+    "color_car": 402.32,
+    "color_pc": 40.23
+   }
+  },
+  {
+   "item_nos": [
+    "54712"
+   ],
+   "description": "5\" Lineal Matte",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 445.63,
+    "white_pc": 44.56,
+    "color_car": 465.19,
+    "color_pc": 46.52
+   }
+  },
+  {
+   "item_nos": [
+    "54707"
+   ],
+   "description": "3-1/2\" Insul Lineal 1-1/4 Pckt",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 548.16,
+    "white_pc": 54.82
+   }
+  },
+  {
+   "item_nos": [
+    "54714"
+   ],
+   "description": "5\" Double Channel Lineal",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 571.24,
+    "white_pc": 57.12
+   }
+  },
+  {
+   "item_nos": [
+    "55814"
+   ],
+   "description": "Insulated Band Board",
+   "uom": "SQ",
+   "pack_qty": 5,
+   "prices": {
+    "white_car": 509.35,
+    "white_pc": 101.87
+   }
+  },
+  {
+   "item_nos": [
+    "55817"
+   ],
+   "description": "Cornice Molding Matte 10 Pc",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 121.94,
+    "white_pc": 12.19,
+    "color_car": 121.94,
+    "color_pc": 12.19
+   }
+  },
+  {
+   "item_nos": [
+    "55812"
+   ],
+   "description": "Cornice Molding Receiver Matte",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "white_car": 211.39,
+    "white_pc": 8.81
+   }
+  },
+  {
+   "item_nos": [
+    "55815"
+   ],
+   "description": "Finish Board",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 143.46,
+    "white_pc": 14.35
+   }
+  },
+  {
+   "item_nos": [
+    "55813"
+   ],
+   "description": "2-1/2\" Window/Door Casing Matte",
+   "uom": "SQ",
+   "pack_qty": 20,
+   "prices": {
+    "white_car": 360.44,
+    "white_pc": 18.02
+   }
+  },
+  {
+   "item_nos": [
+    "55804"
+   ],
+   "description": "Crown Molding 10' Matte",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 246.51,
+    "white_pc": 24.65
+   }
+  },
+  {
+   "item_nos": [
+    "55805"
+   ],
+   "description": "Crown Molding Cap Cap Matte",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 70.31,
+    "white_pc": 7.03
+   }
+  },
+  {
+   "item_nos": [
+    "50306"
+   ],
+   "description": "3/8\" J-Channel Matte",
+   "uom": "SQ",
+   "pack_qty": 48,
+   "prices": {
+    "white_car": 262.93,
+    "white_pc": 5.48,
+    "color_car": 262.93,
+    "color_pc": 5.48
+   }
+  },
+  {
+   "item_nos": [
+    "50305"
+   ],
+   "description": "1/2\" J-Channel Matte",
+   "uom": "SQ",
+   "pack_qty": 48,
+   "prices": {
+    "white_car": 219.25,
+    "white_pc": 4.57,
+    "color_car": 219.25,
+    "color_pc": 4.57,
+    "premium_car": 306.21,
+    "premium_pc": 6.38
+   }
+  },
+  {
+   "item_nos": [
+    "50310"
+   ],
+   "description": "5/8\" J-Channel Matte",
+   "uom": "SQ",
+   "pack_qty": 48,
+   "prices": {
+    "white_car": 231.87,
+    "white_pc": 4.83,
+    "color_car": 231.87,
+    "color_pc": 4.83,
+    "premium_car": 315.34,
+    "premium_pc": 6.57
+   }
+  },
+  {
+   "item_nos": [
+    "50303"
+   ],
+   "description": "3/4\" J-Channel Matte",
+   "uom": "SQ",
+   "pack_qty": 48,
+   "prices": {
+    "white_car": 243.21,
+    "white_pc": 5.07,
+    "color_car": 243.21,
+    "color_pc": 5.07,
+    "premium_car": 375.51,
+    "premium_pc": 7.82
+   }
+  },
+  {
+   "item_nos": [
+    "50309"
+   ],
+   "description": "3/4\" Flexible J-Channel Matte",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 290.35,
+    "white_pc": 29.04
+   }
+  },
+  {
+   "item_nos": [
+    "50302"
+   ],
+   "description": "1\" J-Channel Matte",
+   "uom": "SQ",
+   "pack_qty": 40,
+   "prices": {
+    "white_car": 295.6,
+    "white_pc": 7.39,
+    "color_car": 295.6,
+    "color_pc": 7.39
+   }
+  },
+  {
+   "item_nos": [
+    "50301"
+   ],
+   "description": "1-1/4\" J-Channel Matte",
+   "uom": "SQ",
+   "pack_qty": 48,
+   "prices": {
+    "white_car": 403.25,
+    "white_pc": 8.4,
+    "color_car": 403.25,
+    "color_pc": 8.4
+   }
+  },
+  {
+   "item_nos": [
+    "56901"
+   ],
+   "description": "Trim Coil PVC",
+   "uom": "SQ",
+   "pack_qty": 1,
+   "prices": {
+    "white_car": 132.06,
+    "white_pc": 132.06,
+    "color_car": 132.06,
+    "color_pc": 132.06,
+    "premium_car": 132.06,
+    "premium_pc": 132.06
+   }
+  },
+  {
+   "item_nos": [
+    "56917"
+   ],
+   "description": "CI Undersill 12 Pc",
+   "uom": "SQ",
+   "pack_qty": 12,
+   "prices": {
+    "white_car": 110.57,
+    "white_pc": 9.21,
+    "color_car": 110.57,
+    "color_pc": 9.21
+   }
+  },
+  {
+   "item_nos": [
+    "56916"
+   ],
+   "description": "Dual Undersill Matte 12 Pc",
+   "uom": "SQ",
+   "pack_qty": 12,
+   "prices": {
+    "white_car": 148.84,
+    "white_pc": 12.4,
+    "color_car": 148.84,
+    "color_pc": 12.4
+   }
+  },
+  {
+   "item_nos": [
+    "56904"
+   ],
+   "description": "Undersill Trim Matte",
+   "uom": "SQ",
+   "pack_qty": 48,
+   "prices": {
+    "white_car": 262.11,
+    "white_pc": 5.46,
+    "color_car": 262.11,
+    "color_pc": 5.46,
+    "premium_car": 420.25,
+    "premium_pc": 8.76
+   }
+  },
+  {
+   "item_nos": [
+    "56907"
+   ],
+   "description": "Drip Cap Matte",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "white_car": 233.43,
+    "white_pc": 9.73
+   }
+  },
+  {
+   "item_nos": [
+    "53610"
+   ],
+   "description": "Shake 4\" Starter Strip",
+   "uom": "SQ",
+   "pack_qty": 25,
+   "prices": {
+    "white_car": 252.8,
+    "white_pc": 10.11
+   }
+  },
+  {
+   "item_nos": [
+    "53609"
+   ],
+   "description": "Insulated Siding Starter Strip",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "white_car": 453.01,
+    "white_pc": 18.88
+   }
+  },
+  {
+   "item_nos": [
+    "53601"
+   ],
+   "description": "2-1/4\" Vinyl Starter Strip",
+   "uom": "SQ",
+   "pack_qty": 40,
+   "prices": {
+    "white_car": 249.4,
+    "white_pc": 6.24
+   }
+  },
+  {
+   "item_nos": [
+    "53602"
+   ],
+   "description": "2-1/2\" Metal Starter Matte",
+   "uom": "SQ",
+   "pack_qty": 50,
+   "prices": {
+    "white_car": 329.33,
+    "white_pc": 6.59
+   }
+  },
+  {
+   "item_nos": [
+    "53604"
+   ],
+   "description": "5\" Metal Starter",
+   "uom": "SQ",
+   "pack_qty": 25,
+   "prices": {
+    "white_car": 292.88,
+    "white_pc": 11.72
+   }
+  },
+  {
+   "item_nos": [
+    "53605"
+   ],
+   "description": "New Const Win/Dr Starter Strip",
+   "uom": "SQ",
+   "pack_qty": 36,
+   "prices": {
+    "white_car": 369.06,
+    "white_pc": 10.25
+   }
+  },
+  {
+   "item_nos": [
+    "53612"
+   ],
+   "description": "3-1/2\" Metal Starter Strip CertaPlank",
+   "uom": "SQ",
+   "pack_qty": 25,
+   "prices": {
+    "white_car": 231.0,
+    "white_pc": 9.24
+   }
+  },
+  {
+   "item_nos": [
+    "52506"
+   ],
+   "description": "3/4\" F-Channel",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "white_car": 277.22,
+    "white_pc": 11.55
+   }
+  },
+  {
+   "item_nos": [
+    "52502"
+   ],
+   "description": "5/8\" F-Channel",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "white_car": 228.09,
+    "white_pc": 9.5,
+    "color_car": 228.09,
+    "color_pc": 9.5,
+    "premium_car": 253.59,
+    "premium_pc": 10.57
+   }
+  },
+  {
+   "item_nos": [
+    "52503"
+   ],
+   "description": "Deluxe F-Channel Matte",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "white_car": 301.8,
+    "white_pc": 12.58
+   }
+  },
+  {
+   "item_nos": [
+    "52504"
+   ],
+   "description": "1/2\" H-Bar Matte",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 235.48,
+    "white_pc": 23.55,
+    "color_car": 245.73,
+    "color_pc": 24.57
+   }
+  },
+  {
+   "item_nos": [
+    "52505"
+   ],
+   "description": "3/8\" H Bar Matte",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 234.17,
+    "white_pc": 23.42
+   }
+  },
+  {
+   "item_nos": [
+    "52507"
+   ],
+   "description": "3/4\" H Bar Matte",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 251.76,
+    "white_pc": 25.18,
+    "color_car": 262.79,
+    "color_pc": 26.28
+   }
+  },
+  {
+   "item_nos": [
+    "56501"
+   ],
+   "description": "Dryer Vent",
+   "uom": "SQ",
+   "pack_qty": 5,
+   "prices": {
+    "color_car": 62.5,
+    "color_pc": 12.5
+   }
+  },
+  {
+   "item_nos": [
+    "56510"
+   ],
+   "description": "Dryer Vent Tube",
+   "uom": "SQ",
+   "pack_qty": 5,
+   "prices": {
+    "white_car": 60.0,
+    "white_pc": 12.0
+   }
+  },
+  {
+   "item_nos": [
+    "56502"
+   ],
+   "description": "Universal Block",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "color_car": 77.5,
+    "color_pc": 7.75
+   }
+  },
+  {
+   "item_nos": [
+    "56503"
+   ],
+   "description": "Surface Mount Block",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "color_car": 60.0,
+    "color_pc": 6.0
+   }
+  },
+  {
+   "item_nos": [
+    "56504"
+   ],
+   "description": "Recessed Split",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "color_car": 80.0,
+    "color_pc": 8.0
+   }
+  },
+  {
+   "item_nos": [
+    "56505"
+   ],
+   "description": "Meter Base",
+   "uom": "SQ",
+   "pack_qty": 5,
+   "prices": {
+    "white_car": 120.0,
+    "white_pc": 24.0
+   }
+  },
+  {
+   "item_nos": [
+    "56506"
+   ],
+   "description": "Intake Exhaust",
+   "uom": "SQ",
+   "pack_qty": 5,
+   "prices": {
+    "white_car": 110.0,
+    "white_pc": 22.0
+   }
+  },
+  {
+   "item_nos": [
+    "56507"
+   ],
+   "description": "Mini Block",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 65.0,
+    "white_pc": 6.5
+   }
+  },
+  {
+   "item_nos": [
+    "56508"
+   ],
+   "description": "Jumbo Block",
+   "uom": "SQ",
+   "pack_qty": 5,
+   "prices": {
+    "white_car": 57.5,
+    "white_pc": 11.5
+   }
+  },
+  {
+   "item_nos": [
+    "56509"
+   ],
+   "description": "Electric Box",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "white_car": 150.0,
+    "white_pc": 15.0
+   }
+  },
+  {
+   "item_nos": [
+    "57994"
+   ],
+   "description": "Shingle Repair Kit",
+   "uom": "SQ",
+   "pack_qty": 144,
+   "prices": {
+    "white_car": 284.38,
+    "white_pc": 1.97
+   }
+  },
+  {
+   "item_nos": [
+    "57999"
+   ],
+   "description": "Monogram Zip Tool",
+   "uom": "SQ",
+   "pack_qty": 1,
+   "prices": {
+    "white_car": 11.99,
+    "white_pc": 11.99
+   }
+  }
+ ],
+ "increases": [],
+ "notes": "Customer #1006020. Terms 2% 30 / net 31."
+}

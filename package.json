@@ -1,0 +1,33 @@
+{
+  "name": "pruett-pos",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Pruett Home Improvement Supply point of sale",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server/src/index.js",
+    "dev": "node --watch server/src/index.js",
+    "migrate": "node server/src/migrate.js",
+    "seed": "node server/src/seed.js",
+    "build": "cd web && npm install && npm run build",
+    "test": "node --test --test-concurrency=1 server/test/*.test.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "csv-parse": "^7.0.3",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1",
+    "imapflow": "^2.2.1",
+    "mailparser": "^3.9.33",
+    "multer": "^2.4.0",
+    "nodemailer": "^10.0.13",
+    "pg": "^8.23.1",
+    "stripe": "^23.0.0",
+    "zod": "^4.6.5"
+  }
+}

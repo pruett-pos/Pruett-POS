@@ -1,0 +1,4367 @@
+{
+ "vendor_name": "Rollex Corporation",
+ "document_type": "price_list",
+ "effective_date": "2026-04-13",
+ "price_columns": [
+  {
+   "key": "20k_unit",
+   "label": "20K lbs price per square/piece",
+   "unit": "square_or_piece"
+  },
+  {
+   "key": "20k_carton",
+   "label": "20K lbs price per carton",
+   "unit": "carton"
+  },
+  {
+   "key": "10k_unit",
+   "label": "10K lbs price per square/piece",
+   "unit": "square_or_piece"
+  },
+  {
+   "key": "10k_carton",
+   "label": "10K lbs price per carton",
+   "unit": "carton"
+  },
+  {
+   "key": "5k_unit",
+   "label": "5K lbs price per square/piece",
+   "unit": "square_or_piece"
+  },
+  {
+   "key": "5k_carton",
+   "label": "5K lbs price per carton",
+   "unit": "carton"
+  },
+  {
+   "key": "2_5k_unit",
+   "label": "2.5K lbs price per square/piece",
+   "unit": "square_or_piece"
+  },
+  {
+   "key": "2_5k_carton",
+   "label": "2.5K lbs price per carton",
+   "unit": "carton"
+  }
+ ],
+ "items": [
+  {
+   "item_nos": [
+    "A-SYS312-"
+   ],
+   "description": "System 3-12\" Solid",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 177.49,
+    "20k_carton": 340.56,
+    "10k_unit": 180.28,
+    "10k_carton": 346.07,
+    "5k_unit": 184.37,
+    "5k_carton": 353.91,
+    "2_5k_unit": 186.11,
+    "2_5k_carton": 357.08
+   }
+  },
+  {
+   "item_nos": [
+    "A-SYS312CV-"
+   ],
+   "description": "System 3-12\" Center Vent",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 177.49,
+    "20k_carton": 340.56,
+    "10k_unit": 180.28,
+    "10k_carton": 346.07,
+    "5k_unit": 184.37,
+    "5k_carton": 353.91,
+    "2_5k_unit": 186.11,
+    "2_5k_carton": 357.08
+   }
+  },
+  {
+   "item_nos": [
+    "A-SYS312L-"
+   ],
+   "description": "System 3-12\" Fully Vented",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 177.49,
+    "20k_carton": 340.56,
+    "10k_unit": 180.28,
+    "10k_carton": 346.07,
+    "5k_unit": 184.37,
+    "5k_carton": 353.91,
+    "2_5k_unit": 186.11,
+    "2_5k_carton": 357.08
+   }
+  },
+  {
+   "item_nos": [
+    "A-SYS316-"
+   ],
+   "description": "System 3-16\" Solid",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 177.49,
+    "20k_carton": 340.56,
+    "10k_unit": 180.28,
+    "10k_carton": 346.07,
+    "5k_unit": 184.37,
+    "5k_carton": 353.91,
+    "2_5k_unit": 186.11,
+    "2_5k_carton": 357.08
+   }
+  },
+  {
+   "item_nos": [
+    "A-SYS316CV-"
+   ],
+   "description": "System 3-16\" Center Vent",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 177.49,
+    "20k_carton": 340.56,
+    "10k_unit": 180.28,
+    "10k_carton": 346.07,
+    "5k_unit": 184.37,
+    "5k_carton": 353.91,
+    "2_5k_unit": 186.11,
+    "2_5k_carton": 357.08
+   }
+  },
+  {
+   "item_nos": [
+    "A-SYS316L-"
+   ],
+   "description": "System 3-16\" Fully Vented",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 177.49,
+    "20k_carton": 340.56,
+    "10k_unit": 180.28,
+    "10k_carton": 346.07,
+    "5k_unit": 184.37,
+    "5k_carton": 353.91,
+    "2_5k_unit": 186.11,
+    "2_5k_carton": 357.08
+   }
+  },
+  {
+   "item_nos": [
+    "A-HV16-"
+   ],
+   "description": "Stealth Soffit (Hidden Vent) 16\" 10",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "20k_unit": 232.18,
+    "20k_carton": 371.5,
+    "10k_unit": 235.88,
+    "10k_carton": 377.36,
+    "5k_unit": 241.21,
+    "5k_carton": 385.96,
+    "2_5k_unit": 243.41,
+    "2_5k_carton": 389.54
+   }
+  },
+  {
+   "item_nos": [
+    "A-ASVP12-"
+   ],
+   "description": "Double 6\" Soffit Solid",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 194.45,
+    "20k_carton": 373.23,
+    "10k_unit": 197.52,
+    "10k_carton": 379.13,
+    "5k_unit": 201.99,
+    "5k_carton": 387.75,
+    "2_5k_unit": 203.88,
+    "2_5k_carton": 391.2
+   }
+  },
+  {
+   "item_nos": [
+    "A-ALVP12-"
+   ],
+   "description": "Double 6\" Soffit Lanced",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 194.45,
+    "20k_carton": 373.23,
+    "10k_unit": 197.52,
+    "10k_carton": 379.13,
+    "5k_unit": 201.99,
+    "5k_carton": 387.75,
+    "2_5k_unit": 203.88,
+    "2_5k_carton": 391.2
+   }
+  },
+  {
+   "item_nos": [
+    "A-T-"
+   ],
+   "description": "Tensile 44- 12\" Solid",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 169.7,
+    "20k_carton": 325.72,
+    "10k_unit": 172.44,
+    "10k_carton": 330.81,
+    "5k_unit": 176.34,
+    "5k_carton": 338.42,
+    "2_5k_unit": 177.89,
+    "2_5k_carton": 341.47
+   }
+  },
+  {
+   "item_nos": [
+    "A-TCV-"
+   ],
+   "description": "Tensile 44- 12\" Center Vented",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 169.7,
+    "20k_carton": 325.72,
+    "10k_unit": 172.44,
+    "10k_carton": 330.81,
+    "5k_unit": 176.34,
+    "5k_carton": 338.42,
+    "2_5k_unit": 177.89,
+    "2_5k_carton": 341.47
+   }
+  },
+  {
+   "item_nos": [
+    "A-T16-"
+   ],
+   "description": "Tensile 44- 16\" Solid",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 169.7,
+    "20k_carton": 325.72,
+    "10k_unit": 172.44,
+    "10k_carton": 330.81,
+    "5k_unit": 176.34,
+    "5k_carton": 338.42,
+    "2_5k_unit": 177.89,
+    "2_5k_carton": 341.47
+   }
+  },
+  {
+   "item_nos": [
+    "A-T16CV-"
+   ],
+   "description": "Tensile 44- 16\" Center Vented",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 169.7,
+    "20k_carton": 325.72,
+    "10k_unit": 172.44,
+    "10k_carton": 330.81,
+    "5k_unit": 176.34,
+    "5k_carton": 338.42,
+    "2_5k_unit": 177.89,
+    "2_5k_carton": 341.47
+   }
+  },
+  {
+   "item_nos": [
+    "CS12S"
+   ],
+   "description": "12\" Solid Soffit",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 195.07,
+    "20k_carton": 374.39,
+    "10k_unit": 198.16,
+    "10k_carton": 380.25,
+    "5k_unit": 202.67,
+    "5k_carton": 388.99,
+    "2_5k_unit": 204.48,
+    "2_5k_carton": 392.46
+   }
+  },
+  {
+   "item_nos": [
+    "CS12CV"
+   ],
+   "description": "12\" Solid Center Vent",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 195.07,
+    "20k_carton": 374.39,
+    "10k_unit": 198.16,
+    "10k_carton": 380.25,
+    "5k_unit": 202.67,
+    "5k_carton": 388.99,
+    "2_5k_unit": 204.48,
+    "2_5k_carton": 392.46
+   }
+  },
+  {
+   "item_nos": [
+    "CS12L"
+   ],
+   "description": "12\" Vented",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 195.07,
+    "20k_carton": 374.39,
+    "10k_unit": 198.16,
+    "10k_carton": 380.25,
+    "5k_unit": 202.67,
+    "5k_carton": 388.99,
+    "2_5k_unit": 204.48,
+    "2_5k_carton": 392.46
+   }
+  },
+  {
+   "item_nos": [
+    "CS16S"
+   ],
+   "description": "16\" Solid Soffit",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 195.07,
+    "20k_carton": 374.39,
+    "10k_unit": 198.16,
+    "10k_carton": 380.25,
+    "5k_unit": 202.67,
+    "5k_carton": 388.99,
+    "2_5k_unit": 204.48,
+    "2_5k_carton": 392.46
+   }
+  },
+  {
+   "item_nos": [
+    "CS16CV"
+   ],
+   "description": "16\" Solid Center Vent",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 195.07,
+    "20k_carton": 374.39,
+    "10k_unit": 198.16,
+    "10k_carton": 380.25,
+    "5k_unit": 202.67,
+    "5k_carton": 388.99,
+    "2_5k_unit": 204.48,
+    "2_5k_carton": 392.46
+   }
+  },
+  {
+   "item_nos": [
+    "CS16L"
+   ],
+   "description": "16\" Vented",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 195.07,
+    "20k_carton": 374.39,
+    "10k_unit": 198.16,
+    "10k_carton": 380.25,
+    "5k_unit": 202.67,
+    "5k_carton": 388.99,
+    "2_5k_unit": 204.48,
+    "2_5k_carton": 392.46
+   }
+  },
+  {
+   "item_nos": [
+    "CSE"
+   ],
+   "description": "3/8\" J Channel Soffit Starter",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 8.98,
+    "20k_carton": 223.95,
+    "10k_unit": 9.22,
+    "10k_carton": 230.5,
+    "5k_unit": 9.32,
+    "5k_carton": 233.0,
+    "2_5k_unit": 9.45,
+    "2_5k_carton": 236.25
+   }
+  },
+  {
+   "item_nos": [
+    "CSS"
+   ],
+   "description": "F Channel Soffit Starter",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 16.03,
+    "20k_carton": 320.28,
+    "10k_unit": 16.3,
+    "10k_carton": 326.0,
+    "5k_unit": 16.66,
+    "5k_carton": 333.2,
+    "2_5k_unit": 16.83,
+    "2_5k_carton": 336.6
+   }
+  },
+  {
+   "item_nos": [
+    "B-SL4-"
+   ],
+   "description": "4\" Fascia Smooth",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 17.3,
+    "20k_carton": 432.5,
+    "10k_unit": 17.5,
+    "10k_carton": 437.5,
+    "5k_unit": 17.93,
+    "5k_carton": 448.25,
+    "2_5k_unit": 18.1,
+    "2_5k_carton": 452.5
+   }
+  },
+  {
+   "item_nos": [
+    "B-SL4WG-"
+   ],
+   "description": "4\" Fascia Woodgrain",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 17.3,
+    "20k_carton": 432.5,
+    "10k_unit": 17.5,
+    "10k_carton": 437.5,
+    "5k_unit": 17.93,
+    "5k_carton": 448.25,
+    "2_5k_unit": 18.1,
+    "2_5k_carton": 452.5
+   }
+  },
+  {
+   "item_nos": [
+    "B-SL6-"
+   ],
+   "description": "6\" Fascia Smooth",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 17.72,
+    "20k_carton": 443.0,
+    "10k_unit": 18.1,
+    "10k_carton": 452.5,
+    "5k_unit": 18.45,
+    "5k_carton": 461.25,
+    "2_5k_unit": 18.51,
+    "2_5k_carton": 462.75
+   }
+  },
+  {
+   "item_nos": [
+    "B-SL6WG-"
+   ],
+   "description": "6\" Fascia Woodgrain",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 17.72,
+    "20k_carton": 443.0,
+    "10k_unit": 18.1,
+    "10k_carton": 452.5,
+    "5k_unit": 18.45,
+    "5k_carton": 461.25,
+    "2_5k_unit": 18.51,
+    "2_5k_carton": 462.75
+   }
+  },
+  {
+   "item_nos": [
+    "B-SL8-"
+   ],
+   "description": "8\" Fascia Smooth",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 24.09,
+    "20k_carton": 602.25,
+    "10k_unit": 24.6,
+    "10k_carton": 615.0,
+    "5k_unit": 24.89,
+    "5k_carton": 622.25,
+    "2_5k_unit": 25.33,
+    "2_5k_carton": 633.25
+   }
+  },
+  {
+   "item_nos": [
+    "B-SL8WG-"
+   ],
+   "description": "8\" Fascia Woodgrain",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 24.09,
+    "20k_carton": 602.25,
+    "10k_unit": 24.6,
+    "10k_carton": 615.0,
+    "5k_unit": 24.89,
+    "5k_carton": 622.25,
+    "2_5k_unit": 25.33,
+    "2_5k_carton": 633.25
+   }
+  },
+  {
+   "item_nos": [
+    "B-SL10-"
+   ],
+   "description": "10\" Fascia Smooth",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 33.17,
+    "20k_carton": 829.25,
+    "10k_unit": 33.7,
+    "10k_carton": 840.7,
+    "5k_unit": 34.5,
+    "5k_carton": 860.98,
+    "2_5k_unit": 34.79,
+    "2_5k_carton": 868.58
+   }
+  },
+  {
+   "item_nos": [
+    "B-SL10WG-"
+   ],
+   "description": "10\" Fascia Woodgrain",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 33.17,
+    "20k_carton": 829.25,
+    "10k_unit": 33.7,
+    "10k_carton": 840.7,
+    "5k_unit": 34.5,
+    "5k_carton": 860.98,
+    "2_5k_unit": 34.79,
+    "2_5k_carton": 868.58
+   }
+  },
+  {
+   "item_nos": [
+    "C-S-"
+   ],
+   "description": "F Channel Soffit Starter- Part S",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 15.15,
+    "20k_carton": 303.0,
+    "10k_unit": 15.41,
+    "10k_carton": 308.2,
+    "5k_unit": 15.71,
+    "5k_carton": 314.2,
+    "2_5k_unit": 15.83,
+    "2_5k_carton": 316.6
+   }
+  },
+  {
+   "item_nos": [
+    "C-RS-"
+   ],
+   "description": "Reversible F Channel Starter- Part RS",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 14.58,
+    "20k_carton": 291.6,
+    "10k_unit": 14.88,
+    "10k_carton": 297.6,
+    "5k_unit": 15.17,
+    "5k_carton": 303.4,
+    "2_5k_unit": 15.24,
+    "2_5k_carton": 304.8
+   }
+  },
+  {
+   "item_nos": [
+    "D-MD-"
+   ],
+   "description": "Miter Divider",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 19.74,
+    "20k_carton": 197.4,
+    "10k_unit": 20.05,
+    "10k_carton": 200.5,
+    "5k_unit": 20.4,
+    "5k_carton": 204.0,
+    "2_5k_unit": 20.6,
+    "2_5k_carton": 206.0
+   }
+  },
+  {
+   "item_nos": [
+    "C-E-"
+   ],
+   "description": "Utility Trim & J Channel Soffit Starter Part E",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 8.43,
+    "20k_carton": 210.75,
+    "10k_unit": 8.64,
+    "10k_carton": 216.0,
+    "5k_unit": 8.78,
+    "5k_carton": 219.5,
+    "2_5k_unit": 8.86,
+    "2_5k_carton": 221.5
+   }
+  },
+  {
+   "item_nos": [
+    "C-C-"
+   ],
+   "description": "Cove Molding Soffit Starter- Part C",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 15.78,
+    "20k_carton": 315.6,
+    "10k_unit": 16.08,
+    "10k_carton": 321.6,
+    "5k_unit": 16.48,
+    "5k_carton": 329.6,
+    "2_5k_unit": 16.58,
+    "2_5k_carton": 331.6
+   }
+  },
+  {
+   "item_nos": [
+    "C-AFR119-"
+   ],
+   "description": "1/2\" F Channel for Double 6\" soffit- 12'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 18.26,
+    "20k_carton": 456.5,
+    "10k_unit": 18.54,
+    "10k_carton": 463.5,
+    "5k_unit": 18.91,
+    "5k_carton": 472.75,
+    "2_5k_unit": 19.14,
+    "2_5k_carton": 478.5
+   }
+  },
+  {
+   "item_nos": [
+    "C-AWFJ12-"
+   ],
+   "description": "1/2\" J Channel for Double 6\" Soffit- 12'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 10.38,
+    "20k_carton": 259.5,
+    "10k_unit": 10.7,
+    "10k_carton": 267.5,
+    "5k_unit": 10.83,
+    "5k_carton": 270.75,
+    "2_5k_unit": 10.97,
+    "2_5k_carton": 274.25
+   }
+  },
+  {
+   "item_nos": [
+    "D-RDCR19-"
+   ],
+   "description": "1/2\" Miter Divider",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 27.31,
+    "20k_carton": 273.1,
+    "10k_unit": 27.72,
+    "10k_carton": 277.2,
+    "5k_unit": 28.38,
+    "5k_carton": 283.8,
+    "2_5k_unit": 28.63,
+    "2_5k_carton": 286.3
+   }
+  },
+  {
+   "item_nos": [
+    "D-KI-"
+   ],
+   "description": "Inside Fascia Corner- Smooth",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 3.07,
+    "20k_carton": 30.7,
+    "10k_unit": 3.07,
+    "10k_carton": 30.7,
+    "5k_unit": 3.07,
+    "5k_carton": 30.7,
+    "2_5k_unit": 3.1,
+    "2_5k_carton": 31.0
+   }
+  },
+  {
+   "item_nos": [
+    "D-KIWG-"
+   ],
+   "description": "Inside Fascia Corner- Woodgrain",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 3.07,
+    "20k_carton": 30.7,
+    "10k_unit": 3.07,
+    "10k_carton": 30.7,
+    "5k_unit": 3.07,
+    "5k_carton": 30.7,
+    "2_5k_unit": 3.1,
+    "2_5k_carton": 31.0
+   }
+  },
+  {
+   "item_nos": [
+    "D-KO-"
+   ],
+   "description": "Outside Fascia Corner- Smooth",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 3.07,
+    "20k_carton": 30.7,
+    "10k_unit": 3.07,
+    "10k_carton": 30.7,
+    "5k_unit": 3.07,
+    "5k_carton": 30.7,
+    "2_5k_unit": 3.1,
+    "2_5k_carton": 31.0
+   }
+  },
+  {
+   "item_nos": [
+    "D-KOWG-"
+   ],
+   "description": "Outside Fascia Corner- Woodgrain",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 3.07,
+    "20k_carton": 30.7,
+    "10k_unit": 3.07,
+    "10k_carton": 30.7,
+    "5k_unit": 3.07,
+    "5k_carton": 30.7,
+    "2_5k_unit": 3.1,
+    "2_5k_carton": 31.0
+   }
+  },
+  {
+   "item_nos": [
+    "K-BS238-"
+   ],
+   "description": "8\" Gable Fascia",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 33.23,
+    "20k_carton": 664.07,
+    "10k_unit": 33.77,
+    "10k_carton": 675.4,
+    "5k_unit": 34.51,
+    "5k_carton": 690.2,
+    "2_5k_unit": 34.8,
+    "2_5k_carton": 696.0
+   }
+  },
+  {
+   "item_nos": [
+    "D-NAILS-"
+   ],
+   "description": "Aluminum 1 1/4\" Trim Nails",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_unit": 40.48,
+    "20k_carton": 40.48,
+    "10k_unit": 40.48,
+    "10k_carton": 40.48,
+    "5k_unit": 40.48,
+    "5k_carton": 40.48,
+    "2_5k_unit": 40.48,
+    "2_5k_carton": 40.48
+   }
+  },
+  {
+   "item_nos": [
+    "S-STNAIL-"
+   ],
+   "description": "Stainless Steel 1 1/4\" Trim Nails",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_carton": 18.0,
+    "10k_carton": 18.0,
+    "5k_carton": 18.0,
+    "2_5k_carton": 18.0
+   }
+  },
+  {
+   "item_nos": [
+    "D-CAN-"
+   ],
+   "description": "Spray Touch-up Paint",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_unit": 21.25,
+    "10k_unit": 21.25,
+    "5k_unit": 21.25,
+    "2_5k_unit": 21.25
+   }
+  },
+  {
+   "item_nos": [
+    "D-JAR-"
+   ],
+   "description": "Touch Up Paint - 1 oz. jar",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_unit": 9.39,
+    "10k_unit": 9.39,
+    "5k_unit": 9.39,
+    "2_5k_unit": 9.39
+   }
+  },
+  {
+   "item_nos": [
+    "D-ODE-"
+   ],
+   "description": "1 3/4\" Overhanging Drip Edge- 12'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 9.68,
+    "20k_carton": 242.0,
+    "10k_unit": 9.81,
+    "10k_carton": 245.25,
+    "5k_unit": 10.06,
+    "5k_carton": 251.5,
+    "2_5k_unit": 10.15,
+    "2_5k_carton": 253.75
+   }
+  },
+  {
+   "item_nos": [
+    "D-ODE112-"
+   ],
+   "description": "1 1/2\" Overhanging Drip Edge- 10'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 7.57,
+    "20k_carton": 378.5,
+    "10k_unit": 7.71,
+    "10k_carton": 385.5,
+    "5k_unit": 7.85,
+    "5k_carton": 392.5,
+    "2_5k_unit": 7.92,
+    "2_5k_carton": 396.0
+   }
+  },
+  {
+   "item_nos": [
+    "D-ODET4410-"
+   ],
+   "description": "1 3/4\" Tensile Overhanging Drip Edge - 10'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 6.89,
+    "20k_carton": 344.5,
+    "10k_unit": 7.13,
+    "10k_carton": 356.5,
+    "5k_unit": 7.27,
+    "5k_carton": 363.5,
+    "2_5k_unit": 7.33,
+    "2_5k_carton": 366.5
+   }
+  },
+  {
+   "item_nos": [
+    "D-ODET4412-"
+   ],
+   "description": "1 3/4\" Tensile Overhanging Drip Edge - 12'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 8.27,
+    "20k_carton": 206.75,
+    "10k_unit": 8.28,
+    "10k_carton": 207.0,
+    "5k_unit": 8.48,
+    "5k_carton": 212.0,
+    "2_5k_unit": 8.74,
+    "2_5k_carton": 218.5
+   }
+  },
+  {
+   "item_nos": [
+    "D-1.5ODET44-"
+   ],
+   "description": "1 1/2\" Tensile Overhanging Drip Edge 10'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 6.57,
+    "20k_carton": 328.5,
+    "10k_unit": 6.77,
+    "10k_carton": 338.5,
+    "5k_unit": 6.86,
+    "5k_carton": 343.0,
+    "2_5k_unit": 6.92,
+    "2_5k_carton": 346.0
+   }
+  },
+  {
+   "item_nos": [
+    "D-1.5ODET4412-"
+   ],
+   "description": "1 1/2\" Tensile Overhanging Drip Edge 12'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 7.99,
+    "20k_carton": 199.75,
+    "10k_unit": 8.19,
+    "10k_carton": 204.75,
+    "5k_unit": 8.34,
+    "5k_carton": 208.5,
+    "2_5k_unit": 8.43,
+    "2_5k_carton": 210.75
+   }
+  },
+  {
+   "item_nos": [
+    "K-BS242-"
+   ],
+   "description": "2 1/2\" Shingle Lifter ODE",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 9.57,
+    "20k_carton": 478.5,
+    "10k_unit": 9.65,
+    "10k_carton": 482.5,
+    "5k_unit": 9.89,
+    "5k_carton": 494.5,
+    "2_5k_unit": 9.99,
+    "2_5k_carton": 499.5
+   }
+  },
+  {
+   "item_nos": [
+    "D-GA-"
+   ],
+   "description": "Gutter Apron",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 9.25,
+    "20k_carton": 462.5,
+    "10k_unit": 9.37,
+    "10k_carton": 468.5,
+    "5k_unit": 9.59,
+    "5k_carton": 479.5,
+    "2_5k_unit": 9.67,
+    "2_5k_carton": 483.5
+   }
+  },
+  {
+   "item_nos": [
+    "E-DC1-"
+   ],
+   "description": "1\" Drip Cap- 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 9.35,
+    "20k_carton": 233.75,
+    "10k_unit": 9.65,
+    "10k_carton": 241.25,
+    "5k_unit": 9.76,
+    "5k_carton": 244.0,
+    "2_5k_unit": 9.93,
+    "2_5k_carton": 248.25
+   }
+  },
+  {
+   "item_nos": [
+    "E-DC11/2-"
+   ],
+   "description": "1 1/2\" Drip Cap- 10'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 6.6,
+    "20k_carton": 330.0,
+    "10k_unit": 6.82,
+    "10k_carton": 341.0,
+    "5k_unit": 6.93,
+    "5k_carton": 346.5,
+    "2_5k_unit": 6.99,
+    "2_5k_carton": 349.5
+   }
+  },
+  {
+   "item_nos": [
+    "E-DC11/8-"
+   ],
+   "description": "1 1/8\" Drip Cap- 10'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 6.52,
+    "20k_carton": 326.0,
+    "10k_unit": 6.77,
+    "10k_carton": 338.5,
+    "5k_unit": 6.92,
+    "5k_carton": 346.0,
+    "2_5k_unit": 6.98,
+    "2_5k_carton": 349.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-RTW-"
+   ],
+   "description": "Roof to Wall Flashing",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 22.25,
+    "20k_carton": 222.5,
+    "10k_unit": 22.62,
+    "10k_carton": 226.2,
+    "5k_unit": 23.15,
+    "5k_carton": 231.5,
+    "2_5k_unit": 23.43,
+    "2_5k_carton": 234.3
+   }
+  },
+  {
+   "item_nos": [
+    "E-3RTW"
+   ],
+   "description": "3\" Roof to Wall Flashing",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 14.56,
+    "20k_carton": 145.6,
+    "10k_unit": 14.82,
+    "10k_carton": 148.2,
+    "5k_unit": 15.12,
+    "5k_carton": 151.2,
+    "2_5k_unit": 15.28,
+    "2_5k_carton": 152.8
+   }
+  },
+  {
+   "item_nos": [
+    "E-3/8Z-"
+   ],
+   "description": "3/8\" Z Wall Flashing",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 7.37,
+    "20k_carton": 184.25,
+    "10k_unit": 7.44,
+    "10k_carton": 186.0,
+    "5k_unit": 7.69,
+    "5k_carton": 192.25,
+    "2_5k_unit": 7.76,
+    "2_5k_carton": 194.0
+   }
+  },
+  {
+   "item_nos": [
+    "K-BL-"
+   ],
+   "description": "Brick Ledge",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 12.06,
+    "20k_carton": 603.0,
+    "10k_unit": 12.46,
+    "10k_carton": 623.0,
+    "5k_unit": 12.61,
+    "5k_carton": 630.5,
+    "2_5k_unit": 12.81,
+    "2_5k_carton": 640.5
+   }
+  },
+  {
+   "item_nos": [
+    "E-E7/8-"
+   ],
+   "description": "7/8\" J Channel",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 9.72,
+    "20k_carton": 243.0,
+    "10k_unit": 9.91,
+    "10k_carton": 247.75,
+    "5k_unit": 10.13,
+    "5k_carton": 253.25,
+    "2_5k_unit": 10.21,
+    "2_5k_carton": 255.25
+   }
+  },
+  {
+   "item_nos": [
+    "E-WF-"
+   ],
+   "description": "Window Flashing",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 7.22,
+    "20k_carton": 361.0,
+    "10k_unit": 7.36,
+    "10k_carton": 368.0,
+    "5k_unit": 7.53,
+    "5k_carton": 376.5,
+    "2_5k_unit": 7.56,
+    "2_5k_carton": 378.0
+   }
+  },
+  {
+   "item_nos": [
+    "K-BS208-"
+   ],
+   "description": "Anderson Brick Molding",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 16.54,
+    "20k_carton": 330.8,
+    "10k_unit": 16.77,
+    "10k_carton": 335.4,
+    "5k_unit": 17.21,
+    "5k_carton": 344.2,
+    "2_5k_unit": 17.35,
+    "2_5k_carton": 347.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-13/8WC-"
+   ],
+   "description": "1 3/8\" Window Cap- 10' Painted",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 8.48,
+    "20k_carton": 424.0,
+    "10k_unit": 8.88,
+    "10k_carton": 444.0,
+    "5k_unit": 8.88,
+    "5k_carton": 444.0,
+    "2_5k_unit": 8.88,
+    "2_5k_carton": 444.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-13/8WC"
+   ],
+   "description": "1 3/8\" Window Cap'- 10'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 8.03,
+    "20k_carton": 401.5,
+    "10k_unit": 8.47,
+    "10k_carton": 423.5,
+    "5k_unit": 8.47,
+    "5k_carton": 423.5,
+    "2_5k_unit": 8.47,
+    "2_5k_carton": 423.5
+   }
+  },
+  {
+   "item_nos": [
+    "E-11/4WC-"
+   ],
+   "description": "1 1/4\" Window Cap- 10' Painted",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 8.48,
+    "20k_carton": 424.0,
+    "10k_unit": 8.88,
+    "10k_carton": 444.0,
+    "5k_unit": 8.88,
+    "5k_carton": 444.0,
+    "2_5k_unit": 8.88,
+    "2_5k_carton": 444.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-11/4WC"
+   ],
+   "description": "1 1/4\" Window Cap- 10'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 8.03,
+    "20k_carton": 401.5,
+    "10k_unit": 8.47,
+    "10k_carton": 423.5,
+    "5k_unit": 8.47,
+    "5k_carton": 423.5,
+    "2_5k_unit": 8.47,
+    "2_5k_carton": 423.5
+   }
+  },
+  {
+   "item_nos": [
+    "F-10X50RV"
+   ],
+   "description": "10\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 75,
+   "prices": {
+    "20k_unit": 30.25,
+    "20k_carton": 2268.75,
+    "10k_unit": 30.25,
+    "10k_carton": 2268.75,
+    "5k_unit": 30.25,
+    "5k_carton": 2268.75,
+    "2_5k_unit": 30.25,
+    "2_5k_carton": 2268.75
+   }
+  },
+  {
+   "item_nos": [
+    "F-14X50RV"
+   ],
+   "description": "14\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 42.34,
+    "20k_carton": 2117.0,
+    "10k_unit": 42.34,
+    "10k_carton": 2117.0,
+    "5k_unit": 42.34,
+    "5k_carton": 2117.0,
+    "2_5k_unit": 42.34,
+    "2_5k_carton": 2117.0
+   }
+  },
+  {
+   "item_nos": [
+    "F-18X50RV"
+   ],
+   "description": "18\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 54.41,
+    "20k_carton": 2720.5,
+    "10k_unit": 54.41,
+    "10k_carton": 2720.5,
+    "5k_unit": 54.41,
+    "5k_carton": 2720.5,
+    "2_5k_unit": 54.41,
+    "2_5k_carton": 2720.5
+   }
+  },
+  {
+   "item_nos": [
+    "F-20X50RV"
+   ],
+   "description": "20\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 60.49,
+    "20k_carton": 1512.25,
+    "10k_unit": 60.49,
+    "10k_carton": 1512.25,
+    "5k_unit": 60.49,
+    "5k_carton": 1512.25,
+    "2_5k_unit": 60.49,
+    "2_5k_carton": 1512.25
+   }
+  },
+  {
+   "item_nos": [
+    "F-24X50RV"
+   ],
+   "description": "24\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 72.56,
+    "20k_carton": 1814.0,
+    "10k_unit": 72.56,
+    "10k_carton": 1814.0,
+    "5k_unit": 72.56,
+    "5k_carton": 1814.0,
+    "2_5k_unit": 72.56,
+    "2_5k_carton": 1814.0
+   }
+  },
+  {
+   "item_nos": [
+    "F-10X25RV"
+   ],
+   "description": "10\" x 25' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 75,
+   "prices": {
+    "20k_unit": 29.7,
+    "20k_carton": 2227.5,
+    "10k_unit": 29.7,
+    "10k_carton": 2227.5,
+    "5k_unit": 29.7,
+    "5k_carton": 2227.5,
+    "2_5k_unit": 29.7,
+    "2_5k_carton": 2227.5
+   }
+  },
+  {
+   "item_nos": [
+    "F-14X25RV"
+   ],
+   "description": "14\" x 25' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 39.54,
+    "20k_carton": 1977.0,
+    "10k_unit": 39.54,
+    "10k_carton": 1977.0,
+    "5k_unit": 39.54,
+    "5k_carton": 1977.0,
+    "2_5k_unit": 39.54,
+    "2_5k_carton": 1977.0
+   }
+  },
+  {
+   "item_nos": [
+    "F-18X25RV"
+   ],
+   "description": "18\" x 25' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 48.81,
+    "20k_carton": 2440.5,
+    "10k_unit": 48.81,
+    "10k_carton": 2440.5,
+    "5k_unit": 48.81,
+    "5k_carton": 2440.5,
+    "2_5k_unit": 48.81,
+    "2_5k_carton": 2440.5
+   }
+  },
+  {
+   "item_nos": [
+    "F-20X25RV"
+   ],
+   "description": "20\" x 25' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 52.72,
+    "20k_carton": 1318.0,
+    "10k_unit": 52.72,
+    "10k_carton": 1318.0,
+    "5k_unit": 52.72,
+    "5k_carton": 1318.0,
+    "2_5k_unit": 52.72,
+    "2_5k_carton": 1318.0
+   }
+  },
+  {
+   "item_nos": [
+    "F-24X25RV"
+   ],
+   "description": "24\" x 25' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 53.87,
+    "20k_carton": 1346.75,
+    "10k_unit": 53.87,
+    "10k_carton": 1346.75,
+    "5k_unit": 53.87,
+    "5k_carton": 1346.75,
+    "2_5k_unit": 53.87,
+    "2_5k_carton": 1346.75
+   }
+  },
+  {
+   "item_nos": [
+    "E-5X7AFS-"
+   ],
+   "description": "5X7 Alum Flat Shingle- Painted",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "20k_unit": 0.66,
+    "20k_carton": 330.0,
+    "10k_unit": 0.66,
+    "10k_carton": 330.0,
+    "5k_unit": 0.66,
+    "5k_carton": 330.0,
+    "2_5k_unit": 0.66,
+    "2_5k_carton": 330.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-5X7AFS"
+   ],
+   "description": "5X7 Alum Flat Shingle",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "20k_unit": 0.57,
+    "20k_carton": 285.0,
+    "10k_unit": 0.57,
+    "10k_carton": 285.0,
+    "5k_unit": 0.57,
+    "5k_carton": 285.0,
+    "2_5k_unit": 0.57,
+    "2_5k_carton": 285.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-8X8AFS-"
+   ],
+   "description": "8X8 Alum. Flat Shingle- Painted",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "20k_unit": 1.17,
+    "20k_carton": 585.0,
+    "10k_unit": 1.17,
+    "10k_carton": 585.0,
+    "5k_unit": 1.17,
+    "5k_carton": 585.0,
+    "2_5k_unit": 1.17,
+    "2_5k_carton": 585.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-8X8AFS"
+   ],
+   "description": "8X8 Alum. Flat Shingle",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "20k_unit": 0.98,
+    "20k_carton": 490.0,
+    "10k_unit": 0.98,
+    "10k_carton": 490.0,
+    "5k_unit": 0.98,
+    "5k_carton": 490.0,
+    "2_5k_unit": 0.98,
+    "2_5k_carton": 490.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-6X12AFS-"
+   ],
+   "description": "6X12 Aluminum Flat Shingle- Painted",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "20k_unit": 1.89,
+    "20k_carton": 945.0,
+    "10k_unit": 1.89,
+    "10k_carton": 945.0,
+    "5k_unit": 1.89,
+    "5k_carton": 945.0,
+    "2_5k_unit": 1.89,
+    "2_5k_carton": 945.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-6X12AFS"
+   ],
+   "description": "6X12 Aluminum Flat Shingle",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "20k_unit": 1.62,
+    "20k_carton": 810.0,
+    "10k_unit": 1.62,
+    "10k_carton": 810.0,
+    "5k_unit": 1.62,
+    "5k_carton": 810.0,
+    "2_5k_unit": 1.62,
+    "2_5k_carton": 810.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-6X15AFS-"
+   ],
+   "description": "6 X 15 Aluminum Flat Shingle- Painted",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 2.28,
+    "20k_carton": 228.0,
+    "10k_unit": 2.28,
+    "10k_carton": 228.0,
+    "5k_unit": 2.28,
+    "5k_carton": 228.0,
+    "2_5k_unit": 2.28,
+    "2_5k_carton": 228.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-4X4X8ASF-"
+   ],
+   "description": "4\"X4\"-8\" Alum Step Flashing- Painted",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "20k_unit": 1.34,
+    "20k_carton": 670.0,
+    "10k_unit": 1.34,
+    "10k_carton": 670.0,
+    "5k_unit": 1.34,
+    "5k_carton": 670.0,
+    "2_5k_unit": 1.34,
+    "2_5k_carton": 670.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-4X4X8ASF"
+   ],
+   "description": "4\"X4\"-8\" Alum Step Flashing",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "20k_unit": 1.12,
+    "20k_carton": 560.0,
+    "10k_unit": 1.12,
+    "10k_carton": 560.0,
+    "5k_unit": 1.12,
+    "5k_carton": 560.0,
+    "2_5k_unit": 1.12,
+    "2_5k_carton": 560.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-8X8X12ASF-"
+   ],
+   "description": "8\"X8\"X12\" Alum Step Flashing- Painted",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 5.77,
+    "20k_carton": 577.0,
+    "10k_unit": 5.77,
+    "10k_carton": 577.0,
+    "5k_unit": 5.77,
+    "5k_carton": 577.0,
+    "2_5k_unit": 5.77,
+    "2_5k_carton": 577.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-4X8X12OSF-"
+   ],
+   "description": "4\"X8\"X12\" Alum Offset Step Flashing- Painted",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 3.14,
+    "20k_carton": 314.0,
+    "10k_unit": 3.14,
+    "10k_carton": 314.0,
+    "5k_unit": 3.14,
+    "5k_carton": 314.0,
+    "2_5k_unit": 3.14,
+    "2_5k_carton": 314.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-2.5X2.5X7ASF-"
+   ],
+   "description": "2.5X2.5X7\" Alum. Step Flashing-Painted",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "20k_unit": 0.66,
+    "20k_carton": 330.0,
+    "10k_unit": 0.66,
+    "10k_carton": 330.0,
+    "5k_unit": 0.66,
+    "5k_carton": 330.0,
+    "2_5k_unit": 0.66,
+    "2_5k_carton": 330.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-2.5X2.5X7ASF"
+   ],
+   "description": "2.5X2.5X7\" Alum Step Flashing",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "20k_unit": 0.57,
+    "20k_carton": 285.0,
+    "10k_unit": 0.57,
+    "10k_carton": 285.0,
+    "5k_unit": 0.57,
+    "5k_carton": 285.0,
+    "2_5k_unit": 0.57,
+    "2_5k_carton": 285.0
+   }
+  },
+  {
+   "item_nos": [
+    "G-DS-"
+   ],
+   "description": "2\" x 3\" Downspout",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 17.53,
+    "20k_carton": 175.3,
+    "10k_unit": 17.87,
+    "10k_carton": 178.7,
+    "5k_unit": 18.19,
+    "5k_carton": 181.9,
+    "2_5k_unit": 18.41,
+    "2_5k_carton": 184.1
+   }
+  },
+  {
+   "item_nos": [
+    "G-4DS-"
+   ],
+   "description": "3\" x 4\" Downspout",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 22.41,
+    "20k_carton": 224.1,
+    "10k_unit": 22.76,
+    "10k_carton": 227.6,
+    "5k_unit": 23.25,
+    "5k_carton": 232.5,
+    "2_5k_unit": 23.5,
+    "2_5k_carton": 235.0
+   }
+  },
+  {
+   "item_nos": [
+    "G-4DS024-"
+   ],
+   "description": "3\" x 4\" Downspout .024",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 29.59,
+    "20k_carton": 295.9,
+    "10k_unit": 30.11,
+    "10k_carton": 301.1,
+    "5k_unit": 30.68,
+    "5k_carton": 306.8,
+    "2_5k_unit": 30.98,
+    "2_5k_carton": 309.8
+   }
+  },
+  {
+   "item_nos": [
+    "G-A75-"
+   ],
+   "description": "2\"x3 \"- 75 Degree Elbow, Style A",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "20k_unit": 1.94,
+    "20k_carton": 58.2,
+    "10k_unit": 1.96,
+    "10k_carton": 58.8,
+    "5k_unit": 1.98,
+    "5k_carton": 59.4,
+    "2_5k_unit": 2.03,
+    "2_5k_carton": 60.9
+   }
+  },
+  {
+   "item_nos": [
+    "G-B75-"
+   ],
+   "description": "2\"x3\"- 75 Degree Elbow, Style B",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "20k_unit": 1.94,
+    "20k_carton": 58.2,
+    "10k_unit": 1.96,
+    "10k_carton": 58.8,
+    "5k_unit": 1.98,
+    "5k_carton": 59.4,
+    "2_5k_unit": 2.03,
+    "2_5k_carton": 60.9
+   }
+  },
+  {
+   "item_nos": [
+    "G-4A75-"
+   ],
+   "description": "3\"x 4\"- 75 Degree Elbow, Style A",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 2.7,
+    "20k_carton": 54.0,
+    "10k_unit": 2.73,
+    "10k_carton": 54.6,
+    "5k_unit": 2.84,
+    "5k_carton": 56.8,
+    "2_5k_unit": 2.85,
+    "2_5k_carton": 57.0
+   }
+  },
+  {
+   "item_nos": [
+    "G-4B75-"
+   ],
+   "description": "3\"x 4\"- 75 Degree Elbow, Style B",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 2.7,
+    "20k_carton": 54.0,
+    "10k_unit": 2.73,
+    "10k_carton": 54.6,
+    "5k_unit": 2.84,
+    "5k_carton": 56.8,
+    "2_5k_unit": 2.85,
+    "2_5k_carton": 57.0
+   }
+  },
+  {
+   "item_nos": [
+    "G-MGC150-"
+   ],
+   "description": "11-7/8\" Mini Gutter Coil .027: Approx. 150'/roll",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_carton": 474.49,
+    "10k_carton": 474.49,
+    "5k_carton": 474.49,
+    "2_5k_carton": 474.49
+   }
+  },
+  {
+   "item_nos": [
+    "G-32MGC-"
+   ],
+   "description": "11-7/8\" Mini Gutter Coil .032: Approx. 150'/roll",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_carton": 608.36,
+    "10k_carton": 608.36,
+    "5k_carton": 608.36,
+    "2_5k_carton": 608.36
+   }
+  },
+  {
+   "item_nos": [
+    "G-6MGC-"
+   ],
+   "description": "15\" Mini Gutter Coil .032 : Approx. 150'/roll",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_carton": 701.93,
+    "10k_carton": 701.93,
+    "5k_carton": 701.93,
+    "2_5k_carton": 701.93
+   }
+  },
+  {
+   "item_nos": [
+    "H-CAPR-"
+   ],
+   "description": "5\" End Cap Right",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 1.28,
+    "20k_carton": 64.0,
+    "10k_unit": 1.3,
+    "10k_carton": 65.0,
+    "5k_unit": 1.32,
+    "5k_carton": 66.0,
+    "2_5k_unit": 1.32,
+    "2_5k_carton": 66.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-CAPL-"
+   ],
+   "description": "5\" End Cap Left",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 1.28,
+    "20k_carton": 64.0,
+    "10k_unit": 1.3,
+    "10k_carton": 65.0,
+    "5k_unit": 1.32,
+    "5k_carton": 66.0,
+    "2_5k_unit": 1.32,
+    "2_5k_carton": 66.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-CAPR6-"
+   ],
+   "description": "6\" End Cap Right",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 2.5,
+    "20k_carton": 125.0,
+    "10k_unit": 2.55,
+    "10k_carton": 127.5,
+    "5k_unit": 2.57,
+    "5k_carton": 128.5,
+    "2_5k_unit": 2.59,
+    "2_5k_carton": 129.5
+   }
+  },
+  {
+   "item_nos": [
+    "H-CAPL6-"
+   ],
+   "description": "6\" End Cap Left",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 2.5,
+    "20k_carton": 125.0,
+    "10k_unit": 2.55,
+    "10k_carton": 127.5,
+    "5k_unit": 2.57,
+    "5k_carton": 128.5,
+    "2_5k_unit": 2.59,
+    "2_5k_carton": 129.5
+   }
+  },
+  {
+   "item_nos": [
+    "H-MITO-"
+   ],
+   "description": "Outside 5\" K Miter",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 9.54,
+    "20k_carton": 190.8,
+    "10k_unit": 9.75,
+    "10k_carton": 195.0,
+    "5k_unit": 9.82,
+    "5k_carton": 196.4,
+    "2_5k_unit": 10.29,
+    "2_5k_carton": 205.8
+   }
+  },
+  {
+   "item_nos": [
+    "H-MITO6-"
+   ],
+   "description": "Outside 6\" K Miter",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 24.43,
+    "20k_carton": 488.6,
+    "10k_unit": 26.88,
+    "10k_carton": 537.6,
+    "5k_unit": 26.88,
+    "5k_carton": 537.6,
+    "2_5k_unit": 26.88,
+    "2_5k_carton": 537.6
+   }
+  },
+  {
+   "item_nos": [
+    "H-MITI-"
+   ],
+   "description": "Inside 5\" K Miter",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 9.54,
+    "20k_carton": 190.8,
+    "10k_unit": 9.75,
+    "10k_carton": 195.0,
+    "5k_unit": 9.82,
+    "5k_carton": 196.4,
+    "2_5k_unit": 10.29,
+    "2_5k_carton": 205.8
+   }
+  },
+  {
+   "item_nos": [
+    "H-MITI6-"
+   ],
+   "description": "Inside 6\" K Miter",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 24.43,
+    "20k_carton": 488.6,
+    "10k_unit": 26.88,
+    "10k_carton": 537.6,
+    "5k_unit": 26.88,
+    "5k_carton": 537.6,
+    "2_5k_unit": 26.88,
+    "2_5k_carton": 537.6
+   }
+  },
+  {
+   "item_nos": [
+    "H-SMITI-"
+   ],
+   "description": "Inside 5\" Strip Miter",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 5.61,
+    "20k_carton": 112.2,
+    "10k_unit": 5.77,
+    "10k_carton": 115.4,
+    "5k_unit": 5.85,
+    "5k_carton": 117.0,
+    "2_5k_unit": 6.09,
+    "2_5k_carton": 121.8
+   }
+  },
+  {
+   "item_nos": [
+    "H-SMITO-"
+   ],
+   "description": "Outside 5\" Strip Miter",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 5.61,
+    "20k_carton": 112.2,
+    "10k_unit": 5.77,
+    "10k_carton": 115.4,
+    "5k_unit": 5.85,
+    "5k_carton": 117.0,
+    "2_5k_unit": 6.09,
+    "2_5k_carton": 121.8
+   }
+  },
+  {
+   "item_nos": [
+    "H-SMITI6-"
+   ],
+   "description": "Inside 6\" Strip Miter",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 12.27,
+    "20k_carton": 245.4,
+    "10k_unit": 12.56,
+    "10k_carton": 251.2,
+    "5k_unit": 12.61,
+    "5k_carton": 252.2,
+    "2_5k_unit": 13.31,
+    "2_5k_carton": 266.2
+   }
+  },
+  {
+   "item_nos": [
+    "H-SMITO6-"
+   ],
+   "description": "Outside 6\" Strip Miter",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "20k_unit": 12.27,
+    "20k_carton": 245.4,
+    "10k_unit": 12.56,
+    "10k_carton": 251.2,
+    "5k_unit": 12.61,
+    "5k_carton": 252.2,
+    "2_5k_unit": 13.31,
+    "2_5k_carton": 266.2
+   }
+  },
+  {
+   "item_nos": [
+    "H-KSLIP-"
+   ],
+   "description": "K Slip Connector",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_unit": 5.89,
+    "20k_carton": 294.5,
+    "10k_unit": 6.03,
+    "10k_carton": 301.5,
+    "5k_unit": 6.16,
+    "5k_carton": 308.0,
+    "2_5k_unit": 6.28,
+    "2_5k_carton": 314.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-5KEOH-"
+   ],
+   "description": "5\" K Easy On Hanger",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 3.68,
+    "20k_carton": 368.0,
+    "10k_unit": 3.82,
+    "10k_carton": 382.0,
+    "5k_unit": 3.82,
+    "5k_carton": 382.0,
+    "2_5k_unit": 3.82,
+    "2_5k_carton": 382.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-6KEOH-"
+   ],
+   "description": "6\" K Easy On Hanger",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 16.62,
+    "20k_carton": 831.0,
+    "10k_unit": 18.28,
+    "10k_carton": 914.0,
+    "5k_unit": 18.28,
+    "5k_carton": 914.0,
+    "2_5k_unit": 18.28,
+    "2_5k_carton": 914.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-RIV-"
+   ],
+   "description": "Pop Rivet",
+   "uom": "EA",
+   "pack_qty": 1000,
+   "prices": {
+    "20k_unit": 0.06,
+    "20k_carton": 62.75,
+    "10k_unit": 0.09,
+    "10k_carton": 94.08,
+    "5k_unit": 0.09,
+    "5k_carton": 94.08,
+    "2_5k_unit": 0.09,
+    "2_5k_carton": 94.08
+   }
+  },
+  {
+   "item_nos": [
+    "H-BANDS-"
+   ],
+   "description": "Downspout Band",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 0.88,
+    "20k_carton": 88.0,
+    "10k_unit": 0.96,
+    "10k_carton": 96.0,
+    "5k_unit": 0.96,
+    "5k_carton": 96.0,
+    "2_5k_unit": 0.96,
+    "2_5k_carton": 96.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-OUTOVAL"
+   ],
+   "description": "Outlet Tube, 2X3",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "20k_unit": 2.57,
+    "20k_carton": 77.1,
+    "10k_unit": 2.8,
+    "10k_carton": 84.0,
+    "5k_unit": 2.8,
+    "5k_carton": 84.0,
+    "2_5k_unit": 2.8,
+    "2_5k_carton": 84.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-4OUTOVAL"
+   ],
+   "description": "Outlet Tube, 3X4",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 2.59,
+    "20k_carton": 129.5,
+    "10k_unit": 2.88,
+    "10k_carton": 144.0,
+    "5k_unit": 2.88,
+    "5k_carton": 144.0,
+    "2_5k_unit": 2.88,
+    "2_5k_carton": 144.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-GBRAC"
+   ],
+   "description": "5\" Gutter Bracket",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 1.17,
+    "20k_carton": 117.0,
+    "10k_unit": 1.17,
+    "10k_carton": 117.0,
+    "5k_unit": 1.17,
+    "5k_carton": 117.0,
+    "2_5k_unit": 1.17,
+    "2_5k_carton": 117.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-GBRAC6"
+   ],
+   "description": "6\" Gutter Bracket",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 1.52,
+    "20k_carton": 152.0,
+    "10k_unit": 1.58,
+    "10k_carton": 158.0,
+    "5k_unit": 1.58,
+    "5k_carton": 158.0,
+    "2_5k_unit": 1.58,
+    "2_5k_carton": 158.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-5SGH"
+   ],
+   "description": "5\" Screw on Gutter Hanger",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 1.5,
+    "20k_carton": 150.0,
+    "10k_unit": 1.59,
+    "10k_carton": 159.0,
+    "5k_unit": 1.59,
+    "5k_carton": 159.0,
+    "2_5k_unit": 1.59,
+    "2_5k_carton": 159.0
+   }
+  },
+  {
+   "item_nos": [
+    "H-6SGH"
+   ],
+   "description": "6\" Screw on Gutter Hanger",
+   "uom": "EA",
+   "pack_qty": 300,
+   "prices": {
+    "20k_unit": 4.52,
+    "20k_carton": 1356.0,
+    "10k_unit": 4.69,
+    "10k_carton": 1407.0,
+    "5k_unit": 4.69,
+    "5k_carton": 1407.0,
+    "2_5k_unit": 4.69,
+    "2_5k_carton": 1407.0
+   }
+  },
+  {
+   "item_nos": [
+    "J-8HT-"
+   ],
+   "description": "8\" Aluminum Siding- .019 Woodgrain",
+   "uom": "EA",
+   "pack_qty": 24,
+   "prices": {
+    "20k_unit": 28.35,
+    "20k_carton": 680.4,
+    "10k_unit": 28.95,
+    "10k_carton": 694.8,
+    "5k_unit": 29.25,
+    "5k_carton": 702.0,
+    "2_5k_unit": 29.78,
+    "2_5k_carton": 714.72
+   }
+  },
+  {
+   "item_nos": [
+    "J-8HS019-"
+   ],
+   "description": "8\" Aluminum Siding- .019 Smooth",
+   "uom": "EA",
+   "pack_qty": 24,
+   "prices": {
+    "20k_unit": 28.35,
+    "20k_carton": 680.4,
+    "10k_unit": 28.95,
+    "10k_carton": 694.8,
+    "5k_unit": 29.25,
+    "5k_carton": 702.0,
+    "2_5k_unit": 29.78,
+    "2_5k_carton": 714.72
+   }
+  },
+  {
+   "item_nos": [
+    "E-SSV"
+   ],
+   "description": "Universal Starter Strip",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 5.08,
+    "20k_carton": 254.0,
+    "10k_unit": 5.16,
+    "10k_carton": 258.0,
+    "5k_unit": 5.26,
+    "5k_carton": 263.0,
+    "2_5k_unit": 5.32,
+    "2_5k_carton": 266.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-SS3"
+   ],
+   "description": "3\" Starter Strip",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 5.08,
+    "20k_carton": 254.0,
+    "10k_unit": 5.16,
+    "10k_carton": 258.0,
+    "5k_unit": 5.26,
+    "5k_carton": 263.0,
+    "2_5k_unit": 5.32,
+    "2_5k_carton": 266.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-SS4"
+   ],
+   "description": "4\" Starter Strip",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 5.85,
+    "20k_carton": 292.5,
+    "10k_unit": 5.94,
+    "10k_carton": 297.0,
+    "5k_unit": 6.15,
+    "5k_carton": 307.5,
+    "2_5k_unit": 6.16,
+    "2_5k_carton": 308.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-E12-"
+   ],
+   "description": "3/4\" J Channel",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 9.72,
+    "20k_carton": 243.0,
+    "10k_unit": 9.92,
+    "10k_carton": 248.0,
+    "5k_unit": 10.13,
+    "5k_carton": 253.25,
+    "2_5k_unit": 10.18,
+    "2_5k_carton": 254.5
+   }
+  },
+  {
+   "item_nos": [
+    "E-E16-"
+   ],
+   "description": "1\" J Channel",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 9.05,
+    "20k_carton": 226.25,
+    "10k_unit": 9.27,
+    "10k_carton": 231.75,
+    "5k_unit": 9.43,
+    "5k_carton": 235.75,
+    "2_5k_unit": 9.49,
+    "2_5k_carton": 237.25
+   }
+  },
+  {
+   "item_nos": [
+    "E-E18-"
+   ],
+   "description": "1 1/8\" J Channel",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 10.78,
+    "20k_carton": 269.5,
+    "10k_unit": 10.97,
+    "10k_carton": 274.25,
+    "5k_unit": 11.21,
+    "5k_carton": 280.25,
+    "2_5k_unit": 11.27,
+    "2_5k_carton": 281.75
+   }
+  },
+  {
+   "item_nos": [
+    "E-JV12-"
+   ],
+   "description": "1/2\" J for Vinyl Siding",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 9.58,
+    "20k_carton": 239.5,
+    "10k_unit": 9.91,
+    "10k_carton": 247.75,
+    "5k_unit": 10.02,
+    "5k_carton": 250.5,
+    "2_5k_unit": 10.17,
+    "2_5k_carton": 254.25
+   }
+  },
+  {
+   "item_nos": [
+    "E-OCP1-"
+   ],
+   "description": "1\" Outside Corner Post - Smooth",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 38.92,
+    "20k_carton": 389.2,
+    "10k_unit": 39.63,
+    "10k_carton": 396.3,
+    "5k_unit": 40.45,
+    "5k_carton": 404.5,
+    "2_5k_unit": 40.85,
+    "2_5k_carton": 408.5
+   }
+  },
+  {
+   "item_nos": [
+    "E-OCP1T-"
+   ],
+   "description": "1\" Outside Corner Post - WG",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 38.92,
+    "20k_carton": 389.2,
+    "10k_unit": 39.63,
+    "10k_carton": 396.3,
+    "5k_unit": 40.45,
+    "5k_carton": 404.5,
+    "2_5k_unit": 40.85,
+    "2_5k_carton": 408.5
+   }
+  },
+  {
+   "item_nos": [
+    "E-IC-"
+   ],
+   "description": "Individual Outside Corner-Sm.",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 2.99,
+    "20k_carton": 299.0,
+    "10k_unit": 3.07,
+    "10k_carton": 307.0,
+    "5k_unit": 3.16,
+    "5k_carton": 316.0,
+    "2_5k_unit": 3.17,
+    "2_5k_carton": 317.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-ICT-"
+   ],
+   "description": "Individual Outside Corner-WG",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 2.99,
+    "20k_carton": 299.0,
+    "10k_unit": 3.07,
+    "10k_carton": 307.0,
+    "5k_unit": 3.16,
+    "5k_carton": 316.0,
+    "2_5k_unit": 3.17,
+    "2_5k_carton": 317.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-USM-"
+   ],
+   "description": "Undersill Molding",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 8.88,
+    "20k_carton": 222.0,
+    "10k_unit": 9.03,
+    "10k_carton": 225.75,
+    "5k_unit": 9.21,
+    "5k_carton": 230.25,
+    "2_5k_unit": 9.31,
+    "2_5k_carton": 232.75
+   }
+  },
+  {
+   "item_nos": [
+    "D-CAN-"
+   ],
+   "description": "Spray Touch-up Paint -4.5oz. Can",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_unit": 21.25,
+    "10k_unit": 21.25,
+    "5k_unit": 21.25,
+    "2_5k_unit": 21.25
+   }
+  },
+  {
+   "item_nos": [
+    "D-JAR-"
+   ],
+   "description": "Touch-up Paint in Jar - 1 oz. jar",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_unit": 9.39,
+    "10k_unit": 9.39,
+    "5k_unit": 9.39,
+    "2_5k_unit": 9.39
+   }
+  },
+  {
+   "item_nos": [
+    "S-STEELSS3"
+   ],
+   "description": "3\" Steel Starter Strip 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 3.22,
+    "20k_carton": 80.5,
+    "10k_unit": 3.26,
+    "10k_carton": 81.5,
+    "5k_unit": 3.33,
+    "5k_carton": 83.25,
+    "2_5k_unit": 3.37,
+    "2_5k_carton": 84.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-STEELSS4"
+   ],
+   "description": "4\" Steel Starter Strip 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 3.53,
+    "20k_carton": 88.25,
+    "10k_unit": 3.6,
+    "10k_carton": 90.0,
+    "5k_unit": 3.68,
+    "5k_carton": 92.0,
+    "2_5k_unit": 3.7,
+    "2_5k_carton": 92.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-STEELSSV"
+   ],
+   "description": "Steel Starter Strip 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 3.22,
+    "20k_carton": 80.5,
+    "10k_unit": 3.26,
+    "10k_carton": 81.5,
+    "5k_unit": 3.33,
+    "5k_carton": 83.25,
+    "2_5k_unit": 3.37,
+    "2_5k_carton": 84.25
+   }
+  },
+  {
+   "item_nos": [
+    "E-SSV"
+   ],
+   "description": "Aluminum Starter Strip",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_unit": 5.08,
+    "20k_carton": 254.0,
+    "10k_unit": 5.16,
+    "10k_carton": 258.0,
+    "5k_unit": 5.26,
+    "5k_carton": 263.0,
+    "2_5k_unit": 5.32,
+    "2_5k_carton": 266.0
+   }
+  },
+  {
+   "item_nos": [
+    "E-JV12-"
+   ],
+   "description": "1/2\" J for Vinyl Siding",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 9.58,
+    "20k_carton": 239.5,
+    "10k_unit": 9.91,
+    "10k_carton": 247.75,
+    "5k_unit": 10.02,
+    "5k_carton": 250.5,
+    "2_5k_unit": 10.17,
+    "2_5k_carton": 254.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-STCTP-"
+   ],
+   "description": "14-5/8\", 50' PVC Steel Trim Coil - Wood Grain",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "20k_unit": 139.85,
+    "20k_carton": 139.85,
+    "10k_unit": 143.22,
+    "10k_carton": 143.22,
+    "5k_unit": 144.1,
+    "5k_carton": 144.1,
+    "2_5k_unit": 145.86,
+    "2_5k_carton": 145.86
+   }
+  },
+  {
+   "item_nos": [
+    "S-S10TCP-"
+   ],
+   "description": "10-7/16\" 50' PVC Steel Trim Coil - Wood Grain",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "20k_unit": 110.49,
+    "20k_carton": 110.49,
+    "10k_unit": 112.92,
+    "10k_carton": 112.92,
+    "5k_unit": 113.55,
+    "5k_carton": 113.55,
+    "2_5k_unit": 114.81,
+    "2_5k_carton": 114.81
+   }
+  },
+  {
+   "item_nos": [
+    "S-SSL4TP-"
+   ],
+   "description": "SL-4 Steel Fascia, Wood Grain Finish - 12'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 18.01,
+    "20k_carton": 180.1,
+    "10k_unit": 18.51,
+    "10k_carton": 185.1,
+    "5k_unit": 18.72,
+    "5k_carton": 187.2,
+    "2_5k_unit": 18.97,
+    "2_5k_carton": 189.7
+   }
+  },
+  {
+   "item_nos": [
+    "S-SSL6TP-"
+   ],
+   "description": "SL-6 Steel Fascia, Wood Grain Finish - 12'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 20.93,
+    "20k_carton": 209.3,
+    "10k_unit": 21.59,
+    "10k_carton": 215.9,
+    "5k_unit": 21.75,
+    "5k_carton": 217.5,
+    "2_5k_unit": 22.07,
+    "2_5k_carton": 220.7
+   }
+  },
+  {
+   "item_nos": [
+    "S-SSL8TP-"
+   ],
+   "description": "SL-8 Steel Fascia, Wood Grain Finish - 12'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 26.72,
+    "20k_carton": 267.2,
+    "10k_unit": 27.5,
+    "10k_carton": 275.0,
+    "5k_unit": 27.71,
+    "5k_carton": 277.1,
+    "2_5k_unit": 28.14,
+    "2_5k_carton": 281.4
+   }
+  },
+  {
+   "item_nos": [
+    "S-STCTK-"
+   ],
+   "description": "14-5/8\", 50' Aurora Steel Trim Coil - Wood Grain",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "20k_unit": 188.48,
+    "20k_carton": 188.48,
+    "10k_unit": 193.12,
+    "10k_carton": 193.12,
+    "5k_unit": 194.37,
+    "5k_carton": 194.37,
+    "2_5k_unit": 196.85,
+    "2_5k_carton": 196.85
+   }
+  },
+  {
+   "item_nos": [
+    "S-S18TCK-"
+   ],
+   "description": "18\" x 50' Aurora Steel Trim Coil",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "20k_unit": 212.46,
+    "20k_carton": 212.46,
+    "10k_unit": 217.71,
+    "10k_carton": 217.71,
+    "5k_unit": 219.16,
+    "5k_carton": 219.16,
+    "2_5k_unit": 221.91,
+    "2_5k_carton": 221.91
+   }
+  },
+  {
+   "item_nos": [
+    "S-SD4HTK-"
+   ],
+   "description": "D4 Aurora Non-Insulated 12'6\"",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 27.61,
+    "20k_carton": 331.32,
+    "10k_unit": 27.95,
+    "10k_carton": 335.4,
+    "5k_unit": 28.51,
+    "5k_carton": 342.12,
+    "2_5k_unit": 28.99,
+    "2_5k_carton": 347.88
+   }
+  },
+  {
+   "item_nos": [
+    "S-SD5HTK-"
+   ],
+   "description": "D5 Aurora Non-Insulated 12'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 33.88,
+    "20k_carton": 338.8,
+    "10k_unit": 34.53,
+    "10k_carton": 345.3,
+    "5k_unit": 34.97,
+    "5k_carton": 349.7,
+    "2_5k_unit": 35.55,
+    "2_5k_carton": 355.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SD5DLHTK-"
+   ],
+   "description": "D5 Dutch Aurora Non-Insulated 12'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 33.88,
+    "20k_carton": 338.8,
+    "10k_unit": 34.53,
+    "10k_carton": 345.3,
+    "5k_unit": 34.97,
+    "5k_carton": 349.7,
+    "2_5k_unit": 35.55,
+    "2_5k_carton": 355.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-S6HTK-"
+   ],
+   "description": "6\" Aurora Non-Insulated 12'6\"",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 20.88,
+    "20k_carton": 334.08,
+    "10k_unit": 21.19,
+    "10k_carton": 339.04,
+    "5k_unit": 21.86,
+    "5k_carton": 349.76,
+    "2_5k_unit": 23.04,
+    "2_5k_carton": 368.64
+   }
+  },
+  {
+   "item_nos": [
+    "S-S8HTK-"
+   ],
+   "description": "8\" Aurora Non-Insulated 12'6\"",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 29.47,
+    "20k_carton": 353.64,
+    "10k_unit": 29.84,
+    "10k_carton": 358.08,
+    "5k_unit": 30.43,
+    "5k_carton": 365.16,
+    "2_5k_unit": 31.05,
+    "2_5k_carton": 372.6
+   }
+  },
+  {
+   "item_nos": [
+    "S-SVTHTK-"
+   ],
+   "description": "12\" Aurora Vertical Board & Batten 10'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 37.54,
+    "20k_carton": 375.4,
+    "10k_unit": 38.29,
+    "10k_carton": 382.9,
+    "5k_unit": 38.71,
+    "5k_carton": 387.1,
+    "2_5k_unit": 39.46,
+    "2_5k_carton": 394.6
+   }
+  },
+  {
+   "item_nos": [
+    "S-SE12K-"
+   ],
+   "description": "3/4\" Steel J Channel",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 12.72,
+    "20k_carton": 318.0,
+    "10k_unit": 12.87,
+    "10k_carton": 321.75,
+    "5k_unit": 13.15,
+    "5k_carton": 328.75,
+    "2_5k_unit": 13.38,
+    "2_5k_carton": 334.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SE18K-"
+   ],
+   "description": "1-1/8\" Steel J Channel",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 13.75,
+    "20k_carton": 343.75,
+    "10k_unit": 13.9,
+    "10k_carton": 347.5,
+    "5k_unit": 14.19,
+    "5k_carton": 354.75,
+    "2_5k_unit": 14.46,
+    "2_5k_carton": 361.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SUSMK-"
+   ],
+   "description": "Steel Undersill Trim",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 14.34,
+    "20k_carton": 358.5,
+    "10k_unit": 14.5,
+    "10k_carton": 362.5,
+    "5k_unit": 14.81,
+    "5k_carton": 370.25,
+    "2_5k_unit": 15.09,
+    "2_5k_carton": 373.72
+   }
+  },
+  {
+   "item_nos": [
+    "S-SSL6TK-"
+   ],
+   "description": "SL6 Steel Fascia",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 26.88,
+    "20k_carton": 268.8,
+    "10k_unit": 27.18,
+    "10k_carton": 271.8,
+    "5k_unit": 27.76,
+    "5k_carton": 277.6,
+    "2_5k_unit": 28.32,
+    "2_5k_carton": 283.2
+   }
+  },
+  {
+   "item_nos": [
+    "S-SSL8TK-"
+   ],
+   "description": "SL8 Steel Fascia",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 34.97,
+    "20k_carton": 349.7,
+    "10k_unit": 35.53,
+    "10k_carton": 355.3,
+    "5k_unit": 36.25,
+    "5k_carton": 362.5,
+    "2_5k_unit": 37.19,
+    "2_5k_carton": 371.9
+   }
+  },
+  {
+   "item_nos": [
+    "S-SOCP1TK-"
+   ],
+   "description": "1\" Steel Outside Corner Post",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 52.56,
+    "20k_carton": 525.6,
+    "10k_unit": 53.19,
+    "10k_carton": 531.9,
+    "5k_unit": 54.34,
+    "5k_carton": 543.4,
+    "2_5k_unit": 55.37,
+    "2_5k_carton": 553.7
+   }
+  },
+  {
+   "item_nos": [
+    "S-SCPB"
+   ],
+   "description": "2 Piece Corner Post Base",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 26.74,
+    "20k_carton": 267.4,
+    "10k_unit": 27.55,
+    "10k_carton": 275.5,
+    "5k_unit": 27.76,
+    "5k_carton": 277.6,
+    "2_5k_unit": 28.17,
+    "2_5k_carton": 281.7
+   }
+  },
+  {
+   "item_nos": [
+    "S-SBS247TK-"
+   ],
+   "description": "2 Piece Corner Post Base Cap",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 36.04,
+    "20k_carton": 360.4,
+    "10k_unit": 36.52,
+    "10k_carton": 365.2,
+    "5k_unit": 37.14,
+    "5k_carton": 371.4,
+    "2_5k_unit": 37.87,
+    "2_5k_carton": 378.7
+   }
+  },
+  {
+   "item_nos": [
+    "D-CANK-"
+   ],
+   "description": "Aurora Steel Siding Touch Up Paint",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_unit": 21.25,
+    "10k_unit": 21.25,
+    "5k_unit": 21.25,
+    "2_5k_unit": 21.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-SD4HTM-"
+   ],
+   "description": "D4 Navigator SMP Non-Insulated 12'6\"",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 20.47,
+    "20k_carton": 245.64,
+    "10k_unit": 21.11,
+    "10k_carton": 253.32,
+    "5k_unit": 21.26,
+    "5k_carton": 255.12,
+    "2_5k_unit": 21.6,
+    "2_5k_carton": 258.36
+   }
+  },
+  {
+   "item_nos": [
+    "S-SD5DLHTM-"
+   ],
+   "description": "D5 Navigator Dutch Lap SMP Non-Insulated 12'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 24.53,
+    "20k_carton": 245.3,
+    "10k_unit": 25.32,
+    "10k_carton": 253.2,
+    "5k_unit": 25.52,
+    "5k_carton": 255.2,
+    "2_5k_unit": 25.9,
+    "2_5k_carton": 258.38
+   }
+  },
+  {
+   "item_nos": [
+    "S-SD5HTM-"
+   ],
+   "description": "D5 Navigator SMP Non-Insulated 12'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 24.53,
+    "20k_carton": 245.3,
+    "10k_unit": 25.32,
+    "10k_carton": 253.2,
+    "5k_unit": 25.52,
+    "5k_carton": 255.2,
+    "2_5k_unit": 25.9,
+    "2_5k_carton": 258.38
+   }
+  },
+  {
+   "item_nos": [
+    "S-S6HTM-"
+   ],
+   "description": "6\" Navigator SMP Non-Insulated 12'6\"",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "20k_unit": 15.4,
+    "20k_carton": 246.4,
+    "10k_unit": 15.86,
+    "10k_carton": 253.76,
+    "5k_unit": 15.97,
+    "5k_carton": 255.52,
+    "2_5k_unit": 16.21,
+    "2_5k_carton": 258.38
+   }
+  },
+  {
+   "item_nos": [
+    "S-S8HTM-"
+   ],
+   "description": "8\" Navigator SMP Non-Insulated 12'6\"",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "20k_unit": 20.47,
+    "20k_carton": 245.64,
+    "10k_unit": 21.11,
+    "10k_carton": 253.32,
+    "5k_unit": 21.26,
+    "5k_carton": 255.12,
+    "2_5k_unit": 21.6,
+    "2_5k_carton": 258.38
+   }
+  },
+  {
+   "item_nos": [
+    "S-SVTM-"
+   ],
+   "description": "12\" Navigator SMP Vertical Board & Batten 10'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 25.49,
+    "20k_carton": 254.73,
+    "10k_unit": 26.26,
+    "10k_carton": 262.6,
+    "5k_unit": 26.45,
+    "5k_carton": 264.5,
+    "2_5k_unit": 26.87,
+    "2_5k_carton": 268.11
+   }
+  },
+  {
+   "item_nos": [
+    "S-SE12M-"
+   ],
+   "description": "3/4\" J Channel for Navigator 12'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 9.52,
+    "20k_carton": 238.0,
+    "10k_unit": 9.8,
+    "10k_carton": 245.0,
+    "5k_unit": 9.86,
+    "5k_carton": 246.5,
+    "2_5k_unit": 10.02,
+    "2_5k_carton": 248.36
+   }
+  },
+  {
+   "item_nos": [
+    "S-SE18M-"
+   ],
+   "description": "1 1/8\" J Channel for Navigator 12'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 9.52,
+    "20k_carton": 238.0,
+    "10k_unit": 9.8,
+    "10k_carton": 245.0,
+    "5k_unit": 9.86,
+    "5k_carton": 246.5,
+    "2_5k_unit": 10.02,
+    "2_5k_carton": 248.36
+   }
+  },
+  {
+   "item_nos": [
+    "S-SOCP1TM-"
+   ],
+   "description": "1\" Outside Corner Post for Navigator 10'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 35.37,
+    "20k_carton": 353.7,
+    "10k_unit": 36.48,
+    "10k_carton": 364.8,
+    "5k_unit": 36.76,
+    "5k_carton": 367.6,
+    "2_5k_unit": 37.31,
+    "2_5k_carton": 372.59
+   }
+  },
+  {
+   "item_nos": [
+    "S-SCPB"
+   ],
+   "description": "2 Piece Corner Post Base",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 26.74,
+    "20k_carton": 267.4,
+    "10k_unit": 27.55,
+    "10k_carton": 275.5,
+    "5k_unit": 27.76,
+    "5k_carton": 277.6,
+    "2_5k_unit": 28.17,
+    "2_5k_carton": 281.7
+   }
+  },
+  {
+   "item_nos": [
+    "S-SBS247TM-"
+   ],
+   "description": "2 Piece Steel Corner Post Cap for Navigator",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 22.78,
+    "20k_carton": 227.8,
+    "10k_unit": 23.48,
+    "10k_carton": 234.8,
+    "5k_unit": 23.7,
+    "5k_carton": 237.0,
+    "2_5k_unit": 24.02,
+    "2_5k_carton": 239.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SSL6TM-"
+   ],
+   "description": "SL-6 SMP Steel Fascia, WG Finish - 12'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 14.59,
+    "20k_carton": 145.9,
+    "10k_unit": 15.05,
+    "10k_carton": 150.5,
+    "5k_unit": 15.19,
+    "5k_carton": 151.9,
+    "2_5k_unit": 15.41,
+    "2_5k_carton": 154.1
+   }
+  },
+  {
+   "item_nos": [
+    "S-SSL8TM-"
+   ],
+   "description": "SL-8 SMP Steel Fascia, WG Finish - 12'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 17.84,
+    "20k_carton": 178.4,
+    "10k_unit": 18.41,
+    "10k_carton": 184.1,
+    "5k_unit": 18.51,
+    "5k_carton": 185.1,
+    "2_5k_unit": 18.8,
+    "2_5k_carton": 188.0
+   }
+  },
+  {
+   "item_nos": [
+    "D-CAN-"
+   ],
+   "description": "Navigator Steel Siding Spray Touch Up Paint",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "20k_unit": 21.25,
+    "10k_unit": 21.25,
+    "5k_unit": 21.25,
+    "2_5k_unit": 21.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-STCTM-"
+   ],
+   "description": "14-5/8\", 50' SMP Steel Trim Coil - Wood Grain",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "20k_unit": 141.04,
+    "20k_carton": 141.04,
+    "10k_unit": 141.04,
+    "10k_carton": 141.04,
+    "5k_unit": 141.04,
+    "5k_carton": 141.04,
+    "2_5k_unit": 141.04,
+    "2_5k_carton": 141.04
+   }
+  },
+  {
+   "item_nos": [
+    "S-S10TCM-"
+   ],
+   "description": "10-7/16\" 50' SMP Steel Trim Coil - Wood Grain",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "20k_unit": 113.7,
+    "20k_carton": 113.7,
+    "10k_unit": 113.7,
+    "10k_carton": 113.7,
+    "5k_unit": 113.7,
+    "5k_carton": 113.7,
+    "2_5k_unit": 113.7,
+    "2_5k_carton": 113.7
+   }
+  },
+  {
+   "item_nos": [
+    "S-SDS-"
+   ],
+   "description": "2X3 Steel Downspout- Painted",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 21.3,
+    "20k_carton": 213.0,
+    "10k_unit": 22.37,
+    "10k_carton": 223.7,
+    "5k_unit": 22.37,
+    "5k_carton": 223.7,
+    "2_5k_unit": 22.37,
+    "2_5k_carton": 223.7
+   }
+  },
+  {
+   "item_nos": [
+    "S-SDS"
+   ],
+   "description": "2X3 Steel Downspout",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 19.4,
+    "20k_carton": 194.0,
+    "10k_unit": 20.43,
+    "10k_carton": 204.3,
+    "5k_unit": 20.43,
+    "5k_carton": 204.3,
+    "2_5k_unit": 20.43,
+    "2_5k_carton": 204.3
+   }
+  },
+  {
+   "item_nos": [
+    "S-SA75-"
+   ],
+   "description": "2X3 Steel Elbow- Style A- Painted",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "20k_unit": 6.06,
+    "20k_carton": 181.8,
+    "10k_unit": 6.35,
+    "10k_carton": 190.5,
+    "5k_unit": 6.35,
+    "5k_carton": 190.5,
+    "2_5k_unit": 6.35,
+    "2_5k_carton": 190.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SA75"
+   ],
+   "description": "2X3 Steel Elbow- Style A",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "20k_unit": 4.71,
+    "20k_carton": 141.3,
+    "10k_unit": 4.96,
+    "10k_carton": 148.8,
+    "5k_unit": 4.96,
+    "5k_carton": 148.8,
+    "2_5k_unit": 4.96,
+    "2_5k_carton": 148.8
+   }
+  },
+  {
+   "item_nos": [
+    "S-SB75-"
+   ],
+   "description": "2X3 Steel Elbow- Style B- Painted",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "20k_unit": 6.06,
+    "20k_carton": 181.8,
+    "10k_unit": 6.35,
+    "10k_carton": 190.5,
+    "5k_unit": 6.35,
+    "5k_carton": 190.5,
+    "2_5k_unit": 6.35,
+    "2_5k_carton": 190.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SB75"
+   ],
+   "description": "2X3 Steel Elbow- Style B",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "20k_unit": 4.71,
+    "20k_carton": 141.3,
+    "10k_unit": 4.96,
+    "10k_carton": 148.8,
+    "5k_unit": 4.96,
+    "5k_carton": 148.8,
+    "2_5k_unit": 4.96,
+    "2_5k_carton": 148.8
+   }
+  },
+  {
+   "item_nos": [
+    "S-SKICKL-"
+   ],
+   "description": "Steel Left Kick Out Flashing- Painted",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 7.68,
+    "20k_carton": 192.0,
+    "10k_unit": 8.1,
+    "10k_carton": 202.5,
+    "5k_unit": 8.1,
+    "5k_carton": 202.5,
+    "2_5k_unit": 8.1,
+    "2_5k_carton": 202.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SKICKL"
+   ],
+   "description": "Steel Left Kick Out Flashing",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 4.58,
+    "20k_carton": 114.5,
+    "10k_unit": 4.85,
+    "10k_carton": 121.25,
+    "5k_unit": 4.85,
+    "5k_carton": 121.25,
+    "2_5k_unit": 4.85,
+    "2_5k_carton": 121.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-SKICKR-"
+   ],
+   "description": "Steel Right Kick Out Flashing- Painted",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 7.68,
+    "20k_carton": 192.0,
+    "10k_unit": 8.1,
+    "10k_carton": 202.5,
+    "5k_unit": 8.1,
+    "5k_carton": 202.5,
+    "2_5k_unit": 8.1,
+    "2_5k_carton": 202.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SKICKR"
+   ],
+   "description": "Steel Right Kick Out Flashing",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 4.58,
+    "20k_carton": 114.5,
+    "10k_unit": 4.85,
+    "10k_carton": 121.25,
+    "5k_unit": 4.85,
+    "5k_carton": 121.25,
+    "2_5k_unit": 4.85,
+    "2_5k_carton": 121.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-SG10H-"
+   ],
+   "description": "5\" K Steel Gutter- 28 gauge 10' Painted",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 29.03,
+    "20k_carton": 290.3,
+    "10k_unit": 30.48,
+    "10k_carton": 304.8,
+    "5k_unit": 30.48,
+    "5k_carton": 304.8,
+    "2_5k_unit": 30.48,
+    "2_5k_carton": 304.8
+   }
+  },
+  {
+   "item_nos": [
+    "S-SG10H"
+   ],
+   "description": "5\" K Steel Gutter- 28 gauge 10'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 26.5,
+    "20k_carton": 265.0,
+    "10k_unit": 27.8,
+    "10k_carton": 278.0,
+    "5k_unit": 27.8,
+    "5k_carton": 278.0,
+    "2_5k_unit": 27.8,
+    "2_5k_carton": 278.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-SG20H-"
+   ],
+   "description": "5\" K Steel Gutter- 28 gauge 20' Painted",
+   "uom": "EA",
+   "pack_qty": 5,
+   "prices": {
+    "20k_unit": 57.96,
+    "20k_carton": 289.8,
+    "10k_unit": 60.9,
+    "10k_carton": 304.5,
+    "5k_unit": 60.9,
+    "5k_carton": 304.5,
+    "2_5k_unit": 60.9,
+    "2_5k_carton": 304.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SG20H"
+   ],
+   "description": "5\" K Steel Gutter- 28 gauge 20'",
+   "uom": "EA",
+   "pack_qty": 5,
+   "prices": {
+    "20k_unit": 52.86,
+    "20k_carton": 264.3,
+    "10k_unit": 55.55,
+    "10k_carton": 277.75,
+    "5k_unit": 55.55,
+    "5k_carton": 277.75,
+    "2_5k_unit": 55.55,
+    "2_5k_carton": 277.75
+   }
+  },
+  {
+   "item_nos": [
+    "S-SRDE-"
+   ],
+   "description": "1 3/4\" Steel Overhanging Drip Edge- 10' Painted",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 8.58,
+    "20k_carton": 214.5,
+    "10k_unit": 8.85,
+    "10k_carton": 221.25,
+    "5k_unit": 8.87,
+    "5k_carton": 221.75,
+    "2_5k_unit": 9.04,
+    "2_5k_carton": 226.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-SRDE1-"
+   ],
+   "description": "1\" Steel Overhanging Drip Edge- 10' Painted",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 6.41,
+    "20k_carton": 160.25,
+    "10k_unit": 6.56,
+    "10k_carton": 164.0,
+    "5k_unit": 6.65,
+    "5k_carton": 166.25,
+    "2_5k_unit": 6.7,
+    "2_5k_carton": 167.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SRDE1.5-"
+   ],
+   "description": "1 1/2\" Steel Overhanging Drip Edge- 10' Painted",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 5.89,
+    "20k_carton": 147.25,
+    "10k_unit": 6.07,
+    "10k_carton": 151.75,
+    "5k_unit": 6.12,
+    "5k_carton": 153.0,
+    "2_5k_unit": 6.25,
+    "2_5k_carton": 156.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-SRDETD5-"
+   ],
+   "description": "5\" Steel Style D Roof Edge-Painted 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 6.47,
+    "20k_carton": 161.75,
+    "10k_unit": 6.79,
+    "10k_carton": 169.75,
+    "5k_unit": 6.79,
+    "5k_carton": 169.75,
+    "2_5k_unit": 6.79,
+    "2_5k_carton": 169.75
+   }
+  },
+  {
+   "item_nos": [
+    "S-SRDETD5"
+   ],
+   "description": "5\" Steel Style D Roof Edge- 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 6.3,
+    "20k_carton": 157.5,
+    "10k_unit": 6.62,
+    "10k_carton": 165.5,
+    "5k_unit": 6.62,
+    "5k_carton": 165.5,
+    "2_5k_unit": 6.62,
+    "2_5k_carton": 165.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SBRDETD5-"
+   ],
+   "description": "5\" Steel Builders Style D Roof Edge- Painted 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 6.8,
+    "20k_carton": 170.0,
+    "10k_unit": 7.14,
+    "10k_carton": 178.5,
+    "5k_unit": 7.14,
+    "5k_carton": 178.5,
+    "2_5k_unit": 7.14,
+    "2_5k_carton": 178.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SBRDETD5"
+   ],
+   "description": "5\" Steel Builders Style D Roof Edge- 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 5.83,
+    "20k_carton": 145.75,
+    "10k_unit": 6.12,
+    "10k_carton": 153.0,
+    "5k_unit": 6.12,
+    "5k_carton": 153.0,
+    "2_5k_unit": 6.12,
+    "2_5k_carton": 153.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-SBRDETLL6-"
+   ],
+   "description": "6\" Steel Builders Style LL Roof Edge- Painted 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 8.82,
+    "20k_carton": 220.5,
+    "10k_unit": 9.25,
+    "10k_carton": 231.25,
+    "5k_unit": 9.25,
+    "5k_carton": 231.25,
+    "2_5k_unit": 9.25,
+    "2_5k_carton": 231.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-SBRDETLL6"
+   ],
+   "description": "6\" Steel Builders Style LL Roof Edge- 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 7.63,
+    "20k_carton": 190.75,
+    "10k_unit": 7.99,
+    "10k_carton": 199.75,
+    "5k_unit": 7.99,
+    "5k_carton": 199.75,
+    "2_5k_unit": 7.99,
+    "2_5k_carton": 199.75
+   }
+  },
+  {
+   "item_nos": [
+    "S-SGA-"
+   ],
+   "description": "Steel Gutter Apron- 10' Painted",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 6.41,
+    "20k_carton": 160.25,
+    "10k_unit": 6.77,
+    "10k_carton": 169.25,
+    "5k_unit": 6.77,
+    "5k_carton": 169.25,
+    "2_5k_unit": 6.77,
+    "2_5k_carton": 169.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-SGA"
+   ],
+   "description": "Steel Gutter Apron- 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 5.89,
+    "20k_carton": 147.25,
+    "10k_unit": 6.14,
+    "10k_carton": 153.5,
+    "5k_unit": 6.14,
+    "5k_carton": 153.5,
+    "2_5k_unit": 6.14,
+    "2_5k_carton": 153.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SGAH-"
+   ],
+   "description": "Steel Gutter Apron- Full Gauge 10' Painted",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 6.47,
+    "20k_carton": 161.75,
+    "10k_unit": 6.79,
+    "10k_carton": 169.75,
+    "5k_unit": 6.79,
+    "5k_carton": 169.75,
+    "2_5k_unit": 6.79,
+    "2_5k_carton": 169.75
+   }
+  },
+  {
+   "item_nos": [
+    "S-SGAH"
+   ],
+   "description": "Steel Gutter Apron- Full Gauge 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 6.25,
+    "20k_carton": 156.25,
+    "10k_unit": 6.49,
+    "10k_carton": 162.25,
+    "5k_unit": 6.49,
+    "5k_carton": 162.25,
+    "2_5k_unit": 6.49,
+    "2_5k_carton": 162.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-S6X50RV"
+   ],
+   "description": "6\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 28.34,
+    "20k_carton": 2834.0,
+    "10k_unit": 28.34,
+    "10k_carton": 2834.0,
+    "5k_unit": 28.34,
+    "5k_carton": 2834.0,
+    "2_5k_unit": 28.34,
+    "2_5k_carton": 2834.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S8X50RV"
+   ],
+   "description": "8\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 37.78,
+    "20k_carton": 3778.0,
+    "10k_unit": 37.78,
+    "10k_carton": 3778.0,
+    "5k_unit": 37.78,
+    "5k_carton": 3778.0,
+    "2_5k_unit": 37.78,
+    "2_5k_carton": 3778.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S10X50RV"
+   ],
+   "description": "10\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 75,
+   "prices": {
+    "20k_unit": 47.23,
+    "20k_carton": 3542.25,
+    "10k_unit": 47.23,
+    "10k_carton": 3542.25,
+    "5k_unit": 47.23,
+    "5k_carton": 3542.25,
+    "2_5k_unit": 47.23,
+    "2_5k_carton": 3542.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-S12X50RV"
+   ],
+   "description": "12\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 56.67,
+    "20k_carton": 5667.0,
+    "10k_unit": 56.67,
+    "10k_carton": 5667.0,
+    "5k_unit": 56.67,
+    "5k_carton": 5667.0,
+    "2_5k_unit": 56.67,
+    "2_5k_carton": 5667.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S14X50RV"
+   ],
+   "description": "14\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 66.11,
+    "20k_carton": 3305.5,
+    "10k_unit": 66.11,
+    "10k_carton": 3305.5,
+    "5k_unit": 66.11,
+    "5k_carton": 3305.5,
+    "2_5k_unit": 66.11,
+    "2_5k_carton": 3305.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-S16X50RV"
+   ],
+   "description": "16\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 75,
+   "prices": {
+    "20k_unit": 75.55,
+    "20k_carton": 5666.25,
+    "10k_unit": 75.55,
+    "10k_carton": 5666.25,
+    "5k_unit": 75.55,
+    "5k_carton": 5666.25,
+    "2_5k_unit": 75.55,
+    "2_5k_carton": 5666.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-S18X50RV"
+   ],
+   "description": "18\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 89.13,
+    "20k_carton": 4456.5,
+    "10k_unit": 89.13,
+    "10k_carton": 4456.5,
+    "5k_unit": 89.13,
+    "5k_carton": 4456.5,
+    "2_5k_unit": 89.13,
+    "2_5k_carton": 4456.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-S20X50RV"
+   ],
+   "description": "20\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 94.22,
+    "20k_carton": 2355.5,
+    "10k_unit": 94.22,
+    "10k_carton": 2355.5,
+    "5k_unit": 94.22,
+    "5k_carton": 2355.5,
+    "2_5k_unit": 94.22,
+    "2_5k_carton": 2355.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-S24X50RV"
+   ],
+   "description": "24\" x 50' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 113.33,
+    "20k_carton": 2833.25,
+    "10k_unit": 113.33,
+    "10k_carton": 2833.25,
+    "5k_unit": 113.33,
+    "5k_carton": 2833.25,
+    "2_5k_unit": 113.33,
+    "2_5k_carton": 2833.25
+   }
+  },
+  {
+   "item_nos": [
+    "S-S10X25RV"
+   ],
+   "description": "10\" x 25' Roll Valley",
+   "uom": "EA",
+   "pack_qty": 75,
+   "prices": {
+    "20k_unit": 25.22,
+    "20k_carton": 1891.5,
+    "10k_unit": 25.22,
+    "10k_carton": 1891.5,
+    "5k_unit": 25.22,
+    "5k_carton": 1891.5,
+    "2_5k_unit": 25.22,
+    "2_5k_carton": 1891.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SB20X50RV"
+   ],
+   "description": "20\" x 50' Steel Builders Roll Valley",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 87.14,
+    "20k_carton": 2178.5,
+    "10k_unit": 87.14,
+    "10k_carton": 2178.5,
+    "5k_unit": 87.14,
+    "5k_carton": 2178.5,
+    "2_5k_unit": 87.14,
+    "2_5k_carton": 2178.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SB24X50RV"
+   ],
+   "description": "24\" x 50' Steel Builders Roll Valley",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "20k_unit": 109.23,
+    "20k_carton": 2730.75,
+    "10k_unit": 109.23,
+    "10k_carton": 2730.75,
+    "5k_unit": 109.23,
+    "5k_carton": 2730.75,
+    "2_5k_unit": 109.23,
+    "2_5k_carton": 2730.75
+   }
+  },
+  {
+   "item_nos": [
+    "S-S18X10WV-"
+   ],
+   "description": "18\" x 10' W Valley- 30 gauge Painted",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 20.34,
+    "20k_carton": 1017.0,
+    "10k_unit": 20.34,
+    "10k_carton": 1017.0,
+    "5k_unit": 20.34,
+    "5k_carton": 1017.0,
+    "2_5k_unit": 20.34,
+    "2_5k_carton": 1017.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S18X10WV"
+   ],
+   "description": "18\" x 10' W Valley- 30 gauge",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 16.88,
+    "20k_carton": 844.0,
+    "10k_unit": 16.88,
+    "10k_carton": 844.0,
+    "5k_unit": 16.88,
+    "5k_carton": 844.0,
+    "2_5k_unit": 16.88,
+    "2_5k_carton": 844.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S20X10WV-"
+   ],
+   "description": "20\" x 10' W Valley- 30 gauge Painted",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 22.28,
+    "20k_carton": 1114.0,
+    "10k_unit": 22.28,
+    "10k_carton": 1114.0,
+    "5k_unit": 22.28,
+    "5k_carton": 1114.0,
+    "2_5k_unit": 22.28,
+    "2_5k_carton": 1114.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S20X10WV"
+   ],
+   "description": "20\" x 10' W Valley- 30 gauge",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 16.76,
+    "20k_carton": 838.0,
+    "10k_unit": 16.76,
+    "10k_carton": 838.0,
+    "5k_unit": 16.76,
+    "5k_carton": 838.0,
+    "2_5k_unit": 16.76,
+    "2_5k_carton": 838.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S20X10WVH-"
+   ],
+   "description": "20\" x 10' W Valley- 28 gauge Painted",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 27.22,
+    "20k_carton": 1361.0,
+    "10k_unit": 27.22,
+    "10k_carton": 1361.0,
+    "5k_unit": 27.22,
+    "5k_carton": 1361.0,
+    "2_5k_unit": 27.22,
+    "2_5k_carton": 1361.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S20X10WVH"
+   ],
+   "description": "20\" x 10' W Valley- 28 gauge",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 22.47,
+    "20k_carton": 1123.5,
+    "10k_unit": 22.47,
+    "10k_carton": 1123.5,
+    "5k_unit": 22.47,
+    "5k_carton": 1123.5,
+    "2_5k_unit": 22.47,
+    "2_5k_carton": 1123.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-S24X10WVH-"
+   ],
+   "description": "24\" x 10' W Valley- 28 gauge Painted",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 28.19,
+    "20k_carton": 1409.5,
+    "10k_unit": 28.19,
+    "10k_carton": 1409.5,
+    "5k_unit": 28.19,
+    "5k_carton": 1409.5,
+    "2_5k_unit": 28.19,
+    "2_5k_carton": 1409.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-S24X10WVH"
+   ],
+   "description": "24\" x 10' W Valley- 28 gauge",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "20k_unit": 26.25,
+    "20k_carton": 1312.5,
+    "10k_unit": 26.25,
+    "10k_carton": 1312.5,
+    "5k_unit": 26.25,
+    "5k_carton": 1312.5,
+    "2_5k_unit": 26.25,
+    "2_5k_carton": 1312.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-S5X7GFS"
+   ],
+   "description": "5X7 Galv. Flat Shingle",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 0.53,
+    "20k_carton": 53.0,
+    "10k_unit": 0.53,
+    "10k_carton": 53.0,
+    "5k_unit": 0.53,
+    "5k_carton": 53.0,
+    "2_5k_unit": 0.53,
+    "2_5k_carton": 53.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S8X8GFS"
+   ],
+   "description": "8X8 Galv. Flat Shingle",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 0.78,
+    "20k_carton": 78.0,
+    "10k_unit": 0.78,
+    "10k_carton": 78.0,
+    "5k_unit": 0.78,
+    "5k_carton": 78.0,
+    "2_5k_unit": 0.78,
+    "2_5k_carton": 78.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S6X12GFS-"
+   ],
+   "description": "6X12 Galv. Flat Shingle- Painted",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 1.56,
+    "20k_carton": 156.0,
+    "10k_unit": 1.56,
+    "10k_carton": 156.0,
+    "5k_unit": 1.56,
+    "5k_carton": 156.0,
+    "2_5k_unit": 1.56,
+    "2_5k_carton": 156.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S6X12GFS"
+   ],
+   "description": "6X12 Galv. Flat Shingle",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 1.0,
+    "20k_carton": 100.0,
+    "10k_unit": 1.0,
+    "10k_carton": 100.0,
+    "5k_unit": 1.0,
+    "5k_carton": 100.0,
+    "2_5k_unit": 1.0,
+    "2_5k_carton": 100.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S2.5X2.5X7GSF-"
+   ],
+   "description": "2.5X2.5X7\" Galv. Step Flashing-Painted",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 0.87,
+    "20k_carton": 87.0,
+    "10k_unit": 0.87,
+    "10k_carton": 87.0,
+    "5k_unit": 0.87,
+    "5k_carton": 87.0,
+    "2_5k_unit": 0.87,
+    "2_5k_carton": 87.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S2.5X2.5X7GSF"
+   ],
+   "description": "2.5X2.5X7\" Galv. Step Flashing",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 0.61,
+    "20k_carton": 61.0,
+    "10k_unit": 0.61,
+    "10k_carton": 61.0,
+    "5k_unit": 0.61,
+    "5k_carton": 61.0,
+    "2_5k_unit": 0.61,
+    "2_5k_carton": 61.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S4X4X8GSF-"
+   ],
+   "description": "4\"X4\"X8\" Galv. Step Flashing- Painted",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 1.09,
+    "20k_carton": 109.0,
+    "10k_unit": 1.09,
+    "10k_carton": 109.0,
+    "5k_unit": 1.09,
+    "5k_carton": 109.0,
+    "2_5k_unit": 1.09,
+    "2_5k_carton": 109.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-S4X4X8GSF"
+   ],
+   "description": "4\"X4\"X8\" Galv. Step Flashing",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "20k_unit": 1.05,
+    "20k_carton": 105.0,
+    "10k_unit": 1.05,
+    "10k_carton": 105.0,
+    "5k_unit": 1.05,
+    "5k_carton": 105.0,
+    "2_5k_unit": 1.05,
+    "2_5k_carton": 105.0
+   }
+  },
+  {
+   "item_nos": [
+    "S-SDORMF10-"
+   ],
+   "description": "Steel Dormer Flashing- 10'- Painted",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 22.28,
+    "20k_carton": 222.8,
+    "10k_unit": 23.39,
+    "10k_carton": 233.9,
+    "5k_unit": 23.39,
+    "5k_carton": 233.9,
+    "2_5k_unit": 23.39,
+    "2_5k_carton": 233.9
+   }
+  },
+  {
+   "item_nos": [
+    "S-SDORMF10"
+   ],
+   "description": "Steel Dormer Flashing- 10'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 15.78,
+    "20k_carton": 157.8,
+    "10k_unit": 16.54,
+    "10k_carton": 165.4,
+    "5k_unit": 16.54,
+    "5k_carton": 165.4,
+    "2_5k_unit": 16.54,
+    "2_5k_carton": 165.4
+   }
+  },
+  {
+   "item_nos": [
+    "S-SREGLET-"
+   ],
+   "description": "Steel Reglet- 10' Painted",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 17.31,
+    "20k_carton": 173.1,
+    "10k_unit": 18.15,
+    "10k_carton": 181.5,
+    "5k_unit": 18.15,
+    "5k_carton": 181.5,
+    "2_5k_unit": 18.15,
+    "2_5k_carton": 181.5
+   }
+  },
+  {
+   "item_nos": [
+    "S-SREGLET"
+   ],
+   "description": "Steel Reglet- 10'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "20k_unit": 16.15,
+    "20k_carton": 161.5,
+    "10k_unit": 16.93,
+    "10k_carton": 169.3,
+    "5k_unit": 16.93,
+    "5k_carton": 169.3,
+    "2_5k_unit": 16.93,
+    "2_5k_carton": 169.3
+   }
+  }
+ ],
+ "increases": [],
+ "notes": "Trim coil and gutter coil priced monthly. Item numbers ending in \"-\" take a color code suffix."
+}

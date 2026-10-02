@@ -1,0 +1,3320 @@
+{
+ "vendor_name": "Lynch Aluminum Mfg. Co.",
+ "document_type": "price_list",
+ "effective_date": "2026-06-03",
+ "price_columns": [
+  {
+   "key": "box",
+   "label": "Preferred box price",
+   "unit": "box"
+  },
+  {
+   "key": "piece",
+   "label": "Full box piece price",
+   "unit": "piece"
+  },
+  {
+   "key": "partial_piece",
+   "label": "Partial box piece price (+10%)",
+   "unit": "piece"
+  }
+ ],
+ "items": [
+  {
+   "item_nos": [
+    "20"
+   ],
+   "description": "2\" x 3\" .019 Gauge Downspout 10'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 143.31,
+    "piece": 14.33,
+    "partial_piece": 15.76
+   }
+  },
+  {
+   "item_nos": [
+    "21"
+   ],
+   "description": "2\" x 3\" .019 Gauge Downspout 8'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 111.58,
+    "piece": 11.16,
+    "partial_piece": 12.27
+   }
+  },
+  {
+   "item_nos": [
+    "27"
+   ],
+   "description": "2\" x 3\" .019 Gauge Downspout 11'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 168.29,
+    "piece": 16.83,
+    "partial_piece": 18.51
+   }
+  },
+  {
+   "item_nos": [
+    "24"
+   ],
+   "description": "3\" x 4\" .019 Gauge Downspout 10'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 192.77,
+    "piece": 19.28,
+    "partial_piece": 21.2
+   }
+  },
+  {
+   "item_nos": [
+    "26"
+   ],
+   "description": "3\" x 4\" .019 Gauge Downspout 8'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 146.66,
+    "piece": 14.67,
+    "partial_piece": 16.13
+   }
+  },
+  {
+   "item_nos": [
+    "2411"
+   ],
+   "description": "3\" x 4\" .019 Gauge Downspout 11'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 228.11,
+    "piece": 22.81,
+    "partial_piece": 25.09
+   }
+  },
+  {
+   "item_nos": [
+    "22"
+   ],
+   "description": "3\" x 4\" .024 Gauge Downspout 10'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 214.15,
+    "piece": 21.42,
+    "partial_piece": 23.56
+   }
+  },
+  {
+   "item_nos": [
+    "25"
+   ],
+   "description": "3\" x 4\" .024 Gauge Downspout 8'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 162.1,
+    "piece": 16.21,
+    "partial_piece": 17.83
+   }
+  },
+  {
+   "item_nos": [
+    "23"
+   ],
+   "description": "3\" x 4\" .024 Gauge Downspout 11'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 233.68,
+    "piece": 23.37,
+    "partial_piece": 25.7
+   }
+  },
+  {
+   "item_nos": [
+    "22SR"
+   ],
+   "description": "4\" Smooth Round Downspout 10'",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 446.01,
+    "piece": 44.6
+   }
+  },
+  {
+   "item_nos": [
+    "07"
+   ],
+   "description": "4\"x 5\" .027 Gauge Downspout 10'",
+   "uom": "EA",
+   "pack_qty": 6,
+   "prices": {
+    "box": 332.61,
+    "piece": 55.44,
+    "partial_piece": 60.98
+   }
+  },
+  {
+   "item_nos": [
+    "36"
+   ],
+   "description": "2\" x 3\" A Elbows",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "box": 43.94,
+    "piece": 1.46,
+    "partial_piece": 1.61
+   }
+  },
+  {
+   "item_nos": [
+    "37"
+   ],
+   "description": "2\" x 3\" B Elbows",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "box": 48.78,
+    "piece": 1.63,
+    "partial_piece": 1.79
+   }
+  },
+  {
+   "item_nos": [
+    "34"
+   ],
+   "description": "3\" x 4\" .019 Gauge A Elbows",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 48.83,
+    "piece": 2.44,
+    "partial_piece": 2.69
+   }
+  },
+  {
+   "item_nos": [
+    "35"
+   ],
+   "description": "3\" x 4\" .019 Gauge B Elbows",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 58.13,
+    "piece": 2.91,
+    "partial_piece": 3.2
+   }
+  },
+  {
+   "item_nos": [
+    "32"
+   ],
+   "description": "3\" x 4\" .024 Gauge A Elbows",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 55.26,
+    "piece": 2.76,
+    "partial_piece": 3.04
+   }
+  },
+  {
+   "item_nos": [
+    "33"
+   ],
+   "description": "3\" x 4\" .024 Gauge B Elbows",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 69.13,
+    "piece": 3.46,
+    "partial_piece": 3.8
+   }
+  },
+  {
+   "item_nos": [
+    "32SR"
+   ],
+   "description": "4\" Smooth Round Elbows (Universal)",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "box": 234.66,
+    "piece": 7.82
+   }
+  },
+  {
+   "item_nos": [
+    "08"
+   ],
+   "description": "4\" x 5\" .027 Gauge A Elbows",
+   "uom": "EA",
+   "pack_qty": 9,
+   "prices": {
+    "box": 97.97,
+    "piece": 10.89,
+    "partial_piece": 11.97
+   }
+  },
+  {
+   "item_nos": [
+    "09"
+   ],
+   "description": "4\" x 5\" .027 Gauge B Elbows",
+   "uom": "EA",
+   "pack_qty": 9,
+   "prices": {
+    "box": 101.6,
+    "piece": 11.29,
+    "partial_piece": 12.42
+   }
+  },
+  {
+   "item_nos": [
+    "28"
+   ],
+   "description": "2\" x 3\" 45 Degree A Elbows",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 36.65,
+    "piece": 1.47,
+    "partial_piece": 1.61
+   }
+  },
+  {
+   "item_nos": [
+    "29"
+   ],
+   "description": "2\" x 3\" 45 Degree B Elbows",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 39.91,
+    "piece": 1.6,
+    "partial_piece": 1.76
+   }
+  },
+  {
+   "item_nos": [
+    "18"
+   ],
+   "description": "3\" x 4\" 45 Degree A Elbows",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 48.75,
+    "piece": 2.44,
+    "partial_piece": 2.68
+   }
+  },
+  {
+   "item_nos": [
+    "19"
+   ],
+   "description": "3\" x 4\" 45 Degree B Elbows",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 55.11,
+    "piece": 2.76,
+    "partial_piece": 3.03
+   }
+  },
+  {
+   "item_nos": [
+    "18SR"
+   ],
+   "description": "4\" Smooth Round 45\u00b0 Elbow (Universal)",
+   "uom": "EA",
+   "pack_qty": 30,
+   "prices": {
+    "box": 148.48,
+    "piece": 7.42,
+    "partial_piece": 8.17
+   }
+  },
+  {
+   "item_nos": [
+    "0545"
+   ],
+   "description": "4\" x 5\" 45 Degree A Elbows",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 130.63,
+    "piece": 10.89,
+    "partial_piece": 11.97
+   }
+  },
+  {
+   "item_nos": [
+    "40",
+    "41"
+   ],
+   "description": "5\" Box Miter I/S & O/S",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 106.43,
+    "piece": 5.32,
+    "partial_piece": 5.85
+   }
+  },
+  {
+   "item_nos": [
+    "44",
+    "45"
+   ],
+   "description": "6\" Box Miter I/S & O/S",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 263.89,
+    "piece": 13.19,
+    "partial_piece": 14.51
+   }
+  },
+  {
+   "item_nos": [
+    "42",
+    "43"
+   ],
+   "description": "5\" Strip Miters I/S & O/S",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 49.98,
+    "piece": 2.5,
+    "partial_piece": 2.75
+   }
+  },
+  {
+   "item_nos": [
+    "46",
+    "47"
+   ],
+   "description": "6\" Strip Miters I/S & O/S",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 131.58,
+    "piece": 6.58,
+    "partial_piece": 7.24
+   }
+  },
+  {
+   "item_nos": [
+    "73",
+    "74"
+   ],
+   "description": "7\" Strip Miters I/S & O/S",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 249.9,
+    "piece": 12.49,
+    "partial_piece": 13.74
+   }
+  },
+  {
+   "item_nos": [
+    "46R",
+    "47R"
+   ],
+   "description": "6\" Half Round Strip Miters I/S & O/S",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 158.25,
+    "piece": 7.91
+   }
+  },
+  {
+   "item_nos": [
+    "48",
+    "49"
+   ],
+   "description": "5\" 45\u00b0 Bay Strip Miter I/S & O/S",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 80.21,
+    "piece": 4.01,
+    "partial_piece": 4.41
+   }
+  },
+  {
+   "item_nos": [
+    "54",
+    "55"
+   ],
+   "description": "6\" 45\u00b0 Bay Strip Miter I/S & O/S",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 177.39,
+    "piece": 8.87,
+    "partial_piece": 9.76
+   }
+  },
+  {
+   "item_nos": [
+    "73B",
+    "74B"
+   ],
+   "description": "7\" 45\u00b0 Bay Strip Miter I/S & O/S",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 263.31,
+    "piece": 13.17,
+    "partial_piece": 14.48
+   }
+  },
+  {
+   "item_nos": [
+    "40X"
+   ],
+   "description": "5\" I/S Extreme Miter",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 114.94,
+    "piece": 11.49,
+    "partial_piece": 12.64
+   }
+  },
+  {
+   "item_nos": [
+    "44X"
+   ],
+   "description": "6\" I/S Extreme Miter",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 205.68,
+    "piece": 20.57,
+    "partial_piece": 22.62
+   }
+  },
+  {
+   "item_nos": [
+    "50",
+    "51"
+   ],
+   "description": "5\" End Caps R/H & L/H",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 32.77,
+    "piece": 0.66,
+    "partial_piece": 0.72
+   }
+  },
+  {
+   "item_nos": [
+    "52",
+    "53"
+   ],
+   "description": "6\" End Caps R/H & L/H",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 57.45,
+    "piece": 1.15,
+    "partial_piece": 1.26
+   }
+  },
+  {
+   "item_nos": [
+    "52R"
+   ],
+   "description": "6\" Half Round Endcaps (Universal)",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 55.53,
+    "piece": 2.78
+   }
+  },
+  {
+   "item_nos": [
+    "77",
+    "78"
+   ],
+   "description": "7\" End Caps R/H & L/H",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 200.53,
+    "piece": 8.02,
+    "partial_piece": 8.82
+   }
+  },
+  {
+   "item_nos": [
+    "90A"
+   ],
+   "description": "5\" Standard Gutter Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 102.84,
+    "piece": 0.21,
+    "partial_piece": 0.23
+   }
+  },
+  {
+   "item_nos": [
+    "91A"
+   ],
+   "description": "5\" Standard Gutter Bracket No Clip",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 102.84,
+    "piece": 0.21,
+    "partial_piece": 0.23
+   }
+  },
+  {
+   "item_nos": [
+    "90B"
+   ],
+   "description": "5\" Supreme Bracket W/SS Strap",
+   "uom": "EA",
+   "pack_qty": 250,
+   "prices": {
+    "box": 304.75,
+    "piece": 1.22,
+    "partial_piece": 1.34
+   }
+  },
+  {
+   "item_nos": [
+    "90A6"
+   ],
+   "description": "6\" Standard Gutter Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 213.81,
+    "piece": 0.43,
+    "partial_piece": 0.47
+   }
+  },
+  {
+   "item_nos": [
+    "90B6"
+   ],
+   "description": "6\" Supreme Bracket W/SS Strap",
+   "uom": "EA",
+   "pack_qty": 250,
+   "prices": {
+    "box": 356.25,
+    "piece": 1.43,
+    "partial_piece": 1.57
+   }
+  },
+  {
+   "item_nos": [
+    "94C"
+   ],
+   "description": "7\" Supreme Gutter Bracket No Clip",
+   "uom": "EA",
+   "pack_qty": 350,
+   "prices": {
+    "box": 393.82,
+    "piece": 1.13,
+    "partial_piece": 1.24
+   }
+  },
+  {
+   "item_nos": [
+    "82"
+   ],
+   "description": "5\" Brute Heavy Duty Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 211.64,
+    "piece": 0.42,
+    "partial_piece": 0.47
+   }
+  },
+  {
+   "item_nos": [
+    "83"
+   ],
+   "description": "5\" Brute Heavy Duty Bracket No Clip",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 202.59,
+    "piece": 0.41,
+    "partial_piece": 0.45
+   }
+  },
+  {
+   "item_nos": [
+    "86"
+   ],
+   "description": "6\" Brute Heavy Duty Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 300,
+   "prices": {
+    "box": 178.06,
+    "piece": 0.59,
+    "partial_piece": 0.65
+   }
+  },
+  {
+   "item_nos": [
+    "86A"
+   ],
+   "description": "6\" Brute Heavy Duty Bracket No Clip",
+   "uom": "EA",
+   "pack_qty": 300,
+   "prices": {
+    "box": 174.4,
+    "piece": 0.58,
+    "partial_piece": 0.64
+   }
+  },
+  {
+   "item_nos": [
+    "HB5W"
+   ],
+   "description": "5\" Hangtite Gutter Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 1000,
+   "prices": {
+    "box": 331.54,
+    "piece": 0.33,
+    "partial_piece": 0.36
+   }
+  },
+  {
+   "item_nos": [
+    "HB5N"
+   ],
+   "description": "5\" Hangtite Gutter Bracket No Clip",
+   "uom": "EA",
+   "pack_qty": 1000,
+   "prices": {
+    "box": 309.41,
+    "piece": 0.31,
+    "partial_piece": 0.34
+   }
+  },
+  {
+   "item_nos": [
+    "HB6W"
+   ],
+   "description": "6\" Hangtite Gutter Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 1000,
+   "prices": {
+    "box": 553.02,
+    "piece": 0.55,
+    "partial_piece": 0.61
+   }
+  },
+  {
+   "item_nos": [
+    "HB6N"
+   ],
+   "description": "6\" Hangtite Gutter Bracket No Clip",
+   "uom": "EA",
+   "pack_qty": 1000,
+   "prices": {
+    "box": 530.88,
+    "piece": 0.53,
+    "partial_piece": 0.58
+   }
+  },
+  {
+   "item_nos": [
+    "92"
+   ],
+   "description": "5\" Quickscrew Gutter Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 358.63,
+    "piece": 0.72,
+    "partial_piece": 0.79
+   }
+  },
+  {
+   "item_nos": [
+    "92N"
+   ],
+   "description": "5\" Quickscrew Gutter Bracket No Clip",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 343.05,
+    "piece": 0.69,
+    "partial_piece": 0.75
+   }
+  },
+  {
+   "item_nos": [
+    "93"
+   ],
+   "description": "6\" Quickscrew Gutter Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 300,
+   "prices": {
+    "box": 276.32,
+    "piece": 0.92,
+    "partial_piece": 1.01
+   }
+  },
+  {
+   "item_nos": [
+    "93N"
+   ],
+   "description": "6\" Quickscrew Gutter Bracket No Clip",
+   "uom": "EA",
+   "pack_qty": 300,
+   "prices": {
+    "box": 276.32,
+    "piece": 0.92,
+    "partial_piece": 1.01
+   }
+  },
+  {
+   "item_nos": [
+    "94"
+   ],
+   "description": "7\" Supreme Gutter Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 250,
+   "prices": {
+    "box": 659.89,
+    "piece": 2.64,
+    "partial_piece": 2.9
+   }
+  },
+  {
+   "item_nos": [
+    "HF5"
+   ],
+   "description": "5\" Hangfast Gutter Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 367.9,
+    "piece": 0.74,
+    "partial_piece": 0.81
+   }
+  },
+  {
+   "item_nos": [
+    "HF6"
+   ],
+   "description": "6\" Hangfast Gutter Bracket With Clip",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 563.5,
+    "piece": 1.13,
+    "partial_piece": 1.24
+   }
+  },
+  {
+   "item_nos": [
+    "HF54"
+   ],
+   "description": "5\" Hangfast Gutter Bracket With Clip (w/ 4\" screw)",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 382.9,
+    "piece": 0.77,
+    "partial_piece": 0.84
+   }
+  },
+  {
+   "item_nos": [
+    "HF64"
+   ],
+   "description": "6\" Hangfast Gutter Bracket With Clip (w/ 4\" screw)",
+   "uom": "EA",
+   "pack_qty": 500,
+   "prices": {
+    "box": 578.5,
+    "piece": 1.16,
+    "partial_piece": 1.27
+   }
+  },
+  {
+   "item_nos": [
+    "VH5"
+   ],
+   "description": "5\" Vampire Hanger",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 192.32,
+    "piece": 1.92,
+    "partial_piece": 2.12
+   }
+  },
+  {
+   "item_nos": [
+    "VH6"
+   ],
+   "description": "6\" Vampire Hanger",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 219.5,
+    "piece": 2.2,
+    "partial_piece": 2.41
+   }
+  },
+  {
+   "item_nos": [
+    "96CS"
+   ],
+   "description": "#10 Half Round Combo Hanger",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 791.78,
+    "piece": 15.84
+   }
+  },
+  {
+   "item_nos": [
+    "97A"
+   ],
+   "description": "T-Straps (For use with Hangtite Brackets)",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 33.59,
+    "piece": 0.34,
+    "partial_piece": 0.37
+   }
+  },
+  {
+   "item_nos": [
+    "97"
+   ],
+   "description": "Roof Hook Straps (For use with Brute Brackets)",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 43.45,
+    "piece": 0.43,
+    "partial_piece": 0.48
+   }
+  },
+  {
+   "item_nos": [
+    "112"
+   ],
+   "description": "2\" x 3\" Rectangular Outlets",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 86.66,
+    "piece": 0.87,
+    "partial_piece": 0.95
+   }
+  },
+  {
+   "item_nos": [
+    "115AM"
+   ],
+   "description": "3\" x 4\" Rectangular Pop-In Outlets",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 104.46,
+    "piece": 1.04,
+    "partial_piece": 1.15
+   }
+  },
+  {
+   "item_nos": [
+    "115"
+   ],
+   "description": "3\" x 4\" Oval Outlets",
+   "uom": "EA",
+   "pack_qty": 60,
+   "prices": {
+    "box": 53.96,
+    "piece": 0.9,
+    "partial_piece": 0.99
+   }
+  },
+  {
+   "item_nos": [
+    "110"
+   ],
+   "description": "2 3/8\" Round Pop-In Outlets",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 57.49,
+    "piece": 0.57,
+    "partial_piece": 0.63
+   }
+  },
+  {
+   "item_nos": [
+    "116"
+   ],
+   "description": "2 3/4\" Round Pop-In Outlets",
+   "uom": "EA",
+   "pack_qty": 250,
+   "prices": {
+    "box": 199.75,
+    "piece": 0.8,
+    "partial_piece": 0.88
+   }
+  },
+  {
+   "item_nos": [
+    "114"
+   ],
+   "description": "3 3/8\" Round Pop-In Outlets",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 156.79,
+    "piece": 1.57,
+    "partial_piece": 1.72
+   }
+  },
+  {
+   "item_nos": [
+    "117A"
+   ],
+   "description": "345 Oval Outlet",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 190.75,
+    "piece": 1.91,
+    "partial_piece": 2.1
+   }
+  },
+  {
+   "item_nos": [
+    "115HR"
+   ],
+   "description": "4\" Half Round Outlets",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 313.68,
+    "piece": 6.27
+   }
+  },
+  {
+   "item_nos": [
+    "P-06"
+   ],
+   "description": "4\" x 5\" Rectangular Outlets",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 8.31,
+    "piece": 8.31
+   }
+  },
+  {
+   "item_nos": [
+    "62"
+   ],
+   "description": "2\" x 3\" Downspout Saddles",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 49.15,
+    "piece": 0.49,
+    "partial_piece": 0.54
+   }
+  },
+  {
+   "item_nos": [
+    "63"
+   ],
+   "description": "3\" x 4\" Downspout Saddles",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 32.18,
+    "piece": 0.64,
+    "partial_piece": 0.71
+   }
+  },
+  {
+   "item_nos": [
+    "60",
+    "64"
+   ],
+   "description": "2\" x 3\" Pipebands Standard & Ornamental",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 49.15,
+    "piece": 0.49,
+    "partial_piece": 0.54
+   }
+  },
+  {
+   "item_nos": [
+    "61",
+    "65"
+   ],
+   "description": "3\" x 4\" Pipebands Standard & Ornamental",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 54.61,
+    "piece": 0.55,
+    "partial_piece": 0.6
+   }
+  },
+  {
+   "item_nos": [
+    "DPB"
+   ],
+   "description": "4\" Round Diamond Pipebands",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 87.19,
+    "piece": 0.87
+   }
+  },
+  {
+   "item_nos": [
+    "66"
+   ],
+   "description": "4\" x 5\" Saddle-Bands",
+   "uom": "EA",
+   "pack_qty": 40,
+   "prices": {
+    "box": 58.43,
+    "piece": 1.46,
+    "partial_piece": 1.61
+   }
+  },
+  {
+   "item_nos": [
+    "38"
+   ],
+   "description": "2\" x 3\" Brickledge Offset",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 70.22,
+    "piece": 5.85,
+    "partial_piece": 6.44
+   }
+  },
+  {
+   "item_nos": [
+    "39"
+   ],
+   "description": "3\" x 4\" Brickledge Offset",
+   "uom": "EA",
+   "pack_qty": 8,
+   "prices": {
+    "box": 76.07,
+    "piece": 9.51,
+    "partial_piece": 10.46
+   }
+  },
+  {
+   "item_nos": [
+    "231A"
+   ],
+   "description": "5\" Standard Hole Drop-In 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 62.32,
+    "piece": 2.49,
+    "partial_piece": 2.74
+   }
+  },
+  {
+   "item_nos": [
+    "232A"
+   ],
+   "description": "6\" Standard Hole Drop-In 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 65.88,
+    "piece": 2.64,
+    "partial_piece": 2.9
+   }
+  },
+  {
+   "item_nos": [
+    "237"
+   ],
+   "description": "7\" Standard Hole Drop-In 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 89.03,
+    "piece": 3.56,
+    "partial_piece": 3.92
+   }
+  },
+  {
+   "item_nos": [
+    "231SH"
+   ],
+   "description": "5\" Small Hole Drop-In 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 92.59,
+    "piece": 3.7,
+    "partial_piece": 4.07
+   }
+  },
+  {
+   "item_nos": [
+    "232SH"
+   ],
+   "description": "6\" Small Hole Drop-In 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 96.15,
+    "piece": 3.85,
+    "partial_piece": 4.23
+   }
+  },
+  {
+   "item_nos": [
+    "231SH BL"
+   ],
+   "description": "5\" Small Hole Drop-In Elite 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 133.1,
+    "piece": 5.32,
+    "partial_piece": 5.86
+   }
+  },
+  {
+   "item_nos": [
+    "232SH BL"
+   ],
+   "description": "6\" Small Hole Drop-In Elite 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 140.92,
+    "piece": 5.64,
+    "partial_piece": 6.2
+   }
+  },
+  {
+   "item_nos": [
+    "237SH BL"
+   ],
+   "description": "7\" Small Hole Drop-In Elite 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 178.15,
+    "piece": 7.13,
+    "partial_piece": 7.84
+   }
+  },
+  {
+   "item_nos": [
+    "SS5"
+   ],
+   "description": "5\" Standard Hole Speed Screen 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 72.56,
+    "piece": 2.9,
+    "partial_piece": 3.19
+   }
+  },
+  {
+   "item_nos": [
+    "SS6"
+   ],
+   "description": "6\" Standard Hole Speed Screen 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 77.9,
+    "piece": 3.12,
+    "partial_piece": 3.43
+   }
+  },
+  {
+   "item_nos": [
+    "SS5 SH"
+   ],
+   "description": "5\" Small Hole Speed Screen 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 99.72,
+    "piece": 3.99,
+    "partial_piece": 4.39
+   }
+  },
+  {
+   "item_nos": [
+    "SS6 SH"
+   ],
+   "description": "6\" Small Hole Speed screen 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 106.84,
+    "piece": 4.27,
+    "partial_piece": 4.7
+   }
+  },
+  {
+   "item_nos": [
+    "SS5 SH BL"
+   ],
+   "description": "5\" Small Hole Speed Screen Elite 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 162.18,
+    "piece": 6.49,
+    "partial_piece": 7.14
+   }
+  },
+  {
+   "item_nos": [
+    "SS6 SH BL"
+   ],
+   "description": "6\" Small Hole Speed Screen Elite 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 171.19,
+    "piece": 6.85,
+    "partial_piece": 7.53
+   }
+  },
+  {
+   "item_nos": [
+    "EX5 BL"
+   ],
+   "description": "5\" Extreme Screen 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 209.03,
+    "piece": 8.36,
+    "partial_piece": 9.2
+   }
+  },
+  {
+   "item_nos": [
+    "EX6 BL"
+   ],
+   "description": "6\" Extreme Screen 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 220.74,
+    "piece": 8.83,
+    "partial_piece": 9.71
+   }
+  },
+  {
+   "item_nos": [
+    "235"
+   ],
+   "description": "5\" Standard EZ-Lock 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 115.51,
+    "piece": 4.62,
+    "partial_piece": 5.08
+   }
+  },
+  {
+   "item_nos": [
+    "235A"
+   ],
+   "description": "6\" Standard EZ-Lock 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 124.76,
+    "piece": 4.99,
+    "partial_piece": 5.49
+   }
+  },
+  {
+   "item_nos": [
+    "EZSH5"
+   ],
+   "description": "5\" EZ-Lock Small Hole 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 134.06,
+    "piece": 5.36,
+    "partial_piece": 5.9
+   }
+  },
+  {
+   "item_nos": [
+    "EZSH6"
+   ],
+   "description": "6\" EZ-Lock Small Hole 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 143.73,
+    "piece": 5.75,
+    "partial_piece": 6.32
+   }
+  },
+  {
+   "item_nos": [
+    "EZSH7"
+   ],
+   "description": "7\" EZ-Lock Small Hole 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 160.26,
+    "piece": 6.41,
+    "partial_piece": 7.05
+   }
+  },
+  {
+   "item_nos": [
+    "EZSD5"
+   ],
+   "description": "5\" EZ-Lock Small Hole Step Down 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 134.06,
+    "piece": 5.36,
+    "partial_piece": 5.9
+   }
+  },
+  {
+   "item_nos": [
+    "EZSD6"
+   ],
+   "description": "6\" EZ-Lock Small Hole Step Down 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 143.81,
+    "piece": 5.75,
+    "partial_piece": 6.33
+   }
+  },
+  {
+   "item_nos": [
+    "EZSU5"
+   ],
+   "description": "5\" EZ-Lock Small Hole Step Under 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 134.06,
+    "piece": 5.36,
+    "partial_piece": 5.9
+   }
+  },
+  {
+   "item_nos": [
+    "EZSU6"
+   ],
+   "description": "6\" EZ-Lock Small Hole Step Under 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 150.35,
+    "piece": 6.01,
+    "partial_piece": 6.62
+   }
+  },
+  {
+   "item_nos": [
+    "EZMM5"
+   ],
+   "description": "5\" EZ-Micro Mesh 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 363.34,
+    "piece": 14.53,
+    "partial_piece": 15.99
+   }
+  },
+  {
+   "item_nos": [
+    "EZMM6"
+   ],
+   "description": "6\" EZ-Micro Mesh 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 386.19,
+    "piece": 15.45,
+    "partial_piece": 16.99
+   }
+  },
+  {
+   "item_nos": [
+    "250A"
+   ],
+   "description": "Standard Leafproof (No Holes) 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 403.96,
+    "piece": 16.16,
+    "partial_piece": 17.77
+   }
+  },
+  {
+   "item_nos": [
+    "255A"
+   ],
+   "description": "Leafproof XP (Diamond Holes) 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 437.62,
+    "piece": 17.5,
+    "partial_piece": 19.26
+   }
+  },
+  {
+   "item_nos": [
+    "252U"
+   ],
+   "description": "Leafproof Universal Endcap",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 220.22,
+    "piece": 4.4,
+    "partial_piece": 4.84
+   }
+  },
+  {
+   "item_nos": [
+    "253"
+   ],
+   "description": "Leafproof Inside Corner",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 89.12,
+    "piece": 8.91,
+    "partial_piece": 9.8
+   }
+  },
+  {
+   "item_nos": [
+    "LEX5"
+   ],
+   "description": "5\" Leaf Exterminator 6'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 545.34,
+    "piece": 10.91,
+    "partial_piece": 12.0
+   }
+  },
+  {
+   "item_nos": [
+    "LEX6"
+   ],
+   "description": "6\" Leaf Exterminator 6'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 568.28,
+    "piece": 11.37,
+    "partial_piece": 12.5
+   }
+  },
+  {
+   "item_nos": [
+    "KC54"
+   ],
+   "description": "5\" Kwik Cover 4'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 269.42,
+    "piece": 5.39,
+    "partial_piece": 5.93
+   }
+  },
+  {
+   "item_nos": [
+    "KC64"
+   ],
+   "description": "6\" Kwik Cover 4'",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 285.66,
+    "piece": 5.71,
+    "partial_piece": 6.28
+   }
+  },
+  {
+   "item_nos": [
+    "KC54 BL"
+   ],
+   "description": "5\" Kwik Cover 4' Black",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 301.89,
+    "piece": 6.04,
+    "partial_piece": 6.64
+   }
+  },
+  {
+   "item_nos": [
+    "KC64 BL"
+   ],
+   "description": "6\" Kwik Cover 4' Black",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 346.3,
+    "piece": 6.93,
+    "partial_piece": 7.62
+   }
+  },
+  {
+   "item_nos": [
+    "KC5"
+   ],
+   "description": "5\" Kwik Cover 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 336.8,
+    "piece": 13.47,
+    "partial_piece": 14.82
+   }
+  },
+  {
+   "item_nos": [
+    "KC6"
+   ],
+   "description": "6\" Kwik Cover 10'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 356.95,
+    "piece": 14.28,
+    "partial_piece": 15.71
+   }
+  },
+  {
+   "item_nos": [
+    "KC5 BL"
+   ],
+   "description": "5\" Kwik Cover 10' Black",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 377.36,
+    "piece": 15.09,
+    "partial_piece": 16.6
+   }
+  },
+  {
+   "item_nos": [
+    "KC6 BL"
+   ],
+   "description": "6\" Kwik Cover 10' Black",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 432.87,
+    "piece": 17.31,
+    "partial_piece": 19.05
+   }
+  },
+  {
+   "item_nos": [
+    "LBP5"
+   ],
+   "description": "5\" Leaf Blaster Pro",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 323.4,
+    "piece": 12.94,
+    "partial_piece": 14.23
+   }
+  },
+  {
+   "item_nos": [
+    "LBP6"
+   ],
+   "description": "6\" Leaf Blaster Pro",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 369.6,
+    "piece": 14.78,
+    "partial_piece": 16.26
+   }
+  },
+  {
+   "item_nos": [
+    "LBP514"
+   ],
+   "description": "5\" Leaf Blaster Pro 14 Mesh 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 357.5,
+    "piece": 14.3,
+    "partial_piece": 15.73
+   }
+  },
+  {
+   "item_nos": [
+    "LBP6 14"
+   ],
+   "description": "6\" Leaf Blaster Pro 14 Mesh 4'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 402.6,
+    "piece": 16.1,
+    "partial_piece": 17.71
+   }
+  },
+  {
+   "item_nos": [
+    "LBP5IM"
+   ],
+   "description": "5\" Leaf Blaster Pro I/S Miter",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 110.5,
+    "piece": 11.05,
+    "partial_piece": 12.16
+   }
+  },
+  {
+   "item_nos": [
+    "LBP6IM"
+   ],
+   "description": "6\" Leaf Blaster Pro I/S Miter",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 120.5,
+    "piece": 12.05,
+    "partial_piece": 13.26
+   }
+  },
+  {
+   "item_nos": [
+    "175"
+   ],
+   "description": "Klynch Channel 7.5'",
+   "uom": "EA",
+   "pack_qty": 20,
+   "prices": {
+    "box": 177.39,
+    "piece": 8.87,
+    "partial_piece": 9.76
+   }
+  },
+  {
+   "item_nos": [
+    "176"
+   ],
+   "description": "Drip Lip 7.5'",
+   "uom": "EA",
+   "pack_qty": 40,
+   "prices": {
+    "box": 166.32,
+    "piece": 4.16,
+    "partial_piece": 4.57
+   }
+  },
+  {
+   "item_nos": [
+    "M-5300 B95"
+   ],
+   "description": "5\" Black Gutter Clean 7.44'",
+   "uom": "EA",
+   "pack_qty": 43,
+   "prices": {
+    "box": 774.14,
+    "piece": 18.0,
+    "partial_piece": 19.8
+   }
+  },
+  {
+   "item_nos": [
+    "M-6300 B95"
+   ],
+   "description": "6\" Black Gutter Clean 7.44'",
+   "uom": "EA",
+   "pack_qty": 43,
+   "prices": {
+    "box": 877.36,
+    "piece": 20.4,
+    "partial_piece": 22.44
+   }
+  },
+  {
+   "item_nos": [
+    "M-53ZIP B95"
+   ],
+   "description": "5\" Black Gutter Clean ZIP 7.44'",
+   "uom": "EA",
+   "pack_qty": 43,
+   "prices": {
+    "box": 802.82,
+    "piece": 18.67,
+    "partial_piece": 20.54
+   }
+  },
+  {
+   "item_nos": [
+    "M-63ZIP B95"
+   ],
+   "description": "6\" Black Gutter Clean ZIP 7.44'",
+   "uom": "EA",
+   "pack_qty": 43,
+   "prices": {
+    "box": 888.83,
+    "piece": 20.67,
+    "partial_piece": 22.74
+   }
+  },
+  {
+   "item_nos": [
+    "M-5200 B95"
+   ],
+   "description": "5\" Black T-Rex Continuous Hanger 7.5'",
+   "uom": "EA",
+   "pack_qty": 48,
+   "prices": {
+    "box": 838.66,
+    "piece": 17.47,
+    "partial_piece": 19.22
+   }
+  },
+  {
+   "item_nos": [
+    "M-6200 B95"
+   ],
+   "description": "6\" Black T-Rex Continuous Hanger 7.5'",
+   "uom": "EA",
+   "pack_qty": 34,
+   "prices": {
+    "box": 690.01,
+    "piece": 20.29,
+    "partial_piece": 22.32
+   }
+  },
+  {
+   "item_nos": [
+    "D-11500"
+   ],
+   "description": "5\" Double Pro Continuous Hanger 7'6\"",
+   "uom": "EA",
+   "pack_qty": 24,
+   "prices": {
+    "box": 625.77,
+    "piece": 26.07,
+    "partial_piece": 28.68
+   }
+  },
+  {
+   "item_nos": [
+    "D-11600"
+   ],
+   "description": "6\" Double Pro Continuous Hanger 7'6\"",
+   "uom": "EA",
+   "pack_qty": 24,
+   "prices": {
+    "box": 712.86,
+    "piece": 29.7,
+    "partial_piece": 32.67
+   }
+  },
+  {
+   "item_nos": [
+    "UCF-11500"
+   ],
+   "description": "5\" Double Pro Cut Free Universal Corners",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 77.39,
+    "piece": 7.74,
+    "partial_piece": 8.51
+   }
+  },
+  {
+   "item_nos": [
+    "UCF-11600"
+   ],
+   "description": "6\" Double Pro Cut Free Universal Hangers",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 76.14,
+    "piece": 7.61,
+    "partial_piece": 8.38
+   }
+  },
+  {
+   "item_nos": [
+    "190B"
+   ],
+   "description": "019 x 24\" Trim Coil (Boxed)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 147.78,
+    "piece": 147.78
+   }
+  },
+  {
+   "item_nos": [
+    "FL"
+   ],
+   "description": "019 x 2.25\" Flashing Coil (Boxed)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 104.71,
+    "piece": 104.71
+   }
+  },
+  {
+   "item_nos": [
+    "144",
+    "145"
+   ],
+   "description": "Triple-4 soffit 12\" x 12' (New Style)",
+   "uom": "EA",
+   "pack_qty": 16,
+   "prices": {
+    "box": 395.52,
+    "piece": 24.72,
+    "partial_piece": 27.19
+   }
+  },
+  {
+   "item_nos": [
+    "146",
+    "147"
+   ],
+   "description": "Quad-4 soffit 16\" x 12' (New Style)",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 373.37,
+    "piece": 31.11,
+    "partial_piece": 34.23
+   }
+  },
+  {
+   "item_nos": [
+    "139"
+   ],
+   "description": "1 1/2\" x 3\" Style D Roof Edge (Pinched Nose)",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 420.38,
+    "piece": 8.41,
+    "partial_piece": 9.25
+   }
+  },
+  {
+   "item_nos": [
+    "174"
+   ],
+   "description": "3/8\" F-Channel 12' (New Style)",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 232.83,
+    "piece": 9.31,
+    "partial_piece": 10.24
+   }
+  },
+  {
+   "item_nos": [
+    "173"
+   ],
+   "description": "3/8\" J-Channel 12' (New Style)",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 317.09,
+    "piece": 6.34,
+    "partial_piece": 6.98
+   }
+  },
+  {
+   "item_nos": [
+    "166"
+   ],
+   "description": "6\" .019 Gauge L-Style Fascia Cap 12'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 349.24,
+    "piece": 13.97,
+    "partial_piece": 15.37
+   }
+  },
+  {
+   "item_nos": [
+    "167"
+   ],
+   "description": "8\" .019 Gauge L-Style Fascia Cap 12'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 454.57,
+    "piece": 18.18,
+    "partial_piece": 20.0
+   }
+  },
+  {
+   "item_nos": [
+    "168"
+   ],
+   "description": "10\" .019 Gauge L-Style Fascia Cap 12'",
+   "uom": "EA",
+   "pack_qty": 25,
+   "prices": {
+    "box": 503.96,
+    "piece": 20.16,
+    "partial_piece": 22.17
+   }
+  },
+  {
+   "item_nos": [
+    "KF23A"
+   ],
+   "description": "2\" x 3\" Kwik Flip",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 83.99,
+    "piece": 7.0,
+    "partial_piece": 7.7
+   }
+  },
+  {
+   "item_nos": [
+    "KF34A"
+   ],
+   "description": "3\" x 4\" Kwik Flip",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 100.79,
+    "piece": 8.4,
+    "partial_piece": 9.24
+   }
+  },
+  {
+   "item_nos": [
+    "CB23"
+   ],
+   "description": "2\" x 3\" Convertabow",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 39.2,
+    "piece": 3.27,
+    "partial_piece": 3.59
+   }
+  },
+  {
+   "item_nos": [
+    "CB34"
+   ],
+   "description": "3\" x 4\" Convertabow",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 50.4,
+    "piece": 4.2,
+    "partial_piece": 4.62
+   }
+  },
+  {
+   "item_nos": [
+    "56A",
+    "56B"
+   ],
+   "description": "2\" x 3\" Downspout Hinges",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 72.24,
+    "piece": 6.02,
+    "partial_piece": 6.62
+   }
+  },
+  {
+   "item_nos": [
+    "57A"
+   ],
+   "description": "3\" x 4\" Downspout Hinges",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 72.24,
+    "piece": 6.02,
+    "partial_piece": 6.62
+   }
+  },
+  {
+   "item_nos": [
+    "ZIP"
+   ],
+   "description": "Zip Hinge (Universal)",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 62.74,
+    "piece": 5.23,
+    "partial_piece": 5.75
+   }
+  },
+  {
+   "item_nos": [
+    "P-56"
+   ],
+   "description": "Velcro tab set",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 36.95,
+    "piece": 3.08
+   }
+  },
+  {
+   "item_nos": [
+    "TL23"
+   ],
+   "description": "2\" x 3\" Tip Lok",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 1.64,
+    "piece": 1.64
+   }
+  },
+  {
+   "item_nos": [
+    "TL34"
+   ],
+   "description": "3\" x 4\" Tip Lok",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 2.14,
+    "piece": 2.14
+   }
+  },
+  {
+   "item_nos": [
+    "98"
+   ],
+   "description": "5\" Standard Wedges",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 66.85,
+    "piece": 0.67,
+    "partial_piece": 0.74
+   }
+  },
+  {
+   "item_nos": [
+    "98A"
+   ],
+   "description": "6\" Standard Wedges",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 59.27,
+    "piece": 1.19,
+    "partial_piece": 1.3
+   }
+  },
+  {
+   "item_nos": [
+    "P-BWD5V"
+   ],
+   "description": "5\" Variable Wedges (18\u00b0 to 34\u00b0)",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 141.41,
+    "piece": 1.41,
+    "partial_piece": 1.56
+   }
+  },
+  {
+   "item_nos": [
+    "9845 LG"
+   ],
+   "description": "5\" 45\u00b0 Wedges (42.5\u00b0 to 45\u00b0)",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 199.77,
+    "piece": 2.0,
+    "partial_piece": 2.2
+   }
+  },
+  {
+   "item_nos": [
+    "98T"
+   ],
+   "description": "5\" T-Wedge 4400 series (7\u00b0 to 45\u00b0)",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 43.72,
+    "piece": 0.87,
+    "partial_piece": 0.96
+   }
+  },
+  {
+   "item_nos": [
+    "98THD"
+   ],
+   "description": "6\" Jumbo T-Wedge 4500 series (7\u00b0 to 45\u00b0)",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 59.62,
+    "piece": 1.19,
+    "partial_piece": 1.31
+   }
+  },
+  {
+   "item_nos": [
+    "98HR"
+   ],
+   "description": "6\" Half Round T-Wedge (7\u00b0 to 45\u00b0)",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 62.32,
+    "piece": 1.25,
+    "partial_piece": 1.37
+   }
+  },
+  {
+   "item_nos": [
+    "71"
+   ],
+   "description": "5\" Slip Connector",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 153.59,
+    "piece": 3.07,
+    "partial_piece": 3.38
+   }
+  },
+  {
+   "item_nos": [
+    "71A"
+   ],
+   "description": "5\" Neoprene Slip Connector",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 428.69,
+    "piece": 35.72,
+    "partial_piece": 39.3
+   }
+  },
+  {
+   "item_nos": [
+    "72"
+   ],
+   "description": "6\" Neoprene Slip Connector",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 683.1,
+    "piece": 56.93,
+    "partial_piece": 62.62
+   }
+  },
+  {
+   "item_nos": [
+    "96"
+   ],
+   "description": "5\" Wrap Around Hangers",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 202.77,
+    "piece": 2.03,
+    "partial_piece": 2.23
+   }
+  },
+  {
+   "item_nos": [
+    "96A"
+   ],
+   "description": "6\" Wrap Around Hangers",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 844.76,
+    "piece": 16.9,
+    "partial_piece": 18.58
+   }
+  },
+  {
+   "item_nos": [
+    "242"
+   ],
+   "description": "3\" Basket Strainer",
+   "uom": "EA",
+   "pack_qty": 48,
+   "prices": {
+    "box": 258.38,
+    "piece": 5.38,
+    "partial_piece": 5.92
+   }
+  },
+  {
+   "item_nos": [
+    "243"
+   ],
+   "description": "4\" Basket Strainer",
+   "uom": "EA",
+   "pack_qty": 24,
+   "prices": {
+    "box": 127.58,
+    "piece": 5.32,
+    "partial_piece": 5.85
+   }
+  },
+  {
+   "item_nos": [
+    "239"
+   ],
+   "description": "Splash Guard",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 25.45,
+    "piece": 2.55,
+    "partial_piece": 2.8
+   }
+  },
+  {
+   "item_nos": [
+    "75"
+   ],
+   "description": "2\" x 3\" Funnels",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 194.34,
+    "piece": 16.2,
+    "partial_piece": 17.81
+   }
+  },
+  {
+   "item_nos": [
+    "76"
+   ],
+   "description": "3\" x 4\" Funnels",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 248.21,
+    "piece": 20.68,
+    "partial_piece": 22.75
+   }
+  },
+  {
+   "item_nos": [
+    "80"
+   ],
+   "description": "2\" x 3\" Rain Barrel Diverters",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 337.79,
+    "piece": 33.78,
+    "partial_piece": 37.16
+   }
+  },
+  {
+   "item_nos": [
+    "81"
+   ],
+   "description": "3\" x 4\" Rain Barrel Diverters",
+   "uom": "EA",
+   "pack_qty": 6,
+   "prices": {
+    "box": 269.61,
+    "piece": 44.93,
+    "partial_piece": 49.43
+   }
+  },
+  {
+   "item_nos": [
+    "FNY23"
+   ],
+   "description": "2\" x 3\" Y Funnel",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 253.0,
+    "piece": 25.3
+   }
+  },
+  {
+   "item_nos": [
+    "FNY34"
+   ],
+   "description": "3\" x 4\" Y Funnel",
+   "uom": "EA",
+   "pack_qty": 10,
+   "prices": {
+    "box": 369.05,
+    "piece": 36.91
+   }
+  },
+  {
+   "item_nos": [
+    "P-77"
+   ],
+   "description": "2\" x 3\" Downspout Tile Adapters (for 4\" tile)",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 214.25,
+    "piece": 4.28
+   }
+  },
+  {
+   "item_nos": [
+    "P-78"
+   ],
+   "description": "3\" x 4\" Downspout Tile Adapters (for 4\" tile)",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 214.25,
+    "piece": 4.28
+   }
+  },
+  {
+   "item_nos": [
+    "P-79"
+   ],
+   "description": "3\" x 4\" Downspout Tile Adapters (for 3\" tile)",
+   "uom": "EA",
+   "pack_qty": 50,
+   "prices": {
+    "box": 214.25,
+    "piece": 4.28
+   }
+  },
+  {
+   "item_nos": [
+    "P-76"
+   ],
+   "description": "4\" x 5\" Downspout Tile Adapters (for 6\" tile)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 16.43,
+    "piece": 16.43
+   }
+  },
+  {
+   "item_nos": [
+    "CW5"
+   ],
+   "description": "Vinyl Coil Wrap Protector for 5\" Coil",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 40.72,
+    "piece": 40.72
+   }
+  },
+  {
+   "item_nos": [
+    "CW6"
+   ],
+   "description": "Vinyl Coil Wrap Protector for 6\" Coil",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 41.65,
+    "piece": 41.65
+   }
+  },
+  {
+   "item_nos": [
+    "BVC"
+   ],
+   "description": "Barnett's Valley Controller",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 21.98,
+    "piece": 21.98
+   }
+  },
+  {
+   "item_nos": [
+    "121"
+   ],
+   "description": "OSI 5 oz. Squeeze Tube (white)",
+   "uom": "EA",
+   "pack_qty": 24,
+   "prices": {
+    "box": 136.65,
+    "piece": 5.69,
+    "partial_piece": 6.26
+   }
+  },
+  {
+   "item_nos": [
+    "121A"
+   ],
+   "description": "Ruscoe 4 oz. Squeeze Tube (silver)",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 44.01,
+    "piece": 3.67,
+    "partial_piece": 4.03
+   }
+  },
+  {
+   "item_nos": [
+    "122"
+   ],
+   "description": "Ultra Silicone (white/clear)",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 116.4,
+    "piece": 9.7,
+    "partial_piece": 10.67
+   }
+  },
+  {
+   "item_nos": [
+    "124"
+   ],
+   "description": "Ruscoe 12-1 (winter blend) (silver)",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 108.24,
+    "piece": 9.02,
+    "partial_piece": 9.92
+   }
+  },
+  {
+   "item_nos": [
+    "123"
+   ],
+   "description": "Ruscoe 12-3 (summer blend) (silver)",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 111.06,
+    "piece": 9.26,
+    "partial_piece": 10.18
+   }
+  },
+  {
+   "item_nos": [
+    "124A"
+   ],
+   "description": "Ruscoe #1 (winter blend) (silver)",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 91.37,
+    "piece": 7.61,
+    "partial_piece": 8.38
+   }
+  },
+  {
+   "item_nos": [
+    "123A"
+   ],
+   "description": "Ruscoe #2 (summer blend) (silver)",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 94.28,
+    "piece": 7.86,
+    "partial_piece": 8.64
+   }
+  },
+  {
+   "item_nos": [
+    "127"
+   ],
+   "description": "Geocel 2320 (white/clear/silver)",
+   "uom": "EA",
+   "pack_qty": 24,
+   "prices": {
+    "box": 213.93,
+    "piece": 8.91,
+    "partial_piece": 9.81
+   }
+  },
+  {
+   "item_nos": [
+    "127B BL"
+   ],
+   "description": "Geocel 4500 (Black)",
+   "uom": "EA",
+   "pack_qty": 24,
+   "prices": {
+    "box": 246.09,
+    "piece": 10.25,
+    "partial_piece": 11.28
+   }
+  },
+  {
+   "item_nos": [
+    "127B LG"
+   ],
+   "description": "Geocel 4500 (White)",
+   "uom": "EA",
+   "pack_qty": 24,
+   "prices": {
+    "box": 292.77,
+    "piece": 12.2,
+    "partial_piece": 13.42
+   }
+  },
+  {
+   "item_nos": [
+    "P-233"
+   ],
+   "description": "12oz Spray Paint (all colors)",
+   "uom": "EA",
+   "pack_qty": 12,
+   "prices": {
+    "box": 149.79,
+    "piece": 12.48
+   }
+  },
+  {
+   "item_nos": [
+    "101B"
+   ],
+   "description": "#8 x 1/2\" Painted Zip Screws (bag)",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 4.36,
+    "piece": 4.36
+   }
+  },
+  {
+   "item_nos": [
+    "99"
+   ],
+   "description": "#10 x 1 1/2\" Installation Screws",
+   "uom": "EA",
+   "pack_qty": 250,
+   "prices": {
+    "box": 10.64,
+    "piece": 10.64
+   }
+  },
+  {
+   "item_nos": [
+    "99G"
+   ],
+   "description": "#10 x 3\" Installation Screws",
+   "uom": "EA",
+   "pack_qty": 250,
+   "prices": {
+    "box": 25.22,
+    "piece": 25.22
+   }
+  },
+  {
+   "item_nos": [
+    "99E"
+   ],
+   "description": "#10 x 5\" Pole Barn Screws",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 15.83,
+    "piece": 15.83
+   }
+  },
+  {
+   "item_nos": [
+    "99 SS"
+   ],
+   "description": "#10 x 1 1/2\" Installation Screws",
+   "uom": "EA",
+   "pack_qty": 250,
+   "prices": {
+    "box": 24.4,
+    "piece": 24.4
+   }
+  },
+  {
+   "item_nos": [
+    "134B"
+   ],
+   "description": "Pop Rivets (bag)",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 2.98,
+    "piece": 2.98
+   }
+  },
+  {
+   "item_nos": [
+    "99MOLLY"
+   ],
+   "description": "Plastic Screw Molly",
+   "uom": "EA",
+   "pack_qty": 100,
+   "prices": {
+    "box": 3.73,
+    "piece": 3.73
+   }
+  },
+  {
+   "item_nos": [
+    "350 PRS"
+   ],
+   "description": "Standard Run-Out Stand (Plastic Vinyl Covering)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 203.0,
+    "piece": 203.0
+   }
+  },
+  {
+   "item_nos": [
+    "350 PRS2"
+   ],
+   "description": "Roller Top Run-Out Stand",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 241.28,
+    "piece": 241.28
+   }
+  },
+  {
+   "item_nos": [
+    "TURNSTYLE"
+   ],
+   "description": "Single Upright Turnstyle",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 373.52,
+    "piece": 373.52
+   }
+  },
+  {
+   "item_nos": [
+    "350 PS"
+   ],
+   "description": "Aluminum Ironman Spool",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 597.4,
+    "piece": 597.4
+   }
+  },
+  {
+   "item_nos": [
+    "350 MMC"
+   ],
+   "description": "Full Size Coil Cradle (Machine Mount)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 1066.04,
+    "piece": 1066.04
+   }
+  },
+  {
+   "item_nos": [
+    "350 FMC"
+   ],
+   "description": "Full Size Coil Cradle (Floor Mount)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 856.08,
+    "piece": 856.08
+   }
+  },
+  {
+   "item_nos": [
+    "350 PCC"
+   ],
+   "description": "Mini Floor Mount Coil Cradle (For coils 150# or less)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 395.56,
+    "piece": 395.56
+   }
+  },
+  {
+   "item_nos": [
+    "350 MMCM"
+   ],
+   "description": "Mini Machine Mount Coil Cradle (For coil 150# or less)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 554.48,
+    "piece": 554.48
+   }
+  },
+  {
+   "item_nos": [
+    "KO-REC23"
+   ],
+   "description": "2\"x3\" Lynch Rectangular Punch Kit",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 271.87,
+    "piece": 271.87
+   }
+  },
+  {
+   "item_nos": [
+    "KO-REC"
+   ],
+   "description": "3\"x4\" Lynch Rectangular Punch Kit",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 271.87,
+    "piece": 271.87
+   }
+  },
+  {
+   "item_nos": [
+    "KO-OVL"
+   ],
+   "description": "3\"x4\" Lynch Oval Punch Kit",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 271.87,
+    "piece": 271.87
+   }
+  },
+  {
+   "item_nos": [
+    "KO-REC45"
+   ],
+   "description": "4\"x5\" Lynch Rectangular Punch Kit",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 650.0,
+    "piece": 650.0
+   }
+  },
+  {
+   "item_nos": [
+    "P-420"
+   ],
+   "description": "1/2\" Tesa Tape",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 4.67,
+    "piece": 4.67
+   }
+  },
+  {
+   "item_nos": [
+    "P-407"
+   ],
+   "description": "Electricians Hammer",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 38.49,
+    "piece": 38.49
+   }
+  },
+  {
+   "item_nos": [
+    "P-408L"
+   ],
+   "description": "Folding Lock Back Utility Knife",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 9.97,
+    "piece": 9.97
+   }
+  },
+  {
+   "item_nos": [
+    "P-409A"
+   ],
+   "description": "Malco Outlet Punches (x-punch, 2 x 3, 3 x 4)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 127.15,
+    "piece": 127.15
+   }
+  },
+  {
+   "item_nos": [
+    "P-411"
+   ],
+   "description": "Malco Main Frame (used with outlet punch)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 238.74,
+    "piece": 238.74
+   }
+  },
+  {
+   "item_nos": [
+    "P-426"
+   ],
+   "description": "Petit Knock out punch (for 345 outlet)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 354.2,
+    "piece": 354.2
+   }
+  },
+  {
+   "item_nos": [
+    "P-405C"
+   ],
+   "description": "Newborn 150 Caulk Gun (12:1 Thrust Ratio)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 31.56,
+    "piece": 31.56
+   }
+  },
+  {
+   "item_nos": [
+    "P-405A"
+   ],
+   "description": "Newborn 250 Caulk Gun (18:1 Thrust Ratio)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 49.73,
+    "piece": 49.73
+   }
+  },
+  {
+   "item_nos": [
+    "P-405D"
+   ],
+   "description": "Newborn 290 Caulk Gun (22:1 Thrust Ratio)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 61.32,
+    "piece": 61.32
+   }
+  },
+  {
+   "item_nos": [
+    "P-406A"
+   ],
+   "description": "Economy Pop Rivet Gun",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 48.71,
+    "piece": 48.71
+   }
+  },
+  {
+   "item_nos": [
+    "P-406"
+   ],
+   "description": "2 in 1 Pop Rivet Gun",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 130.97,
+    "piece": 130.97
+   }
+  },
+  {
+   "item_nos": [
+    "P-402C"
+   ],
+   "description": "2 1/8\" Holesaw w/Pilot bit (for Lynch punch)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 44.06,
+    "piece": 44.06
+   }
+  },
+  {
+   "item_nos": [
+    "P-402"
+   ],
+   "description": "2 3/8\" Holesaw w/Pilot Bit",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 52.87,
+    "piece": 52.87
+   }
+  },
+  {
+   "item_nos": [
+    "P-402A"
+   ],
+   "description": "2 3/4\" Holesaw w/Pilot Bit",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 56.02,
+    "piece": 56.02
+   }
+  },
+  {
+   "item_nos": [
+    "P-402B"
+   ],
+   "description": "3 3/8\" Holesaw w/Pilot Bit",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 43.72,
+    "piece": 43.72
+   }
+  },
+  {
+   "item_nos": [
+    "P-401"
+   ],
+   "description": "Malco Endcap Crimper",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 90.2,
+    "piece": 90.2
+   }
+  },
+  {
+   "item_nos": [
+    "P-400"
+   ],
+   "description": "Malco Downspout Crimper",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 58.8,
+    "piece": 58.8
+   }
+  },
+  {
+   "item_nos": [
+    "P-404"
+   ],
+   "description": "1/4\" Head Magnetic Nut Driver 1 3/4\" Long",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 5.93,
+    "piece": 5.93
+   }
+  },
+  {
+   "item_nos": [
+    "P-404B"
+   ],
+   "description": "1/4\" Head Magnetic Nut Driver 4\" Long",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 13.32,
+    "piece": 13.32
+   }
+  },
+  {
+   "item_nos": [
+    "P-404A"
+   ],
+   "description": "1/4\" Head Magnetic Nut Driver 6\" Long",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 16.05,
+    "piece": 16.05
+   }
+  },
+  {
+   "item_nos": [
+    "P-404AI"
+   ],
+   "description": "1/4\" Head Imapct Rated Magnetic Nut Driver 6\" Long",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 15.06,
+    "piece": 15.06
+   }
+  },
+  {
+   "item_nos": [
+    "P-404D"
+   ],
+   "description": "1/4\" Head Magnetic Nut Driver 8\" Long",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 12.67,
+    "piece": 12.67
+   }
+  },
+  {
+   "item_nos": [
+    "P-419"
+   ],
+   "description": "Laddex Max Ladder Stabilizer",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 105.88,
+    "piece": 105.88
+   }
+  },
+  {
+   "item_nos": [
+    "P-419MP"
+   ],
+   "description": "Laddex Max Multi Pro Ladder Stabilizer (For outside corners)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 154.04,
+    "piece": 154.04
+   }
+  },
+  {
+   "item_nos": [
+    "P-419LL"
+   ],
+   "description": "Ladder Max Leveler",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 238.91,
+    "piece": 238.91
+   }
+  },
+  {
+   "item_nos": [
+    "P-419BU"
+   ],
+   "description": "Base Unit Ladder level (set of 2)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 91.63,
+    "piece": 91.63
+   }
+  },
+  {
+   "item_nos": [
+    "P-423SRL"
+   ],
+   "description": "3-pc. Avaition snips (right, left, straight)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 26.94,
+    "piece": 26.94
+   }
+  },
+  {
+   "item_nos": [
+    "P-423"
+   ],
+   "description": "Center Cut Aviation Snips",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 82.66,
+    "piece": 82.66
+   }
+  },
+  {
+   "item_nos": [
+    "P-423SC"
+   ],
+   "description": "Straight Cut Long Nose Snips",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 20.48,
+    "piece": 20.48
+   }
+  },
+  {
+   "item_nos": [
+    "P-423P"
+   ],
+   "description": "12\" Power Snips",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 44.1,
+    "piece": 44.1
+   }
+  },
+  {
+   "item_nos": [
+    "P-413"
+   ],
+   "description": "3\" Straight Sheet Metal Seamer",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 18.83,
+    "piece": 18.83
+   }
+  },
+  {
+   "item_nos": [
+    "P-413A"
+   ],
+   "description": "6\" Straight Sheet Metal Seamer",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 30.15,
+    "piece": 30.15
+   }
+  },
+  {
+   "item_nos": [
+    "P-TSHD"
+   ],
+   "description": "Heavy Duty Turbo Shear",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 169.45,
+    "piece": 169.45
+   }
+  },
+  {
+   "item_nos": [
+    "P-GLOVES"
+   ],
+   "description": "Gutter Gloves (Pair)",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 4.1,
+    "piece": 4.1
+   }
+  },
+  {
+   "item_nos": [
+    "VHT"
+   ],
+   "description": "Vampire Hanger Tool",
+   "uom": "EA",
+   "pack_qty": 1,
+   "prices": {
+    "box": 43.56,
+    "piece": 43.56
+   }
+  }
+ ],
+ "increases": [],
+ "notes": "Gutter coil: call for pricing."
+}

@@ -1,0 +1,244 @@
+{
+ "vendor_name": "Wausau Supply Company",
+ "document_type": "order_confirmation",
+ "effective_date": "2026-02-09",
+ "price_columns": [
+  {
+   "key": "net_price",
+   "label": "Sale price per U/M",
+   "unit": "uom"
+  }
+ ],
+ "items": [
+  {
+   "item_nos": [
+    "120016003"
+   ],
+   "description": "Chestnu 5/4X4X16 OSC DK Ced w/Nail Fin 1/pk30",
+   "uom": "PK",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 212.03
+   },
+   "qty": 4
+  },
+  {
+   "item_nos": [
+    "31466385"
+   ],
+   "description": "Chestnu 5/4X4X10 OSC DK Ced w/Nail Fin 1/pk30",
+   "uom": "PK",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 132.51
+   },
+   "qty": 2
+  },
+  {
+   "item_nos": [
+    "32325901"
+   ],
+   "description": "BR122 920 DK Chestnut, CT Cedar Blend 10.1oz(12)",
+   "uom": "CRT",
+   "pack_qty": 12,
+   "prices": {
+    "net_price": 81.48
+   },
+   "qty": 1
+  },
+  {
+   "item_nos": [
+    "244899586"
+   ],
+   "description": "Midnigh RS Stag SQRL DK Ced 12x48 (4/Pk- 144)",
+   "uom": "PK",
+   "pack_qty": 4,
+   "prices": {
+    "net_price": 96.56
+   },
+   "qty": 101
+  },
+  {
+   "item_nos": [
+    "244899586"
+   ],
+   "description": "Midnigh RS Stag SQRL DK Ced 12x48 (4/Pk- 144)",
+   "uom": "PK",
+   "pack_qty": 4,
+   "prices": {
+    "net_price": 96.56
+   },
+   "qty": 45
+  },
+  {
+   "item_nos": [
+    "244899586"
+   ],
+   "description": "Midnigh RS Stag SQRL DK Ced 12x48 (4/Pk- 144)",
+   "uom": "PK",
+   "pack_qty": 4,
+   "prices": {
+    "net_price": 96.56
+   },
+   "qty": 54
+  },
+  {
+   "item_nos": [
+    "244899719"
+   ],
+   "description": "Midnigh RS Strt SQRL DK Ced 12x48 (4/Pk- 144)",
+   "uom": "PK",
+   "pack_qty": 4,
+   "prices": {
+    "net_price": 96.56
+   },
+   "qty": 7
+  },
+  {
+   "item_nos": [
+    "164330896"
+   ],
+   "description": "25/Ct",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 15.75
+   },
+   "qty": 7
+  },
+  {
+   "item_nos": [
+    "198721156"
+   ],
+   "description": "Midnight Starter 1x8-16 Boral WG 2/PK (48/UT)",
+   "uom": "PK",
+   "pack_qty": 2,
+   "prices": {
+    "net_price": 308.51
+   },
+   "qty": 8
+  },
+  {
+   "item_nos": [
+    "205093504"
+   ],
+   "description": "Midnight Gallon DK Touch-up Kits",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 160.45
+   },
+   "qty": 1
+  },
+  {
+   "item_nos": [
+    "186402766"
+   ],
+   "description": "Chestnu Color Match Quart DK Touch-up Kits",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 59.93
+   },
+   "qty": 1
+  },
+  {
+   "item_nos": [
+    "164325138"
+   ],
+   "description": "Midnigh 8x11 - 4\" Univ Ced RigidMount DK (10)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 52.77
+   },
+   "qty": 2
+  },
+  {
+   "item_nos": [
+    "164325250"
+   ],
+   "description": "Midnigh 8x11 Blank Univ Ced RigidMount DK (10)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 52.77
+   },
+   "qty": 2
+  },
+  {
+   "item_nos": [
+    "205087361"
+   ],
+   "description": "#913 DK Midnight WM 4\" Hooded Vent 1/Ct",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 17.98
+   },
+   "qty": 1
+  },
+  {
+   "item_nos": [
+    "31525650"
+   ],
+   "description": "BL906 920 DK Midnight Bl Dynaflex Elas 10.1oz(12)",
+   "uom": "CRT",
+   "pack_qty": 12,
+   "prices": {
+    "net_price": 81.48
+   },
+   "qty": 1
+  },
+  {
+   "item_nos": [
+    "70920971"
+   ],
+   "description": "Chestnu 5/4X4X16' Ced DK Trim (2/Pk-120)",
+   "uom": "PK",
+   "pack_qty": 2,
+   "prices": {
+    "net_price": 89.78
+   },
+   "qty": 11
+  },
+  {
+   "item_nos": [
+    "186415464"
+   ],
+   "description": "Midnigh 5/4x3x16 ISC RBT Nail Fin BRSM 1/pk- 25",
+   "uom": "PK",
+   "pack_qty": 1,
+   "prices": {
+    "net_price": 172.5
+   },
+   "qty": 2
+  },
+  {
+   "item_nos": [
+    "182026253"
+   ],
+   "description": "Midnigh 5/4X2X16' Ced DK Trim (4/Pk-240)",
+   "uom": "PK",
+   "pack_qty": 4,
+   "prices": {
+    "net_price": 95.68
+   },
+   "qty": 4
+  },
+  {
+   "item_nos": [
+    "31539457"
+   ],
+   "description": "Ct Vinyl Siding Pallet DISCX",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 0.0
+   },
+   "qty": 1
+  }
+ ],
+ "increases": [],
+ "notes": "Order confirmation (actual price paid), LP SmartSide."
+}

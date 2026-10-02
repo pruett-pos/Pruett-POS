@@ -1,0 +1,415 @@
+{
+ "vendor_name": "CertainTeed (Saint-Gobain)",
+ "document_type": "price_list",
+ "effective_date": "2026-04-01",
+ "price_columns": [
+  {
+   "key": "color_car",
+   "label": "Color per carton",
+   "unit": "carton"
+  },
+  {
+   "key": "color_pc",
+   "label": "Color per piece",
+   "unit": "piece"
+  },
+  {
+   "key": "color_sq",
+   "label": "Color per square",
+   "unit": "square"
+  },
+  {
+   "key": "deluxe_car",
+   "label": "Deluxe per carton",
+   "unit": "carton"
+  },
+  {
+   "key": "deluxe_pc",
+   "label": "Deluxe per piece",
+   "unit": "piece"
+  },
+  {
+   "key": "deluxe_sq",
+   "label": "Deluxe per square",
+   "unit": "square"
+  }
+ ],
+ "items": [
+  {
+   "item_nos": [
+    "AL2020"
+   ],
+   "description": "Alum Urban Reserve Panel Solid SMO",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 436.8,
+    "color_sq": 455.0,
+    "deluxe_car": 459.78,
+    "deluxe_sq": 478.94
+   }
+  },
+  {
+   "item_nos": [
+    "AL2022"
+   ],
+   "description": "Alum Urban Reserve Soffit FV",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 436.8,
+    "color_sq": 455.0,
+    "deluxe_car": 459.78,
+    "deluxe_sq": 478.94
+   }
+  },
+  {
+   "item_nos": [
+    "AL1020"
+   ],
+   "description": "Alum Soffit T4 12\" Solid SMO STD",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 229.9,
+    "color_sq": 119.74
+   }
+  },
+  {
+   "item_nos": [
+    "AL1021"
+   ],
+   "description": "Alum Soffit T4 12\" CV SMO STD",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 229.9,
+    "color_sq": 119.74
+   }
+  },
+  {
+   "item_nos": [
+    "AL1022"
+   ],
+   "description": "Alum Soffit T4 12\" FV SMO STD",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 229.9,
+    "color_sq": 119.74
+   }
+  },
+  {
+   "item_nos": [
+    "AL1023"
+   ],
+   "description": "Alum Soffit T4 12\" Solid SMO PREM",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 264.38,
+    "color_sq": 137.7
+   }
+  },
+  {
+   "item_nos": [
+    "AL1024"
+   ],
+   "description": "Alum Soffit T4 12\" CV SMO PREM",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 264.38,
+    "color_sq": 137.7
+   }
+  },
+  {
+   "item_nos": [
+    "AL1025"
+   ],
+   "description": "Alum Soffit T4 12\" FV SMO PREM",
+   "uom": "SQ",
+   "pack_qty": 16,
+   "prices": {
+    "color_car": 264.38,
+    "color_sq": 137.7
+   }
+  },
+  {
+   "item_nos": [
+    "AL1030"
+   ],
+   "description": "Alum Soffit Quad 16\" SLD SMO STD",
+   "uom": "SQ",
+   "pack_qty": 12,
+   "prices": {
+    "color_car": 221.85,
+    "color_sq": 115.55
+   }
+  },
+  {
+   "item_nos": [
+    "AL1031"
+   ],
+   "description": "Alum Soffit Quad 16\" CV SMO STD",
+   "uom": "SQ",
+   "pack_qty": 12,
+   "prices": {
+    "color_car": 221.85,
+    "color_sq": 115.55
+   }
+  },
+  {
+   "item_nos": [
+    "AL1032"
+   ],
+   "description": "Alum Soffit Quad 16\" FV SMO STD",
+   "uom": "SQ",
+   "pack_qty": 12,
+   "prices": {
+    "color_car": 221.85,
+    "color_sq": 115.55
+   }
+  },
+  {
+   "item_nos": [
+    "AL1033"
+   ],
+   "description": "Alum Soffit Quad 16\" SLD SMO PREM",
+   "uom": "SQ",
+   "pack_qty": 12,
+   "prices": {
+    "color_car": 258.63,
+    "color_sq": 134.7
+   }
+  },
+  {
+   "item_nos": [
+    "AL1034"
+   ],
+   "description": "Alum Soffit Quad 16\" CV SMO PREM",
+   "uom": "SQ",
+   "pack_qty": 12,
+   "prices": {
+    "color_car": 258.63,
+    "color_sq": 134.7
+   }
+  },
+  {
+   "item_nos": [
+    "AL1035"
+   ],
+   "description": "Alum Soffit Quad 16\" FV SMO PREM",
+   "uom": "SQ",
+   "pack_qty": 12,
+   "prices": {
+    "color_car": 258.63,
+    "color_sq": 134.7
+   }
+  },
+  {
+   "item_nos": [
+    "AL1000"
+   ],
+   "description": "Alum Trim Coil 24\" x 50' Poly SMO",
+   "uom": "SQ",
+   "pack_qty": 1,
+   "prices": {
+    "color_car": 88.19,
+    "color_pc": 88.19
+   }
+  },
+  {
+   "item_nos": [
+    "AL1001"
+   ],
+   "description": "Alum Trim Coil 24\" x 50' PVC",
+   "uom": "SQ",
+   "pack_qty": 1,
+   "prices": {
+    "color_car": 138.66,
+    "color_pc": 138.66
+   }
+  },
+  {
+   "item_nos": [
+    "AL1002"
+   ],
+   "description": "Alum Trim Coil 24\" x 50' Poly R/S",
+   "uom": "SQ",
+   "pack_qty": 1,
+   "prices": {
+    "color_car": 106.93,
+    "color_pc": 106.93
+   }
+  },
+  {
+   "item_nos": [
+    "AL1040"
+   ],
+   "description": "Alum 3/8\" J-Channel SMO",
+   "uom": "SQ",
+   "pack_qty": 50,
+   "prices": {
+    "color_car": 195.42,
+    "color_pc": 3.91
+   }
+  },
+  {
+   "item_nos": [
+    "AL1043"
+   ],
+   "description": "Alum 3/8\" F-Channel SMO",
+   "uom": "SQ",
+   "pack_qty": 50,
+   "prices": {
+    "color_car": 373.58,
+    "color_pc": 7.47
+   }
+  },
+  {
+   "item_nos": [
+    "AL1050"
+   ],
+   "description": "Alum Fascia 6\" Ribbed SMO",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 258.63,
+    "color_pc": 10.78
+   }
+  },
+  {
+   "item_nos": [
+    "AL1051"
+   ],
+   "description": "Alum Fascia 6\" R/S",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 258.63,
+    "color_pc": 10.78
+   }
+  },
+  {
+   "item_nos": [
+    "AL1052"
+   ],
+   "description": "Alum Fascia 8\" Ribbed SMO",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 333.34,
+    "color_pc": 13.89
+   }
+  },
+  {
+   "item_nos": [
+    "AL1053"
+   ],
+   "description": "Alum Fascia 8\" R/S",
+   "uom": "SQ",
+   "pack_qty": 24,
+   "prices": {
+    "color_car": 333.34,
+    "color_pc": 13.89
+   }
+  },
+  {
+   "item_nos": [
+    "AL1060"
+   ],
+   "description": "Alum Drip Edge T 1-1/2\", 10'",
+   "uom": "SQ",
+   "pack_qty": 25,
+   "prices": {
+    "color_car": 109.5,
+    "color_pc": 4.38
+   }
+  },
+  {
+   "item_nos": [
+    "AL1061"
+   ],
+   "description": "Alum Drip Edge T 2\", 10'",
+   "uom": "SQ",
+   "pack_qty": 25,
+   "prices": {
+    "color_car": 133.47,
+    "color_pc": 5.34
+   }
+  },
+  {
+   "item_nos": [
+    "AL1040"
+   ],
+   "description": "Alum 3/8\" J-Channel SMO",
+   "uom": "SQ",
+   "pack_qty": 50,
+   "prices": {
+    "color_car": 195.42,
+    "color_pc": 3.91,
+    "deluxe_car": 201.16,
+    "deluxe_pc": 4.02
+   }
+  },
+  {
+   "item_nos": [
+    "AL2070"
+   ],
+   "description": "Alum Urban Resrv Starter Strip SMO",
+   "uom": "SQ",
+   "pack_qty": 22,
+   "prices": {
+    "color_car": 112.65,
+    "color_pc": 5.12,
+    "deluxe_car": 114.94,
+    "deluxe_pc": 5.22
+   }
+  },
+  {
+   "item_nos": [
+    "AL2040"
+   ],
+   "description": "Alum UR Outside Corner SMO",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "color_car": 139.08,
+    "color_pc": 13.91,
+    "deluxe_car": 140.24,
+    "deluxe_pc": 14.02
+   }
+  },
+  {
+   "item_nos": [
+    "AL2042"
+   ],
+   "description": "Alum Urban Reserve H-Trim SMO",
+   "uom": "SQ",
+   "pack_qty": 10,
+   "prices": {
+    "color_car": 139.08,
+    "color_pc": 13.91,
+    "deluxe_car": 140.24,
+    "deluxe_pc": 14.02
+   }
+  },
+  {
+   "item_nos": [
+    "AL2010"
+   ],
+   "description": "Alum UR Trim Coil 23.75\" x 25' SMO",
+   "uom": "SQ",
+   "pack_qty": 1,
+   "prices": {
+    "color_car": 61.48,
+    "color_pc": 61.48,
+    "deluxe_car": 64.55,
+    "deluxe_pc": 64.55
+   }
+  }
+ ],
+ "increases": [],
+ "notes": "Customer #1006020. Terms 2% 30 / net 31."
+}

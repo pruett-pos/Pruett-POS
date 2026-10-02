@@ -1,0 +1,148 @@
+{
+ "vendor_name": "Wausau Supply Company",
+ "document_type": "order_confirmation",
+ "effective_date": "2025-10-06",
+ "price_columns": [
+  {
+   "key": "net_price",
+   "label": "Sale price per U/M",
+   "unit": "uom"
+  }
+ ],
+ "items": [
+  {
+   "item_nos": [
+    "188384006"
+   ],
+   "description": "Onyx 4x9 3/8\" NGSL DK Ced Panel (45)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 120.86
+   },
+   "qty": 10
+  },
+  {
+   "item_nos": [
+    "188384004"
+   ],
+   "description": "Onyx 4x8 3/8\" NGSL DK Ced Panel (45)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 102.73
+   },
+   "qty": 22
+  },
+  {
+   "item_nos": [
+    "164326288"
+   ],
+   "description": "Onyx 19/32x3x16' Ced DK Trim (4/Pk-140)",
+   "uom": "PK",
+   "pack_qty": 4,
+   "prices": {
+    "net_price": 86.65
+   },
+   "qty": 26
+  },
+  {
+   "item_nos": [
+    "139714063"
+   ],
+   "description": "Onyx 5/4x4x16' Ced DK Trim (2/Pk-120)",
+   "uom": "PK",
+   "pack_qty": 2,
+   "prices": {
+    "net_price": 61.03
+   },
+   "qty": 7
+  },
+  {
+   "item_nos": [
+    "244899201"
+   ],
+   "description": "Onyx RS 9\" Stag SQRL DK Ced 9x48 (4/Pk- 192)",
+   "uom": "PK",
+   "pack_qty": 4,
+   "prices": {
+    "net_price": 79.0
+   },
+   "qty": 11
+  },
+  {
+   "item_nos": [
+    "150340870"
+   ],
+   "description": "Onyx 8oz DK Touch-up Bottle w/Brush (6)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 17.9
+   },
+   "qty": 1
+  },
+  {
+   "item_nos": [
+    "139714066"
+   ],
+   "description": "Onyx 5/4x4x10 OSC DK Ced w/Nail Fin 1/Pk30",
+   "uom": "PK",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 95.24
+   },
+   "qty": 2
+  },
+  {
+   "item_nos": [
+    "139714177"
+   ],
+   "description": "Onyx 5/4x4x16 OSC DK Ced w/Nail Fin 1/Pk30",
+   "uom": "PK",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 152.38
+   },
+   "qty": 2
+  },
+  {
+   "item_nos": [
+    "139714064"
+   ],
+   "description": "Onyx 5/4x6x16' Ced DK Trim (2/Pk-70)",
+   "uom": "PK",
+   "pack_qty": 2,
+   "prices": {
+    "net_price": 91.54
+   },
+   "qty": 2
+  },
+  {
+   "item_nos": [
+    "164327558"
+   ],
+   "description": "Onyx 16\"x16' 3/8 NGSE DK Ced Vertical Pnl (66)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 63.14
+   },
+   "qty": 38
+  },
+  {
+   "item_nos": [
+    "31539457"
+   ],
+   "description": "Ct Vinyl Siding Pallet (Returnable)",
+   "uom": "EA",
+   "pack_qty": null,
+   "prices": {
+    "net_price": 100.0
+   },
+   "qty": 1
+  }
+ ],
+ "increases": [],
+ "notes": "Order confirmation (actual price paid), LP SmartSide."
+}
