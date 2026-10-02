@@ -12,7 +12,7 @@
     "dev": "node --watch server/src/index.js",
     "migrate": "node server/src/migrate.js",
     "seed": "node server/src/seed.js",
-    "build": "cd web && npm install && npm run build",
+    "build": "cd web && npm install --include=dev && npm run build",
     "test": "node --test --test-concurrency=1 server/test/*.test.js"
   },
   "dependencies": {
